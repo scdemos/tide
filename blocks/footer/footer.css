@@ -234,3 +234,93 @@ footer .footer.footer-layout-legal a.button:any-link {
   background: none;
   box-shadow: none;
 }
+
+/* ==========================================================================
+   Layout: columns (metadata `footer-layout: columns`)
+   Section 1: brand-colored connect band (text + social icons). Section 2: columns block of link lists.
+   Section 3: related links. Section 4: legal link row + copyright.
+   ========================================================================== */
+footer:has(.footer-layout-columns) {
+  background-color: light-dark(var(--color-light), var(--color-obsidian));
+  color: var(--color-text);
+  border-top: 0;
+}
+
+footer .footer.footer-layout-columns > div {
+  max-width: none;
+  padding: var(--space-l) max(var(--content-padding-inline), calc((100% - 1200px) / 2));
+  text-align: left;
+}
+
+footer .footer.footer-layout-columns .section:first-child {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-m);
+  padding-block: var(--space-m);
+  background-color: var(--color-rust);
+  color: var(--color-light);
+  font-size: var(--body-font-size-s);
+}
+
+footer .footer.footer-layout-columns .section:first-child .default-content-wrapper {
+  display: flex;
+  align-items: center;
+  gap: var(--space-m);
+}
+
+footer .footer.footer-layout-columns .section:first-child ul {
+  display: flex;
+  gap: var(--space-s);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+footer .footer.footer-layout-columns .section:first-child .icon,
+footer .footer.footer-layout-columns .section:first-child .icon img {
+  display: block;
+  width: 24px;
+  height: 24px;
+}
+
+footer .footer.footer-layout-columns .columns > div {
+  gap: var(--space-xl);
+}
+
+footer .footer.footer-layout-columns ul {
+  margin: var(--space-s) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+footer .footer.footer-layout-columns li {
+  margin-bottom: var(--space-xs);
+  font-size: var(--body-font-size-xs);
+}
+
+footer .footer.footer-layout-columns a:any-link {
+  color: var(--color-card-dark);
+}
+
+footer .footer.footer-layout-columns .section:nth-child(n + 3) {
+  padding-block: var(--space-s);
+  font-size: var(--body-font-size-xs);
+}
+
+footer .footer.footer-layout-columns .section:nth-child(4) ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs) var(--space-m);
+}
+
+footer .footer.footer-layout-columns .section:nth-child(4) li {
+  margin: 0;
+}
+
+footer .footer.footer-layout-columns .section:nth-child(3) {
+  margin-top: 0;
+  border-top: 0;
+  padding-top: var(--space-s);
+}

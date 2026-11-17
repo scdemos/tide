@@ -1,0 +1,175 @@
+{
+  "url": "http://localhost:3000/our-commitment/tide-evo",
+  "status": 200,
+  "errors": [],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [
+    {
+      "t": "SIGN IN",
+      "ratio": 1
+    }
+  ],
+  "title": "Tide evo - Detergent Entirely Made of Clean | Tide",
+  "height": 3180,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 150
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 32,
+      "w": 200,
+      "h": 45,
+      "centered": false
+    },
+    "hiddenLinks": 41,
+    "items": [
+      "SHOP PRODUCTS",
+      "OUR COMMITMENT",
+      "HOW TO WASH CLOTHES",
+      "WHAT’S NEW",
+      "COUPONS AND DEALS",
+      "Search",
+      "Search",
+      "SIGN IN",
+      "P&G",
+      "Downy",
+      "Bounce",
+      "Contact Us",
+      "US - English"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 2343,
+      "w": 1440,
+      "h": 837
+    },
+    "bg": "rgb(251, 76, 6)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "center",
+      "left": 12,
+      "width": 76
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 2
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 150,
+        "w": 1440,
+        "h": 2129
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "ingredients woven together in a soft tile form"
+      ],
+      "labels": [],
+      "headings": [
+        "H1: meet Tide evo.",
+        "H2: 100% concentrated.",
+        "H2: powerful clean."
+      ],
+      "textChars": 181,
+      "links": 0,
+      "buttons": 0,
+      "images": 6,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 2279,
+        "w": 1440,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": null,
+    "mobile": {
+      "hasButton": true,
+      "revealed": 1
+    }
+  }
+}

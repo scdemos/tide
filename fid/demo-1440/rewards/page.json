@@ -1,0 +1,245 @@
+{
+  "url": "http://localhost:3000/rewards",
+  "status": 200,
+  "errors": [],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [
+    {
+      "t": "SIGN IN",
+      "ratio": 1
+    }
+  ],
+  "title": "Laundry Detergent Pods Coupons and Rewards | Tide",
+  "height": 2870,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 150
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 32,
+      "w": 200,
+      "h": 45,
+      "centered": false
+    },
+    "hiddenLinks": 41,
+    "items": [
+      "SHOP PRODUCTS",
+      "OUR COMMITMENT",
+      "HOW TO WASH CLOTHES",
+      "WHAT’S NEW",
+      "COUPONS AND DEALS",
+      "Search",
+      "Search",
+      "SIGN IN",
+      "P&G",
+      "Downy",
+      "Bounce",
+      "Contact Us",
+      "US - English"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 2033,
+      "w": 1440,
+      "h": 837
+    },
+    "bg": "rgb(251, 76, 6)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "center",
+      "left": 12,
+      "width": 76
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 2
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 150,
+        "w": 1440,
+        "h": 592
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 44
+      },
+      "carousel": false,
+      "texts": [
+        "Whether its removing a stain from your favorite shirt, getting odors out of workout clothes, or helping you save some money by turning to cold, Tide is dedicated to making laundry day easy for you."
+      ],
+      "labels": [],
+      "headings": [
+        "H1: Tide is here to help you"
+      ],
+      "textChars": 222,
+      "links": 0,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 742,
+        "w": 1440,
+        "h": 1031
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Stay up to date on deals, new products, and laundry tips from the leaders in laundry science.",
+        "Find laundry deals at your preferred store.",
+        "Lightweight, no mess, laundry tiles that instantly activate in water.",
+        "Let us help you get the best laundry results every time you do laundry.",
+        "It’s a fact of life that not all stains are created equal.",
+        "Say bye-bye to plastics bottles and hello to evo, Tide’s next evolution of clean.",
+        "How to Read Laundry Symbols",
+        "Laundry symbols seem like another language..."
+      ],
+      "labels": [],
+      "headings": [
+        "H2: Discover Tide"
+      ],
+      "textChars": 577,
+      "links": 3,
+      "buttons": 0,
+      "images": 12,
+      "forms": 0,
+      "inputs": [],
+      "columns": 5
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1773,
+        "w": 1440,
+        "h": 196
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [],
+      "labels": [
+        "AUTH STATE",
+        "SWITCH TO AUTHENTICATED"
+      ],
+      "headings": [
+        "H2: Tide Rewards"
+      ],
+      "textChars": 70,
+      "links": 0,
+      "buttons": 3,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1969,
+        "w": 1440,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": {
+      "expands": false
+    },
+    "mobile": {
+      "hasButton": true,
+      "revealed": 1
+    }
+  }
+}

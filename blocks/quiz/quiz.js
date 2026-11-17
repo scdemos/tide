@@ -79,10 +79,51 @@ function buildFeedback(isCorrect, snippets = []) {
 }
 
 /**
+ * Variant `quiz finder`: one question, answered with a dropdown, that leads to a page.
+ * Row "Questions", then a row with the sentence in column 1 (use … where the dropdown goes),
+ * then one row per option: option label in column 2, a link in column 4 (the destination).
+ */
+function decorateFinder(block) {
+  const rows = [...block.querySelectorAll(':scope > div')];
+  const start = rows.findIndex((r) => normalizeText(r.children[0]?.textContent).toLowerCase() === 'questions');
+  const [questionRow, ...optionRows] = rows.slice(start + 1);
+  const [before, after = ''] = normalizeText(questionRow?.children[0]?.textContent).split('…');
+  const options = optionRows.map((row) => ({
+    text: normalizeText(row.children[1]?.textContent),
+    link: row.children[3]?.querySelector('a'),
+  })).filter((o) => o.text);
+
+  block.textContent = '';
+  const id = 'quiz-finder-select';
+  const select = createTag('select', { id, class: 'quiz-finder-select' });
+  options.forEach((o, i) => select.append(createTag('option', { value: String(i) }, o.text)));
+  const cta = createTag('a', { class: 'button quiz-finder-cta' });
+  const update = () => {
+    const { link } = options[Number(select.value)] || {};
+    cta.href = link?.href || '#';
+    cta.textContent = link?.textContent.trim() || '';
+    cta.hidden = !link;
+  };
+  select.addEventListener('change', update);
+  update();
+  const form = createTag('div', { class: 'quiz-finder-form' }, [
+    createTag('label', { for: id, class: 'quiz-finder-before' }, before.trim()),
+    select,
+    createTag('span', { class: 'quiz-finder-after' }, after.trim()),
+    cta,
+  ]);
+  block.append(form);
+}
+
+/**
  * Loads and decorates the quiz block.
  * @param {Element} block The block element
  */
 export default function decorate(block) {
+  if (block.classList.contains('finder')) {
+    decorateFinder(block);
+    return;
+  }
   const { config, questions } = parseRows(block);
   if (!questions.length) {
     block.textContent = '';

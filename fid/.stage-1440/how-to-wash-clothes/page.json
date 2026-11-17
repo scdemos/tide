@@ -1,0 +1,229 @@
+{
+  "url": "https://tide.com/en-us/how-to-wash-clothes",
+  "status": 200,
+  "errors": [
+    "Connecting to 'https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json' violates the following Content Security Policy directive: \"connect-src 'self' *.pg.com *.lightyearapi.com *.t",
+    "Fetch API cannot load https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json. Refused to connect because it violates the document's Content Security Policy.",
+    "Error: TypeError: Failed to fetch\n    at S (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2418)\n    at f (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2666)\n    at _ (https://tide",
+    "Loading the script 'https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=DAQO1G3C77UCICERMUPG&lib=ttq' violates the following Content Security Policy directive: \"script-src 'self' 'unsafe-inline' '",
+    "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "",
+    "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(18), measurements: Array(2), exceptions: Array(1)} TypeError: Failed to fetch\n    at h",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, traces: Object, events: Array(2)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1), measurements: Array(2)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafa"
+  ],
+  "theme": null,
+  "declaredScheme": null,
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "lowContrast": [
+    {
+      "t": "",
+      "ratio": 1.1
+    },
+    {
+      "t": "",
+      "ratio": 1.1
+    }
+  ],
+  "title": "How to Wash Clothes - Laundry Tips and Tricks | Tide",
+  "height": 3138,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 175
+    },
+    "bg": "rgb(27, 51, 146)",
+    "rows": 4,
+    "sticky": false,
+    "logo": {
+      "x": 364,
+      "w": 32,
+      "h": 16,
+      "centered": false
+    },
+    "hiddenLinks": 40,
+    "items": [
+      "Skip to Content",
+      "Contact Us",
+      "US - English",
+      "Sign in",
+      "Search",
+      "Submit Search",
+      "Shop Products",
+      "Our Commitment",
+      "How to Wash Clothes",
+      "What’s New",
+      "Coupons and Deals"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 2233,
+      "w": 1440,
+      "h": 906
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 10,
+      "width": 79
+    },
+    "carousel": false,
+    "texts": [],
+    "labels": [],
+    "headings": [],
+    "textChars": 576,
+    "links": [
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 6,
+    "forms": 0,
+    "inputs": [],
+    "columns": 8
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 175,
+        "w": 1440,
+        "h": 572
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 10,
+        "width": 74
+      },
+      "carousel": false,
+      "texts": [
+        "Launder like a pro with our laundry tips on how to remove stains and get clean laundry. Whether you want to take the mystery out of doing the laundry, or you need some simple tricks on how to get rid of stains, Tide has you covered with our articles on clothing care and how to wash clothes. With our expert tips for laundry, clothes always look their best."
+      ],
+      "labels": [],
+      "headings": [
+        "H1: How to Wash Clothes"
+      ],
+      "textChars": 377,
+      "links": 0,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 746,
+        "w": 1440,
+        "h": 544
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 16,
+        "width": 68
+      },
+      "carousel": true,
+      "texts": [
+        "It’s a fact of life that not all stains are created equal.",
+        "Sometimes life isn’t easy, and neither is your laundry."
+      ],
+      "labels": [],
+      "headings": [],
+      "textChars": 175,
+      "links": 4,
+      "buttons": 0,
+      "images": 4,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1290,
+        "w": 1440,
+        "h": 693
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 14,
+        "width": 44
+      },
+      "carousel": true,
+      "texts": [
+        "The Art of Washing Different Fabrics and Colors",
+        "Whether it’s washing different fabrics and colors or caring for your children’s stuffed animals, we at Tide ...",
+        "How to Use a Washer: From Common Problems to HE Detergent",
+        "If you’re looking for a guide covering everything you’ve ever wanted to know about washing machines, from sudsing to HE machines ..."
+      ],
+      "labels": [],
+      "headings": [],
+      "textChars": 372,
+      "links": 4,
+      "buttons": 0,
+      "images": 4,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": null,
+    "mobile": {
+      "hasButton": true,
+      "revealed": 0
+    }
+  }
+}

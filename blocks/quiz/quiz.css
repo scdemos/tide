@@ -290,3 +290,29 @@
     padding-inline: var(--space-l);
   }
 }
+
+/* variant: finder (dropdown sentence that leads to a page) */
+.quiz.finder .quiz-finder-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-s) var(--space-m);
+  font-size: var(--body-font-size-xl);
+  font-weight: 500;
+}
+
+.quiz.finder .quiz-finder-select {
+  min-width: 11em;
+  padding: var(--space-xs) var(--space-m);
+  border: 0;
+  border-bottom: 3px solid var(--color-light);
+  border-radius: 0;
+  background-color: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 700;
+}
+
+.quiz.finder .quiz-finder-select option {
+  color: var(--color-ink);
+}

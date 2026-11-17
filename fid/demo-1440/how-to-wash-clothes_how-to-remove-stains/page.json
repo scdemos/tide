@@ -1,0 +1,287 @@
+{
+  "url": "http://localhost:3000/how-to-wash-clothes/how-to-remove-stains",
+  "status": 200,
+  "errors": [],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [
+    {
+      "t": "SIGN IN",
+      "ratio": 1
+    }
+  ],
+  "title": "How to Remove Stains - Stain Removal Guide | Tide",
+  "height": 5656,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 150
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 32,
+      "w": 200,
+      "h": 45,
+      "centered": false
+    },
+    "hiddenLinks": 41,
+    "items": [
+      "SHOP PRODUCTS",
+      "OUR COMMITMENT",
+      "HOW TO WASH CLOTHES",
+      "WHAT’S NEW",
+      "COUPONS AND DEALS",
+      "Search",
+      "Search",
+      "SIGN IN",
+      "P&G",
+      "Downy",
+      "Bounce",
+      "Contact Us",
+      "US - English"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 4819,
+      "w": 1440,
+      "h": 837
+    },
+    "bg": "rgb(251, 76, 6)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "center",
+      "left": 12,
+      "width": 76
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 2
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 150,
+        "w": 1440,
+        "h": 452
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 44
+      },
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [
+        "H1: How to remove stains"
+      ],
+      "textChars": 20,
+      "links": 0,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 602,
+        "w": 1440,
+        "h": 1125
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "It’s a fact of life that not all stains are created equal.",
+        "It’s important to know what type of stains you’re facing before choosing the most appropriate pretreatment and washing methods to use. Dealing with oily stain removal? You can use a dish soap to pretreat these spots, but for enzymatic stains, like blood, you’ll want to pretreat with a liquid detergent and a clean toothbrush. Follow along to learn how to remove stains from clothes most effectively and more details about some of the most common types."
+      ],
+      "labels": [],
+      "headings": [],
+      "textChars": 512,
+      "links": 0,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1727,
+        "w": 1440,
+        "h": 1234
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "A picture of a glass of red wine being spilled on a white garment",
+        "A picture of some charcoal",
+        "Spinach stain on a white garment"
+      ],
+      "labels": [],
+      "headings": [
+        "H2: Stain removal guide"
+      ],
+      "textChars": 182,
+      "links": 0,
+      "buttons": 0,
+      "images": 12,
+      "forms": 0,
+      "inputs": [],
+      "columns": 7
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 2962,
+        "w": 1440,
+        "h": 1793
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Your Comprehensive Stain Removal Guide",
+        "What are the different types of stains?",
+        "Butter or other oily stains",
+        "Stains from coffee and tea",
+        "How do you get rid of stains?",
+        "Different stains can require different removal processes. Now that you have an idea of what type of stain you have, the good news is that most stain removal procedures are similar, except when it comes to pretreating. Whatever the cause of the stain, however, here are a few tips on how to get stains out of your favorites:",
+        "Step 1. Remove the excess stain",
+        "Use a paper towel, a fork, or a brush to get rid of as much of the stain as possible on the garment. This is particularly important for stains that have already dried.",
+        "Here it’s important to know the type of stain you are dealing with, because each requires a different pretreatment method:",
+        "Pour liquid detergent directly onto the stain. Gently rub the fabric together, or use a soft-bristled toothbrush to help work the detergent into the garment's fibers in a circular motion.",
+        "Tide Ultra Stain Release Liquid Laundry Detergent",
+        "Presoak in a soaking solution of detergent and warm water, or pretreat them with dish detergent.",
+        "Rinse garments affected by body-soil stains under cold water.",
+        "Presoak and wash with powder detergent.",
+        "Tide Plus Bleach Powder Laundry Detergent",
+        "Presoak in cold water with liquid detergent.",
+        "Measure the correct amount of detergent according to the product labels and your load size.",
+        "Step 4. Wash your garments",
+        "Choose the most appropriate wash temperature and cycle setting according to the instructions given by the garment's fabric-care label.",
+        "Step 5. Check garments before drying",
+        "Don't put the clothes into the drier until the stain is completely removed, as drying will set the stain.",
+        "To prevent stains from setting in, remember to soak the garment in cold water as soon as possible. When it comes to removing stains, it’s usually best to use cold water if you're not sure about the stain type. However, for greasy stains, you'll want to use warm water."
+      ],
+      "labels": [],
+      "headings": [
+        "H2: Your Comprehensive Stain Removal Guide",
+        "H3: How do you get rid of stains?"
+      ],
+      "textChars": 2262,
+      "links": 5,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 4755,
+        "w": 1440,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": null,
+    "mobile": {
+      "hasButton": true,
+      "revealed": 1
+    }
+  }
+}
