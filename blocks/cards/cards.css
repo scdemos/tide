@@ -896,3 +896,14 @@
 .cards.carousel .cards-carousel-dot[aria-current='true']::before {
   background-color: var(--color-rust);
 }
+
+.cards.carousel picture,
+.cards.carousel picture img {
+  display: block;
+  width: 100%;
+}
+
+.cards.carousel picture img {
+  aspect-ratio: 322 / 210;
+  object-fit: cover;
+}
