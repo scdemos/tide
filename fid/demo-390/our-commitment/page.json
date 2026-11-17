@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Our Commitment - Learn More About The Brand | Tide",
-  "height": 4910,
+  "height": 5330,
   "header": {
     "box": {
       "x": 0,
@@ -35,7 +35,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 4125,
+      "y": 4545,
       "w": 390,
       "h": 785
     },
@@ -90,7 +90,30 @@
     {
       "box": {
         "x": 0,
-        "y": 96,
+        "y": 64,
+        "w": 390,
+        "h": 452
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 516,
         "w": 390,
         "h": 323
       },
@@ -121,7 +144,7 @@
     {
       "box": {
         "x": 0,
-        "y": 419,
+        "y": 839,
         "w": 390,
         "h": 3641
       },
@@ -161,7 +184,7 @@
     {
       "box": {
         "x": 0,
-        "y": 4061,
+        "y": 4481,
         "w": 390,
         "h": 64
       },

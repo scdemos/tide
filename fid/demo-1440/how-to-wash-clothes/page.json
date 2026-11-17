@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Wash Clothes - Laundry Tips and Tricks | Tide",
-  "height": 1724,
+  "height": 2304,
   "header": {
     "box": {
       "x": 0,
@@ -42,7 +42,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 1290,
+      "y": 1870,
       "w": 1440,
       "h": 434
     },
@@ -97,7 +97,30 @@
     {
       "box": {
         "x": 0,
-        "y": 182,
+        "y": 150,
+        "w": 1440,
+        "h": 612
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 762,
         "w": 1440,
         "h": 305
       },
@@ -128,7 +151,7 @@
     {
       "box": {
         "x": 0,
-        "y": 487,
+        "y": 1067,
         "w": 1440,
         "h": 739
       },
@@ -163,7 +186,7 @@
     {
       "box": {
         "x": 0,
-        "y": 1226,
+        "y": 1806,
         "w": 1440,
         "h": 64
       },

@@ -21,7 +21,7 @@
       {
         "name": "section count",
         "ok": true,
-        "detail": "3 → 3 (needs ≥ 50%)"
+        "detail": "3 → 4 (needs ≥ 50%)"
       },
       {
         "name": "headings",
@@ -40,8 +40,8 @@
       },
       {
         "name": "media",
-        "ok": false,
-        "detail": "10 → 8 (needs ≥ 90%)"
+        "ok": true,
+        "detail": "10 → 10 (needs ≥ 90%)"
       },
       {
         "name": "text",
@@ -193,7 +193,7 @@
       {
         "name": "section count",
         "ok": true,
-        "detail": "2 → 4 (needs ≥ 50%)"
+        "detail": "2 → 5 (needs ≥ 50%)"
       },
       {
         "name": "headings",
@@ -213,7 +213,7 @@
       {
         "name": "media",
         "ok": false,
-        "detail": "29 → 14 (needs ≥ 90%)"
+        "detail": "29 → 16 (needs ≥ 90%)"
       },
       {
         "name": "text",
@@ -279,7 +279,7 @@
       {
         "name": "section count",
         "ok": true,
-        "detail": "4 → 3 (needs ≥ 50%)"
+        "detail": "4 → 4 (needs ≥ 50%)"
       },
       {
         "name": "headings",
@@ -299,7 +299,7 @@
       {
         "name": "media",
         "ok": true,
-        "detail": "20 → 18 (needs ≥ 90%)"
+        "detail": "20 → 20 (needs ≥ 90%)"
       },
       {
         "name": "text",

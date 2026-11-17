@@ -1,4 +1,4 @@
-# Parity: NOT COMPLETE ❌ (round 17, 2026-11-17T18:22:08.526Z)
+# Parity: NOT COMPLETE ❌ (round 18, 2026-11-17T18:25:23.910Z)
 
 Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 + 390 (+ dark OS at 1440) · interactions exercised
 
@@ -7,11 +7,11 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 | / | ❌ | ✅ | ❌ | ✅ | 15 |
 | /shop | ❌ | ❌ | ❌ | ✅ | 12 |
 | /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 10 |
-| /our-commitment | ✅ | ✅ | ❌ | ✅ | 11 |
+| /our-commitment | ✅ | ✅ | ❌ | ✅ | 12 |
 | /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 10 |
-| /how-to-wash-clothes | ✅ | ❌ | ❌ | ✅ | 11 |
-| /how-to-wash-clothes/how-to-remove-stains | ❌ | ❌ | ❌ | ✅ | 11 |
-| /how-to-wash-clothes/how-to-do-laundry | ❌ | ✅ | ❌ | ✅ | 11 |
+| /how-to-wash-clothes | ✅ | ❌ | ❌ | ✅ | 12 |
+| /how-to-wash-clothes/how-to-remove-stains | ❌ | ❌ | ❌ | ✅ | 12 |
+| /how-to-wash-clothes/how-to-do-laundry | ❌ | ✅ | ❌ | ✅ | 12 |
 | /latest-news | ✅ | ❌ | ❌ | ✅ | 11 |
 | /rewards | ❌ | ❌ | ❌ | ✅ | 11 |
 | /contact-us | ✅ | ✅ | ❌ | ✅ | 12 |
@@ -54,18 +54,15 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#our-commitment_tide-evo)
 
 ### /how-to-wash-clothes — 3 rounds: ask the SC
-- [ ] **content · media @1440px**: 10 → 8 (needs ≥ 90%) (fid/fidelity-1440.html#how-to-wash-clothes)
 - [ ] **content · provenance @1440px**: 1/9 text blocks not on the original: "It’s important to keep your laundry products up, closed and " (fid/fidelity-1440.html#how-to-wash-clothes)
 - [ ] **look & feel · review @1440px**: no by-eye verdict in review.json (fid/fidelity-1440.html#how-to-wash-clothes)
-- [ ] **content · media @390px**: 10 → 8 (needs ≥ 90%) (fid/fidelity-390.html#how-to-wash-clothes)
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#how-to-wash-clothes)
 
 ### /how-to-wash-clothes/how-to-remove-stains — 3 rounds: ask the SC
-- [ ] **content · media @1440px**: 29 → 14 (needs ≥ 90%) (fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains)
+- [ ] **content · media @1440px**: 29 → 16 (needs ≥ 90%) (fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains)
 - [ ] **content · text @1440px**: 5506 → 4188 chars (needs ≥ 80%) (fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains)
 - [ ] **design · layout @1440px**: #0 "how to remove stains" columns 5 → 1 · #0 "how to remove stains" text width 45% → 83% · #1 "stain removal guide" columns 11 → 4 (fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains)
 - [ ] **look & feel · review @1440px**: no by-eye verdict in review.json (fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains)
-- [ ] **content · media @390px**: 16 → 14 (needs ≥ 90%) (fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains)
 - [ ] **content · text @390px**: 5506 → 4188 chars (needs ≥ 80%) (fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains)
 - [ ] **design · layout @390px**: #0 "how to remove stains" columns 3 → 1 (fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains)
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains)
