@@ -1760,7 +1760,6 @@ header .nav-layout-stacked nav .nav-tools a.button.nav-auth-link:any-link {
     left: -10000px;
   }
 
-  header .nav-layout-stacked nav .nav-utility > div:last-child,
   header .nav-layout-stacked nav .nav-utility p:not(:has(.nav-skip)),
   header .nav-layout-stacked nav .nav-utility ul {
     display: none;

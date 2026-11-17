@@ -1,11 +1,11 @@
-# Parity: NOT COMPLETE ❌ (round 10, 2026-11-17T17:56:02.672Z)
+# Parity: NOT COMPLETE ❌ (round 11, 2026-11-17T17:58:01.952Z)
 
 Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 + 390 (+ dark OS at 1440) · interactions exercised
 
 | page | design | content | look & feel | functionality | rounds |
 |---|---|---|---|---|---|
-| / | ❌ | ❌ | ❌ | ❌ | 9 |
-| /shop | ❌ | ❌ | ❌ | ✅ | 8 |
+| / | ❌ | ❌ | ❌ | ❌ | 10 |
+| /shop | ❌ | ❌ | ❌ | ✅ | 9 |
 | /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 8 |
 | /our-commitment | ❌ | ❌ | ❌ | ✅ | 8 |
 | /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 8 |
@@ -14,7 +14,7 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 | /how-to-wash-clothes/how-to-do-laundry | ❌ | ❌ | ❌ | ✅ | 8 |
 | /latest-news | ❌ | ❌ | ❌ | ✅ | 9 |
 | /rewards | ❌ | ❌ | ❌ | ✅ | 9 |
-| /contact-us | ❌ | ✅ | ❌ | ✅ | 8 |
+| /contact-us | ❌ | ✅ | ❌ | ✅ | 9 |
 | /rewards/loyalty/terms-and-conditions | ❌ | ❌ | ❌ | ✅ | 8 |
 
 ## Fix list

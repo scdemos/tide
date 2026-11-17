@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 10,
-  "at": "2026-11-17T17:56:02.672Z",
+  "iteration": 11,
+  "at": "2026-11-17T17:58:01.952Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -114,7 +114,7 @@
         "look & feel": "fail",
         "functionality": "fail"
       },
-      "rounds": 9
+      "rounds": 10
     },
     {
       "original": "/shop",
@@ -197,7 +197,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 9
     },
     {
       "original": "/shop/type/laundry-pods",
@@ -818,7 +818,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 9
     },
     {
       "original": "/rewards/loyalty/terms-and-conditions",
