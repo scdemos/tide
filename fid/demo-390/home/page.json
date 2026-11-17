@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 5657,
+  "height": 6739,
   "header": {
     "box": {
       "x": 0,
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 4998,
+      "y": 6080,
       "w": 390,
       "h": 659
     },
@@ -91,7 +91,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 652
+        "h": 452
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -99,33 +99,86 @@
       "layout": {
         "align": "start",
         "left": 4,
-        "width": 92
+        "width": 57
       },
-      "carousel": true,
-      "texts": [
-        "*vs. pretreating and washing with Tide Simply"
-      ],
+      "carousel": false,
+      "texts": [],
       "labels": [
-        "TRY IT NOW!",
-        "CHECK IT OUT!"
+        "TRY IT NOW!"
       ],
       "headings": [
-        "H1: new Tide evo",
-        "H2: Less Work, Better Clean*",
-        "H2: Tide POWER PODS®"
+        "H1: new Tide evo"
       ],
-      "textChars": 96,
-      "links": 3,
-      "buttons": 8,
-      "images": 6,
+      "textChars": 24,
+      "links": 1,
+      "buttons": 1,
+      "images": 2,
       "forms": 0,
       "inputs": [],
-      "columns": 4
+      "columns": 1
     },
     {
       "box": {
         "x": 0,
-        "y": 716,
+        "y": 516,
+        "w": 390,
+        "h": 484
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 1,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1000,
+        "w": 390,
+        "h": 820
+      },
+      "bg": "rgb(27, 51, 146)",
+      "tone": "dark",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Life is messier. Washing machines are bigger.",
+        "Bigger PODS® means a better clean in every load.",
+        "Now there’s a Tide Power PODS® product for any mess."
+      ],
+      "labels": [
+        "SHOP COLLECTION"
+      ],
+      "headings": [
+        "H2: POWER PODS®"
+      ],
+      "textChars": 175,
+      "links": 1,
+      "buttons": 1,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1820,
         "w": 390,
         "h": 1510
       },
@@ -160,9 +213,9 @@
     {
       "box": {
         "x": 0,
-        "y": 2226,
+        "y": 3330,
         "w": 390,
-        "h": 844
+        "h": 822
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -180,7 +233,9 @@
       ],
       "labels": [],
       "headings": [
-        "H2: Find the right Tide product for you"
+        "H2: Find the right Tide product for you",
+        "H3: Browse by type",
+        "H3: Browse by need"
       ],
       "textChars": 150,
       "links": 2,
@@ -193,7 +248,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3070,
+        "y": 4152,
         "w": 390,
         "h": 395
       },
@@ -226,7 +281,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3465,
+        "y": 4547,
         "w": 390,
         "h": 534
       },
@@ -259,7 +314,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3999,
+        "y": 5081,
         "w": 390,
         "h": 935
       },
@@ -292,7 +347,7 @@
     {
       "box": {
         "x": 0,
-        "y": 4934,
+        "y": 6016,
         "w": 390,
         "h": 64
       },
@@ -319,9 +374,7 @@
       "before": 1,
       "revealed": 0
     },
-    "carousel": {
-      "advances": true
-    },
+    "carousel": null,
     "tabs": null,
     "accordion": null,
     "mobile": {

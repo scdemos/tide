@@ -10,17 +10,11 @@
     "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
     "",
     "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
-    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
-    "Failed to load resource: net::ERR_FAILED",
-    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(16), measurements: Array(2), exceptions: Array(1)} TypeError: Failed to fetch\n    at h",
     "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
     "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
     "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
     "Failed to load resource: net::ERR_FAILED",
-    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
-    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
-    "Failed to load resource: net::ERR_FAILED",
-    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(17), measurements: Array(2), exceptions: Array(1)} TypeError: Failed to fetch\n    at h",
     "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
     "Failed to load resource: net::ERR_FAILED",
     "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
@@ -32,7 +26,10 @@
     "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
     "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
     "Failed to load resource: net::ERR_FAILED",
-    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, measurements: Array(2), events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafa"
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, measurements: Array(2), events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafa",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, traces: Object, events: Array(2)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-"
   ],
   "theme": null,
   "declaredScheme": null,
@@ -160,7 +157,7 @@
         "left": 10,
         "width": 79
       },
-      "carousel": true,
+      "carousel": false,
       "texts": [
         "It’s a fact of life that not all stains are created equal.",
         "Sometimes life isn’t easy, and neither is your laundry."
@@ -190,7 +187,7 @@
         "left": 10,
         "width": 79
       },
-      "carousel": true,
+      "carousel": false,
       "texts": [
         "The Art of Washing Different Fabrics and Colors",
         "Whether it’s washing different fabrics and colors or caring for your children’s stuffed animals, we at Tide ...",

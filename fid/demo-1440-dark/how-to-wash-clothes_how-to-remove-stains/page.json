@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 5170,
+  "height": 5485,
   "header": {
     "box": {
       "x": 0,
@@ -26,6 +26,9 @@
     },
     "hiddenLinks": 41,
     "items": [
+      "SKIP TO CONTENT",
+      "Contact Us",
+      "US - English",
       "SHOP PRODUCTS",
       "OUR COMMITMENT",
       "HOW TO WASH CLOTHES",
@@ -33,16 +36,13 @@
       "COUPONS AND DEALS",
       "Search",
       "Submit Search",
-      "SIGN IN",
-      "SKIP TO CONTENT",
-      "Contact Us",
-      "US - English"
+      "SIGN IN"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 4781,
+      "y": 5096,
       "w": 1440,
       "h": 388
     },
@@ -158,6 +158,39 @@
         "x": 0,
         "y": 1727,
         "w": 1440,
+        "h": 315
+      },
+      "bg": "rgb(27, 51, 146)",
+      "tone": "dark",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [],
+      "labels": [
+        "LEARN MORE"
+      ],
+      "headings": [
+        "H2: Stain removal guide"
+      ],
+      "textChars": 630,
+      "links": 1,
+      "buttons": 1,
+      "images": 0,
+      "forms": 0,
+      "inputs": [
+        "select:select-one:I have a"
+      ],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 2043,
+        "w": 1440,
         "h": 1215
       },
       "bg": "rgb(255, 255, 255)",
@@ -189,7 +222,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2943,
+        "y": 3258,
         "w": 1440,
         "h": 1775
       },
@@ -242,7 +275,7 @@
     {
       "box": {
         "x": 0,
-        "y": 4717,
+        "y": 5032,
         "w": 1440,
         "h": 64
       },

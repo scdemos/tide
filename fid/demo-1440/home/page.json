@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 3780,
+  "height": 4712,
   "header": {
     "box": {
       "x": 0,
@@ -26,6 +26,9 @@
     },
     "hiddenLinks": 41,
     "items": [
+      "SKIP TO CONTENT",
+      "Contact Us",
+      "US - English",
       "SHOP PRODUCTS",
       "OUR COMMITMENT",
       "HOW TO WASH CLOTHES",
@@ -33,16 +36,13 @@
       "COUPONS AND DEALS",
       "Search",
       "Submit Search",
-      "SIGN IN",
-      "SKIP TO CONTENT",
-      "Contact Us",
-      "US - English"
+      "SIGN IN"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 3392,
+      "y": 4324,
       "w": 1440,
       "h": 388
     },
@@ -99,41 +99,94 @@
         "x": 0,
         "y": 150,
         "w": 1440,
-        "h": 701
+        "h": 452
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 4,
-        "width": 38
+        "left": 8,
+        "width": 28
       },
-      "carousel": true,
-      "texts": [
-        "*vs. pretreating and washing with Tide Simply"
-      ],
+      "carousel": false,
+      "texts": [],
       "labels": [
-        "TRY IT NOW!",
-        "CHECK IT OUT!"
+        "TRY IT NOW!"
       ],
       "headings": [
-        "H1: new Tide evo",
-        "H2: Less Work, Better Clean*",
-        "H2: Tide POWER PODS®"
+        "H1: new Tide evo"
       ],
-      "textChars": 132,
-      "links": 3,
-      "buttons": 8,
-      "images": 6,
+      "textChars": 47,
+      "links": 1,
+      "buttons": 1,
+      "images": 2,
       "forms": 0,
       "inputs": [],
-      "columns": 5
+      "columns": 1
     },
     {
       "box": {
         "x": 0,
-        "y": 851,
+        "y": 602,
+        "w": 1440,
+        "h": 484
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 1,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1086,
+        "w": 1440,
+        "h": 703
+      },
+      "bg": "rgb(27, 51, 146)",
+      "tone": "dark",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 52,
+        "width": 40
+      },
+      "carousel": false,
+      "texts": [
+        "Life is messier. Washing machines are bigger.",
+        "Bigger PODS® means a better clean in every load.",
+        "Now there’s a Tide Power PODS® product for any mess."
+      ],
+      "labels": [
+        "SHOP COLLECTION"
+      ],
+      "headings": [
+        "H2: POWER PODS®"
+      ],
+      "textChars": 175,
+      "links": 1,
+      "buttons": 1,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1789,
         "w": 1440,
         "h": 528
       },
@@ -168,9 +221,9 @@
     {
       "box": {
         "x": 0,
-        "y": 1379,
+        "y": 2318,
         "w": 1440,
-        "h": 587
+        "h": 580
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -188,7 +241,9 @@
       ],
       "labels": [],
       "headings": [
-        "H2: Find the right Tide product for you"
+        "H2: Find the right Tide product for you",
+        "H3: Browse by type",
+        "H3: Browse by need"
       ],
       "textChars": 150,
       "links": 2,
@@ -196,12 +251,12 @@
       "images": 4,
       "forms": 0,
       "inputs": [],
-      "columns": 5
+      "columns": 7
     },
     {
       "box": {
         "x": 0,
-        "y": 1966,
+        "y": 2898,
         "w": 1440,
         "h": 315
       },
@@ -234,7 +289,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2281,
+        "y": 3213,
         "w": 1440,
         "h": 431
       },
@@ -267,7 +322,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2712,
+        "y": 3644,
         "w": 1440,
         "h": 615
       },
@@ -300,7 +355,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3328,
+        "y": 4260,
         "w": 1440,
         "h": 64
       },
@@ -327,9 +382,7 @@
       "before": 1,
       "revealed": 0
     },
-    "carousel": {
-      "advances": true
-    },
+    "carousel": null,
     "tabs": null,
     "accordion": null,
     "mobile": {

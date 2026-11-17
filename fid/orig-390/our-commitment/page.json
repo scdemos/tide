@@ -6,10 +6,10 @@
     "Fetch API cannot load https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json. Refused to connect because it violates the document's Content Security Policy.",
     "Error: TypeError: Failed to fetch\n    at S (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2418)\n    at f (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2666)\n    at _ (https://tide",
     "Loading the script 'https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=DAQO1G3C77UCICERMUPG&lib=ttq' violates the following Content Security Policy directive: \"script-src 'self' 'unsafe-inline' '",
-    "",
-    "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
     "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
     "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
+    "",
+    "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
     "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
     "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je"
   ],
@@ -168,7 +168,7 @@
         "left": 10,
         "width": 79
       },
-      "carousel": true,
+      "carousel": false,
       "texts": [
         "*vs. pretreating and washing with Tide Simply",
         "Meet Tide evo. Detergent entirely made of clean.",

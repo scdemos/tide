@@ -556,6 +556,7 @@ export default async function decorate(block) {
   if (utility) {
     document.querySelector('main')?.setAttribute('id', 'site-content');
     nav.prepend(utility);
+    utility.querySelectorAll('ul').forEach((ul) => { if (ul.querySelector('img')) ul.classList.add('nav-utility-logos'); });
   }
   const extras = layout === 'stacked' ? 4 : 3;
   if (tools && nav.children.length > extras) {

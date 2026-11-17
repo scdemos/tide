@@ -6,24 +6,12 @@
     "Fetch API cannot load https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json. Refused to connect because it violates the document's Content Security Policy.",
     "Error: TypeError: Failed to fetch\n    at S (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2418)\n    at f (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2666)\n    at _ (https://tide",
     "Loading the script 'https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=DAQO1G3C77UCICERMUPG&lib=ttq' violates the following Content Security Policy directive: \"script-src 'self' 'unsafe-inline' '",
-    "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
     "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
     "",
     "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
     "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
-    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
-    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
-    "Failed to load resource: net::ERR_FAILED",
-    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(18), measurements: Array(2), exceptions: Array(1)} TypeError: Failed to fetch\n    at h",
-    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
-    "Failed to load resource: net::ERR_FAILED",
-    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
-    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
-    "Failed to load resource: net::ERR_FAILED",
-    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, traces: Object, events: Array(2)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-",
-    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
-    "Failed to load resource: net::ERR_FAILED",
-    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1), measurements: Array(2)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafa"
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je"
   ],
   "theme": null,
   "declaredScheme": null,
@@ -164,7 +152,7 @@
         "left": 16,
         "width": 68
       },
-      "carousel": true,
+      "carousel": false,
       "texts": [
         "It’s a fact of life that not all stains are created equal.",
         "Sometimes life isn’t easy, and neither is your laundry."
@@ -194,7 +182,7 @@
         "left": 14,
         "width": 44
       },
-      "carousel": true,
+      "carousel": false,
       "texts": [
         "The Art of Washing Different Fabrics and Colors",
         "Whether it’s washing different fabrics and colors or caring for your children’s stuffed animals, we at Tide ...",

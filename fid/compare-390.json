@@ -117,12 +117,12 @@
       {
         "name": "section count",
         "ok": true,
-        "detail": "10 → 7 (needs ≥ 50%)"
+        "detail": "10 → 9 (needs ≥ 50%)"
       },
       {
         "name": "headings",
         "ok": false,
-        "detail": "missing: H1: 6x concentrated layers · H3: Browse by type · H3: Browse by need"
+        "detail": "missing: H1: 6x concentrated layers · H1: Less Work, Better Clean*"
       },
       {
         "name": "forms & inputs",
@@ -132,7 +132,7 @@
       {
         "name": "buttons",
         "ok": false,
-        "detail": "225 → 10 (visible CTAs, needs ≥ 80%)"
+        "detail": "225 → 4 (visible CTAs, needs ≥ 80%)"
       },
       {
         "name": "media",
@@ -142,7 +142,7 @@
       {
         "name": "text",
         "ok": false,
-        "detail": "3009 → 1576 chars (needs ≥ 80%)"
+        "detail": "3009 → 1679 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -167,22 +167,22 @@
       {
         "name": "carousels",
         "ok": false,
-        "detail": "4 → 1"
+        "detail": "3 → 0"
       },
       {
         "name": "functionality",
-        "ok": true,
-        "detail": "menus, mobile menu, carousel, tabs and accordion respond like the original"
+        "ok": false,
+        "detail": "carousel does not advance"
       },
       {
         "name": "layout",
         "ok": false,
-        "detail": "#0 \"new tide evo\" columns 1 → 4 · #1 \"less work better clean\" columns 1 → 4 · #2 \"power pods\" dark → light background · #2 \"power pods\" columns 1 → 4 · #6 \"stain removal guide\" center → start"
+        "detail": "#0 \"new tide evo\" text width 84% → 57% · #6 \"stain removal guide\" center → start"
       },
       {
         "name": "provenance",
         "ok": false,
-        "detail": "2/24 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\""
+        "detail": "2/26 text blocks not on the original: \"TRY IT NOW!\" · \"SHOP COLLECTION\""
       },
       {
         "name": "review",
@@ -262,8 +262,8 @@
       },
       {
         "name": "carousels",
-        "ok": false,
-        "detail": "2 → 0"
+        "ok": true,
+        "detail": "0 → 0"
       },
       {
         "name": "functionality",
@@ -358,8 +358,8 @@
       },
       {
         "name": "carousels",
-        "ok": false,
-        "detail": "1 → 0"
+        "ok": true,
+        "detail": "0 → 0"
       },
       {
         "name": "functionality",
@@ -405,7 +405,7 @@
       {
         "name": "section count",
         "ok": true,
-        "detail": "2 → 5 (needs ≥ 50%)"
+        "detail": "2 → 6 (needs ≥ 50%)"
       },
       {
         "name": "headings",
@@ -415,12 +415,12 @@
       {
         "name": "forms & inputs",
         "ok": true,
-        "detail": "forms 0 → 0, inputs 0 → 0"
+        "detail": "forms 0 → 0, inputs 0 → 1"
       },
       {
         "name": "buttons",
         "ok": false,
-        "detail": "225 → 0 (visible CTAs, needs ≥ 80%)"
+        "detail": "225 → 1 (visible CTAs, needs ≥ 80%)"
       },
       {
         "name": "media",
@@ -430,7 +430,7 @@
       {
         "name": "text",
         "ok": false,
-        "detail": "5506 → 2976 chars (needs ≥ 80%)"
+        "detail": "5506 → 3606 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -465,12 +465,12 @@
       {
         "name": "layout",
         "ok": false,
-        "detail": "#0 \"how to remove stains\" columns 3 → 1"
+        "detail": "#0 \"how to remove stains\" columns 3 → 1 · #1 \"stain removal guide\" light → dark background · #1 \"stain removal guide\" columns 3 → 1"
       },
       {
         "name": "provenance",
         "ok": false,
-        "detail": "3/31 text blocks not on the original: \"A picture of a glass of red wine being spilled on a white ga\" · \"A picture of some charcoal\" · \"Spinach stain on a white garment\""
+        "detail": "3/33 text blocks not on the original: \"A picture of a glass of red wine being spilled on a white ga\" · \"A picture of some charcoal\" · \"Spinach stain on a white garment\""
       },
       {
         "name": "review",
@@ -550,8 +550,8 @@
       },
       {
         "name": "carousels",
-        "ok": false,
-        "detail": "1 → 0"
+        "ok": true,
+        "detail": "0 → 0"
       },
       {
         "name": "functionality",
@@ -646,8 +646,8 @@
       },
       {
         "name": "carousels",
-        "ok": false,
-        "detail": "1 → 0"
+        "ok": true,
+        "detail": "0 → 0"
       },
       {
         "name": "functionality",
@@ -838,8 +838,8 @@
       },
       {
         "name": "carousels",
-        "ok": false,
-        "detail": "1 → 0"
+        "ok": true,
+        "detail": "0 → 0"
       },
       {
         "name": "functionality",
@@ -1020,8 +1020,8 @@
       },
       {
         "name": "health",
-        "ok": false,
-        "detail": "401 https://content.da.live/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 401 () | 401 https://content.da.live/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium"
+        "ok": true,
+        "detail": "no errors"
       },
       {
         "name": "header layout",
@@ -1030,8 +1030,8 @@
       },
       {
         "name": "carousels",
-        "ok": false,
-        "detail": "1 → 0"
+        "ok": true,
+        "detail": "0 → 0"
       },
       {
         "name": "functionality",
@@ -1116,8 +1116,8 @@
       },
       {
         "name": "health",
-        "ok": false,
-        "detail": "401 https://content.da.live/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 401 () | 401 https://content.da.live/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium"
+        "ok": true,
+        "detail": "no errors"
       },
       {
         "name": "header layout",
@@ -1126,8 +1126,8 @@
       },
       {
         "name": "carousels",
-        "ok": false,
-        "detail": "1 → 0"
+        "ok": true,
+        "detail": "0 → 0"
       },
       {
         "name": "functionality",

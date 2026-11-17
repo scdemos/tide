@@ -33,6 +33,9 @@
     },
     "hiddenLinks": 41,
     "items": [
+      "SKIP TO CONTENT",
+      "Contact Us",
+      "US - English",
       "SHOP PRODUCTS",
       "OUR COMMITMENT",
       "HOW TO WASH CLOTHES",
@@ -40,10 +43,7 @@
       "COUPONS AND DEALS",
       "Search",
       "Submit Search",
-      "SIGN IN",
-      "SKIP TO CONTENT",
-      "Contact Us",
-      "US - English"
+      "SIGN IN"
     ]
   },
   "footer": {
@@ -688,7 +688,7 @@
     {
       "box": {
         "x": 0,
-        "y": 11647,
+        "y": 11615,
         "w": 1440,
         "h": 268
       },

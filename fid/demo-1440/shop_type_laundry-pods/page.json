@@ -1,28 +1,7 @@
 {
   "url": "http://localhost:3000/shop/type/laundry-pods",
   "status": 200,
-  "errors": [
-    "401 https://content.da.live/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/cb9ec30b5fc6.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/f736c5e11c66.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/37aa98812eb4.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/e90a5c584e60.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/e5cd3edc9ac5.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/f979e49baea7.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()",
-    "401 https://content.da.live/scdemos/tide/media/806d0a41bfa8.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 401 ()"
-  ],
+  "errors": [],
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
@@ -47,6 +26,9 @@
     },
     "hiddenLinks": 41,
     "items": [
+      "SKIP TO CONTENT",
+      "Contact Us",
+      "US - English",
       "SHOP PRODUCTS",
       "OUR COMMITMENT",
       "HOW TO WASH CLOTHES",
@@ -54,10 +36,7 @@
       "COUPONS AND DEALS",
       "Search",
       "Submit Search",
-      "SIGN IN",
-      "SKIP TO CONTENT",
-      "Contact Us",
-      "US - English"
+      "SIGN IN"
     ]
   },
   "footer": {
@@ -200,7 +179,7 @@
     {
       "box": {
         "x": 0,
-        "y": 6682,
+        "y": 6714,
         "w": 1440,
         "h": 64
       },
