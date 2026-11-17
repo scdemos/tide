@@ -1,4 +1,4 @@
-# Parity: NOT COMPLETE ❌ (round 16, 2026-11-17T18:18:21.612Z)
+# Parity: NOT COMPLETE ❌ (round 17, 2026-11-17T18:22:08.526Z)
 
 Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 + 390 (+ dark OS at 1440) · interactions exercised
 
@@ -7,11 +7,11 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 | / | ❌ | ✅ | ❌ | ✅ | 15 |
 | /shop | ❌ | ❌ | ❌ | ✅ | 12 |
 | /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 10 |
-| /our-commitment | ✅ | ✅ | ❌ | ✅ | 10 |
+| /our-commitment | ✅ | ✅ | ❌ | ✅ | 11 |
 | /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 10 |
-| /how-to-wash-clothes | ✅ | ❌ | ❌ | ✅ | 10 |
-| /how-to-wash-clothes/how-to-remove-stains | ❌ | ❌ | ❌ | ✅ | 10 |
-| /how-to-wash-clothes/how-to-do-laundry | ❌ | ✅ | ❌ | ✅ | 10 |
+| /how-to-wash-clothes | ✅ | ❌ | ❌ | ✅ | 11 |
+| /how-to-wash-clothes/how-to-remove-stains | ❌ | ❌ | ❌ | ✅ | 11 |
+| /how-to-wash-clothes/how-to-do-laundry | ❌ | ✅ | ❌ | ✅ | 11 |
 | /latest-news | ✅ | ❌ | ❌ | ✅ | 11 |
 | /rewards | ❌ | ❌ | ❌ | ✅ | 11 |
 | /contact-us | ✅ | ✅ | ❌ | ✅ | 12 |

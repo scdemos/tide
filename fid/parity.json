@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 16,
-  "at": "2026-11-17T18:18:21.612Z",
+  "iteration": 17,
+  "at": "2026-11-17T18:22:08.526Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -181,7 +181,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 10
+      "rounds": 11
     },
     {
       "original": "/our-commitment/tide-evo",
@@ -284,7 +284,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 10
+      "rounds": 11
     },
     {
       "original": "/how-to-wash-clothes/how-to-remove-stains",
@@ -353,7 +353,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 10
+      "rounds": 11
     },
     {
       "original": "/how-to-wash-clothes/how-to-do-laundry",
@@ -394,7 +394,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 10
+      "rounds": 11
     },
     {
       "original": "/latest-news",

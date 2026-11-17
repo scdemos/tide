@@ -295,6 +295,28 @@
   color: var(--color-rust);
 }
 
+/* variant: image-only (banner image with no text) */
+.hero.image-only.block > div:first-child::after {
+  display: none;
+}
+
+main .hero.image-only.block > div:first-child picture img {
+  min-height: 0;
+  max-height: none;
+  height: auto;
+  opacity: 1;
+}
+
+.hero.image-only.block > div:last-child {
+  position: relative;
+  inset: auto;
+  padding: 0;
+}
+
+.hero.image-only.block > div:last-child > div {
+  max-width: none;
+}
+
 /* Banner variant: full-bleed photo, dark scrim, white sans text (Manulife IM style) */
 .hero.banner.block {
   background-color: var(--color-obsidian);
@@ -343,20 +365,4 @@ main .hero.banner.block > div:first-child picture img {
   .hero.banner.block > div:last-child {
     padding: 80px max(var(--content-padding-inline), calc((100vw - 1200px) / 2));
   }
-}
-
-/* variant: image-only (banner image with no text) */
-.hero.image-only.block > div:first-child::after {
-  display: none;
-}
-
-main .hero.image-only.block > div:first-child picture img {
-  min-height: 0;
-  max-height: none;
-  height: auto;
-  opacity: 1;
-}
-
-.hero.image-only.block > div:last-child > div {
-  max-width: none;
 }
