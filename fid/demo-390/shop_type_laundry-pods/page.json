@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Shop Pacs and Tide PODS® | Laundry Detergent - Tide",
-  "height": 7474,
+  "height": 6737,
   "header": {
     "box": {
       "x": 0,
@@ -35,7 +35,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 6689,
+      "y": 5951,
       "w": 390,
       "h": 785
     },
@@ -92,7 +92,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 3133
+        "h": 3604
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -110,26 +110,34 @@
         "Tide PODS® Laundry Detergent Spring Meadow Scent",
         "Tide Power PODS® with Downy Soft Boosters, Lasting Freshness with April Fresh Scent",
         "Tide PODS® Free and Gentle Laundry Detergent",
-        "Tide PODS® Ultra OXI Laundry Detergent"
+        "Tide PODS® Ultra OXI Laundry Detergent",
+        "How to Use Tide PODS®: Step-by-Step Guide for Clean Laundry",
+        "Unlock the Power of Tide PODS®: How They Work & Their Key Benefits"
       ],
-      "labels": [],
+      "labels": [
+        "Browse other products",
+        "Find Retailers",
+        "Load more products"
+      ],
       "headings": [
-        "H1: Shop Tide Laundry Pacs"
+        "H1: Shop Tide Laundry Pacs",
+        "H2: Filter by Need",
+        "H3: Related articles"
       ],
-      "textChars": 507,
-      "links": 20,
-      "buttons": 0,
-      "images": 20,
+      "textChars": 858,
+      "links": 28,
+      "buttons": 9,
+      "images": 14,
       "forms": 0,
       "inputs": [],
-      "columns": 1
+      "columns": 2
     },
     {
       "box": {
         "x": 0,
-        "y": 3197,
+        "y": 3668,
         "w": 390,
-        "h": 3428
+        "h": 2219
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -141,9 +149,6 @@
       },
       "carousel": false,
       "texts": [
-        "Unlock the Power of Tide PODS®: How They Work & Their Key Benefits",
-        "Tide PODS® Free and Gentle Laundry Detergent",
-        "Tide PODS® Ultra OXI Laundry Detergent",
         "Why shop laundry detergent pacs",
         "Tide PODS® and Tide POWER PODS® are super concentrated to deliver an effortless clean.",
         "Tide is recommended by washing machine manufacturers. Our laundry detergent pacs dissolve completely in any water conditions and temperatures to clean even the dirtiest loads.",
@@ -154,17 +159,17 @@
       ],
       "labels": [],
       "headings": [
-        "H2: Why shop laundry detergent pacs",
-        "H3: A Foolproof Clean",
+        "H3: Why shop laundry detergent pacs",
+        "H4: A Foolproof Clean",
         "H4: #1 Recommended",
         "H4: Extra cleaning power in the wash",
         "H3: Safety",
         "H4: The Most Important Ingredient in Tide® is Safety"
       ],
-      "textChars": 1080,
+      "textChars": 929,
       "links": 0,
       "buttons": 0,
-      "images": 18,
+      "images": 12,
       "forms": 0,
       "inputs": [],
       "columns": 1
@@ -172,7 +177,7 @@
     {
       "box": {
         "x": 0,
-        "y": 6625,
+        "y": 5887,
         "w": 390,
         "h": 64
       },

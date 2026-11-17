@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 19,
-  "at": "2026-11-17T18:34:01.458Z",
+  "iteration": 20,
+  "at": "2026-11-17T18:39:08.196Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -54,7 +54,7 @@
           "width": 1440,
           "check": "text",
           "column": "content",
-          "detail": "853 → 435 chars (needs ≥ 80%)",
+          "detail": "853 → 681 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-1440.html#shop"
         },
         {
@@ -68,7 +68,7 @@
           "width": 390,
           "check": "text",
           "column": "content",
-          "detail": "963 → 435 chars (needs ≥ 80%)",
+          "detail": "963 → 681 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-390.html#shop"
         },
         {
@@ -92,7 +92,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 13
+      "rounds": 14
     },
     {
       "original": "/shop/type/laundry-pods",
@@ -100,16 +100,16 @@
       "fails": [
         {
           "width": 1440,
-          "check": "text",
-          "column": "content",
-          "detail": "2028 → 1587 chars (needs ≥ 80%)",
+          "check": "layout",
+          "column": "design",
+          "detail": "#0 \"shop tide laundry pacs\" full-bleed false → true · #1 \"why shop laundry detergent pac\" columns 3 → 1",
           "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
         },
         {
           "width": 1440,
-          "check": "layout",
-          "column": "design",
-          "detail": "#0 \"shop tide laundry pacs\" full-bleed false → true · #0 \"shop tide laundry pacs\" columns 7 → 4 · #1 \"why shop laundry detergent pac\" columns 3 → 1",
+          "check": "provenance",
+          "column": "content",
+          "detail": "1/25 text blocks not on the original: \"Filter by Need\"",
           "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
         },
         {
@@ -121,23 +121,16 @@
         },
         {
           "width": 390,
-          "check": "headings",
-          "column": "content",
-          "detail": "missing: H3: Related articles",
-          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 390,
-          "check": "text",
-          "column": "content",
-          "detail": "2222 → 1587 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 390,
           "check": "layout",
           "column": "design",
           "detail": "#1 \"why shop laundry detergent pac\" columns 3 → 1",
+          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
+        },
+        {
+          "width": 390,
+          "check": "provenance",
+          "column": "content",
+          "detail": "1/25 text blocks not on the original: \"Filter by Need\"",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
         },
         {
@@ -154,7 +147,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 11
+      "rounds": 12
     },
     {
       "original": "/our-commitment",

@@ -1,12 +1,12 @@
-# Parity: NOT COMPLETE ❌ (round 19, 2026-11-17T18:34:01.458Z)
+# Parity: NOT COMPLETE ❌ (round 20, 2026-11-17T18:39:08.196Z)
 
 Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 + 390 (+ dark OS at 1440) · interactions exercised
 
 | page | design | content | look & feel | functionality | rounds |
 |---|---|---|---|---|---|
 | / | ❌ | ✅ | ❌ | ✅ | 16 |
-| /shop | ❌ | ❌ | ❌ | ✅ | 13 |
-| /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 11 |
+| /shop | ❌ | ❌ | ❌ | ✅ | 14 |
+| /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 12 |
 | /our-commitment | ✅ | ✅ | ❌ | ✅ | 13 |
 | /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 11 |
 | /how-to-wash-clothes | ✅ | ❌ | ❌ | ✅ | 13 |
@@ -26,19 +26,18 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#home)
 
 ### /shop — 3 rounds: ask the SC
-- [ ] **content · text @1440px**: 853 → 435 chars (needs ≥ 80%) (fid/fidelity-1440.html#shop)
+- [ ] **content · text @1440px**: 853 → 681 chars (needs ≥ 80%) (fid/fidelity-1440.html#shop)
 - [ ] **look & feel · review @1440px**: no by-eye verdict in review.json (fid/fidelity-1440.html#shop)
-- [ ] **content · text @390px**: 963 → 435 chars (needs ≥ 80%) (fid/fidelity-390.html#shop)
+- [ ] **content · text @390px**: 963 → 681 chars (needs ≥ 80%) (fid/fidelity-390.html#shop)
 - [ ] **design · layout @390px**: #0 "shop tide products" text width 45% → 83% (fid/fidelity-390.html#shop)
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#shop)
 
 ### /shop/type/laundry-pods — 3 rounds: ask the SC
-- [ ] **content · text @1440px**: 2028 → 1587 chars (needs ≥ 80%) (fid/fidelity-1440.html#shop_type_laundry-pods)
-- [ ] **design · layout @1440px**: #0 "shop tide laundry pacs" full-bleed false → true · #0 "shop tide laundry pacs" columns 7 → 4 · #1 "why shop laundry detergent pac" columns 3 → 1 (fid/fidelity-1440.html#shop_type_laundry-pods)
+- [ ] **design · layout @1440px**: #0 "shop tide laundry pacs" full-bleed false → true · #1 "why shop laundry detergent pac" columns 3 → 1 (fid/fidelity-1440.html#shop_type_laundry-pods)
+- [ ] **content · provenance @1440px**: 1/25 text blocks not on the original: "Filter by Need" (fid/fidelity-1440.html#shop_type_laundry-pods)
 - [ ] **look & feel · review @1440px**: no by-eye verdict in review.json (fid/fidelity-1440.html#shop_type_laundry-pods)
-- [ ] **content · headings @390px**: missing: H3: Related articles (fid/fidelity-390.html#shop_type_laundry-pods)
-- [ ] **content · text @390px**: 2222 → 1587 chars (needs ≥ 80%) (fid/fidelity-390.html#shop_type_laundry-pods)
 - [ ] **design · layout @390px**: #1 "why shop laundry detergent pac" columns 3 → 1 (fid/fidelity-390.html#shop_type_laundry-pods)
+- [ ] **content · provenance @390px**: 1/25 text blocks not on the original: "Filter by Need" (fid/fidelity-390.html#shop_type_laundry-pods)
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#shop_type_laundry-pods)
 
 ### /our-commitment — 3 rounds: ask the SC

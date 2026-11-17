@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 3567,
+  "height": 4595,
   "header": {
     "box": {
       "x": 0,
@@ -35,7 +35,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 2782,
+      "y": 3810,
       "w": 390,
       "h": 785
     },
@@ -92,7 +92,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 2654
+        "h": 3682
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -114,13 +114,17 @@
         "Tide Ultra OXI Boost High Efficiency Liquid Laundry Detergent",
         "Tide Plus A Touch of Downy Liquid Laundry Detergent"
       ],
-      "labels": [],
+      "labels": [
+        "Browse other products",
+        "Find Retailers",
+        "Load more products"
+      ],
       "headings": [
         "H1: Shop Tide Products"
       ],
-      "textChars": 435,
-      "links": 9,
-      "buttons": 0,
+      "textChars": 681,
+      "links": 20,
+      "buttons": 11,
       "images": 18,
       "forms": 0,
       "inputs": [],
@@ -129,7 +133,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2718,
+        "y": 3746,
         "w": 390,
         "h": 64
       },
