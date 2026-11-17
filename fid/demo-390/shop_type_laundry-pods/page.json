@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Shop Pacs and Tide PODS® | Laundry Detergent - Tide",
-  "height": 6737,
+  "height": 6755,
   "header": {
     "box": {
       "x": 0,
@@ -35,7 +35,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 5951,
+      "y": 5970,
       "w": 390,
       "h": 785
     },
@@ -92,7 +92,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 3604
+        "h": 3622
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -115,18 +115,18 @@
         "Unlock the Power of Tide PODS®: How They Work & Their Key Benefits"
       ],
       "labels": [
+        "Shop Products",
         "Browse other products",
         "Find Retailers",
         "Load more products"
       ],
       "headings": [
         "H1: Shop Tide Laundry Pacs",
-        "H2: Filter by Need",
-        "H3: Related articles"
+        "H2: Related articles"
       ],
-      "textChars": 858,
-      "links": 28,
-      "buttons": 9,
+      "textChars": 857,
+      "links": 29,
+      "buttons": 10,
       "images": 14,
       "forms": 0,
       "inputs": [],
@@ -135,7 +135,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3668,
+        "y": 3686,
         "w": 390,
         "h": 2219
       },
@@ -177,7 +177,7 @@
     {
       "box": {
         "x": 0,
-        "y": 5887,
+        "y": 5906,
         "w": 390,
         "h": 64
       },

@@ -7,10 +7,10 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 10111,
+  "height": 10118,
   "header": {
     "box": {
-      "x": 0,
+      "x": -8,
       "y": 0,
       "w": 390,
       "h": 64
@@ -34,8 +34,8 @@
   },
   "footer": {
     "box": {
-      "x": 0,
-      "y": 9326,
+      "x": -8,
+      "y": 9333,
       "w": 390,
       "h": 785
     },
@@ -44,7 +44,7 @@
     "bleed": true,
     "layout": {
       "align": "start",
-      "left": 4,
+      "left": 2,
       "width": 92
     },
     "carousel": false,
@@ -84,12 +84,12 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 7
+    "columns": 6
   },
   "sections": [
     {
       "box": {
-        "x": 0,
+        "x": -8,
         "y": 64,
         "w": 390,
         "h": 141
@@ -112,18 +112,18 @@
     },
     {
       "box": {
-        "x": 0,
+        "x": -8,
         "y": 205,
         "w": 390,
-        "h": 893
+        "h": 900
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 8,
-        "width": 83
+        "left": 10,
+        "width": 92
       },
       "carousel": false,
       "texts": [
@@ -144,8 +144,8 @@
     },
     {
       "box": {
-        "x": 0,
-        "y": 1098,
+        "x": -8,
+        "y": 1105,
         "w": 390,
         "h": 5682
       },
@@ -154,7 +154,7 @@
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 8,
+        "left": 6,
         "width": 83
       },
       "carousel": true,
@@ -203,8 +203,8 @@
     },
     {
       "box": {
-        "x": 0,
-        "y": 6780,
+        "x": -8,
+        "y": 6786,
         "w": 390,
         "h": 2482
       },
@@ -213,7 +213,7 @@
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 8,
+        "left": 6,
         "width": 83
       },
       "carousel": false,
@@ -260,8 +260,8 @@
     },
     {
       "box": {
-        "x": 0,
-        "y": 9294,
+        "x": -8,
+        "y": 9301,
         "w": 390,
         "h": 64
       },

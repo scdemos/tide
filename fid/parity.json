@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 21,
-  "at": "2026-11-17T18:40:57.770Z",
+  "iteration": 22,
+  "at": "2026-11-17T18:49:53.384Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -44,19 +44,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 16
+      "rounds": 17
     },
     {
       "original": "/shop",
       "demo": "/shop",
       "fails": [
-        {
-          "width": 1440,
-          "check": "text",
-          "column": "content",
-          "detail": "853 → 681 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#shop"
-        },
         {
           "width": 1440,
           "check": "review",
@@ -68,7 +61,7 @@
           "width": 390,
           "check": "text",
           "column": "content",
-          "detail": "963 → 681 chars (needs ≥ 80%)",
+          "detail": "963 → 695 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-390.html#shop"
         },
         {
@@ -92,7 +85,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 15
+      "rounds": 16
     },
     {
       "original": "/shop/type/laundry-pods",
@@ -103,13 +96,6 @@
           "check": "layout",
           "column": "design",
           "detail": "#0 \"shop tide laundry pacs\" full-bleed false → true · #1 \"why shop laundry detergent pac\" columns 3 → 1",
-          "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "1/25 text blocks not on the original: \"Filter by Need\"",
           "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
         },
         {
@@ -130,7 +116,7 @@
           "width": 390,
           "check": "provenance",
           "column": "content",
-          "detail": "1/25 text blocks not on the original: \"Filter by Need\"",
+          "detail": "1/25 text blocks not on the original: \"Shop Products\"",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
         },
         {
@@ -147,7 +133,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 13
+      "rounds": 14
     },
     {
       "original": "/our-commitment",
@@ -174,7 +160,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 13
+      "rounds": 14
     },
     {
       "original": "/our-commitment/tide-evo",
@@ -229,7 +215,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 11
+      "rounds": 12
     },
     {
       "original": "/how-to-wash-clothes",
@@ -263,7 +249,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 13
+      "rounds": 14
     },
     {
       "original": "/how-to-wash-clothes/how-to-remove-stains",
@@ -287,7 +273,7 @@
           "width": 1440,
           "check": "layout",
           "column": "design",
-          "detail": "#0 \"how to remove stains\" columns 5 → 1 · #0 \"how to remove stains\" text width 45% → 83% · #1 \"stain removal guide\" columns 11 → 4",
+          "detail": "#0 \"how to remove stains\" columns 5 → 1 · #1 \"stain removal guide\" columns 11 → 4",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
@@ -325,7 +311,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 13
+      "rounds": 14
     },
     {
       "original": "/how-to-wash-clothes/how-to-do-laundry",
@@ -366,7 +352,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 13
+      "rounds": 14
     },
     {
       "original": "/latest-news",
@@ -400,7 +386,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 12
+      "rounds": 13
     },
     {
       "original": "/rewards",
@@ -441,7 +427,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 12
+      "rounds": 13
     },
     {
       "original": "/contact-us",
@@ -468,7 +454,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 13
+      "rounds": 14
     },
     {
       "original": "/rewards/loyalty/terms-and-conditions",
@@ -502,7 +488,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 11
+      "rounds": 12
     }
   ]
 }

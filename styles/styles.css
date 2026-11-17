@@ -613,7 +613,8 @@ article.article-body > .section > div {
 }
 
 /* section-metadata style=narrow: text column about half the content width, left aligned */
-main > .section.narrow > .default-content-wrapper {
+main > .section.narrow > .default-content-wrapper,
+article.article-body > .section.narrow > .default-content-wrapper {
   max-width: none;
   margin-inline: 0;
   padding-inline: 0;

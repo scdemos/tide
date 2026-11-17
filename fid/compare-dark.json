@@ -1,5 +1,860 @@
 [
   {
+    "slug": "contact-us",
+    "demoSlug": "contact-us",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "1 → 2 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 1, inputs 0 → 4"
+      },
+      {
+        "name": "buttons",
+        "ok": true,
+        "detail": "0 → 0 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": true,
+        "detail": "0 → 0 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": true,
+        "detail": "0 → 93 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": true,
+        "detail": "0 → 0"
+      },
+      {
+        "name": "layout",
+        "ok": true,
+        "detail": "alignment, tone, bleed, columns and width match"
+      }
+    ]
+  },
+  {
+    "slug": "home",
+    "demoSlug": "home",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "10 → 9 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": false,
+        "detail": "225 → 84 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": true,
+        "detail": "25 → 24 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": false,
+        "detail": "3009 → 1814 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": false,
+        "detail": "3 → 2"
+      },
+      {
+        "name": "layout",
+        "ok": false,
+        "detail": "#3 \"see what we ve been working on\" columns 1 → 4 · #3 \"see what we ve been working on\" text width 79% → 110% · #5 \"find the right tide product fo\" columns 3 → 7 · #8 \"learn more\" columns 1 → 3"
+      },
+      {
+        "name": "provenance",
+        "ok": false,
+        "detail": "5/51 text blocks not on the original: \"Can’t find the right stain?\" · \"try it now!\" · \"Check it out!\" · \"Shop Collection\""
+      }
+    ]
+  },
+  {
+    "slug": "how-to-wash-clothes",
+    "demoSlug": "how-to-wash-clothes",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "3 → 4 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": true,
+        "detail": "0 → 0 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": true,
+        "detail": "10 → 10 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": true,
+        "detail": "924 → 1108 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": true,
+        "detail": "0 → 0"
+      },
+      {
+        "name": "layout",
+        "ok": true,
+        "detail": "alignment, tone, bleed, columns and width match"
+      },
+      {
+        "name": "provenance",
+        "ok": false,
+        "detail": "1/9 text blocks not on the original: \"It’s important to keep your laundry products up, closed and \""
+      }
+    ]
+  },
+  {
+    "slug": "how-to-wash-clothes_how-to-do-laundry",
+    "demoSlug": "how-to-wash-clothes_how-to-do-laundry",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "2 → 2 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": false,
+        "detail": "3 → 1 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": true,
+        "detail": "32 → 32 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": true,
+        "detail": "27505 → 26782 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": true,
+        "detail": "0 → 0"
+      },
+      {
+        "name": "layout",
+        "ok": false,
+        "detail": "#0 \"how to do laundry\" columns 5 → 2 · #0 \"how to do laundry\" text width 45% → 83%"
+      },
+      {
+        "name": "provenance",
+        "ok": false,
+        "detail": "2/91 text blocks not on the original: \"How to Do Laundry: Your Comprehensive Guide | Tide\" · \"Download now\""
+      }
+    ]
+  },
+  {
+    "slug": "how-to-wash-clothes_how-to-remove-stains",
+    "demoSlug": "how-to-wash-clothes_how-to-remove-stains",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "2 → 5 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": false,
+        "detail": "227 → 76 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": false,
+        "detail": "29 → 16 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": false,
+        "detail": "5506 → 4188 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": true,
+        "detail": "1 → 1"
+      },
+      {
+        "name": "layout",
+        "ok": false,
+        "detail": "#0 \"how to remove stains\" columns 5 → 1 · #1 \"stain removal guide\" columns 11 → 4"
+      },
+      {
+        "name": "provenance",
+        "ok": false,
+        "detail": "4/53 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\""
+      }
+    ]
+  },
+  {
+    "slug": "latest-news",
+    "demoSlug": "latest-news",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "1 → 5 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": true,
+        "detail": "0 → 4 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": true,
+        "detail": "36 → 36 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": true,
+        "detail": "2089 → 1955 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": true,
+        "detail": "0 → 0"
+      },
+      {
+        "name": "layout",
+        "ok": true,
+        "detail": "alignment, tone, bleed, columns and width match"
+      },
+      {
+        "name": "provenance",
+        "ok": true,
+        "detail": "35 text blocks, all from the original"
+      }
+    ]
+  },
+  {
+    "slug": "our-commitment",
+    "demoSlug": "our-commitment",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "4 → 4 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": false,
+        "detail": "1 → 0 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": true,
+        "detail": "20 → 20 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": true,
+        "detail": "1340 → 1341 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": true,
+        "detail": "0 → 0"
+      },
+      {
+        "name": "layout",
+        "ok": true,
+        "detail": "alignment, tone, bleed, columns and width match"
+      },
+      {
+        "name": "provenance",
+        "ok": true,
+        "detail": "13 text blocks, all from the original"
+      }
+    ]
+  },
+  {
+    "slug": "our-commitment_tide-evo",
+    "demoSlug": "our-commitment_tide-evo",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "1 → 2 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": false,
+        "detail": "4 → 0 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": false,
+        "detail": "9 → 6 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": true,
+        "detail": "226 → 181 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": false,
+        "detail": "1 → 0"
+      },
+      {
+        "name": "layout",
+        "ok": false,
+        "detail": "#0 \"meet tide evo\" center → start · #0 \"meet tide evo\" columns 6 → 1"
+      },
+      {
+        "name": "provenance",
+        "ok": false,
+        "detail": "1/2 text blocks not on the original: \"ingredients woven together in a soft tile form\""
+      }
+    ]
+  },
+  {
+    "slug": "rewards",
+    "demoSlug": "rewards",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "6 → 4 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": true,
+        "detail": "0 → 3 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": true,
+        "detail": "16 → 16 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": true,
+        "detail": "866 → 869 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": true,
+        "detail": "0 → 0"
+      },
+      {
+        "name": "layout",
+        "ok": false,
+        "detail": "#1 \"discover tide\" columns 1 → 5"
+      },
+      {
+        "name": "provenance",
+        "ok": false,
+        "detail": "2/12 text blocks not on the original: \"AUTH STATE\" · \"SWITCH TO AUTHENTICATED\""
+      }
+    ]
+  },
+  {
+    "slug": "rewards_loyalty_terms-and-conditions",
+    "demoSlug": "rewards_loyalty_terms-and-conditions",
+    "checks": [
+      {
+        "name": "side rail",
+        "ok": true,
+        "detail": "n/a"
+      },
+      {
+        "name": "header items",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "footer links",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "section count",
+        "ok": true,
+        "detail": "2 → 24 (needs ≥ 50%)"
+      },
+      {
+        "name": "headings",
+        "ok": true,
+        "detail": "all present"
+      },
+      {
+        "name": "forms & inputs",
+        "ok": true,
+        "detail": "forms 0 → 0, inputs 0 → 0"
+      },
+      {
+        "name": "buttons",
+        "ok": true,
+        "detail": "0 → 0 (visible CTAs, needs ≥ 80%)"
+      },
+      {
+        "name": "media",
+        "ok": true,
+        "detail": "0 → 0 (needs ≥ 90%)"
+      },
+      {
+        "name": "text",
+        "ok": true,
+        "detail": "30304 → 30234 chars (needs ≥ 80%)"
+      },
+      {
+        "name": "color scheme",
+        "ok": true,
+        "detail": "declared light → rendered light (bg rgb(255, 255, 255))"
+      },
+      {
+        "name": "readability",
+        "ok": true,
+        "detail": "no text below 3:1"
+      },
+      {
+        "name": "health",
+        "ok": true,
+        "detail": "no errors"
+      },
+      {
+        "name": "header layout",
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
+      },
+      {
+        "name": "carousels",
+        "ok": true,
+        "detail": "0 → 0"
+      },
+      {
+        "name": "layout",
+        "ok": false,
+        "detail": "#0 \"loyalty program full terms and\" text width 59% → 83%"
+      },
+      {
+        "name": "provenance",
+        "ok": false,
+        "detail": "5/104 text blocks not on the original: \"Each survey or quiz can be completed only once\" · \"Points may vary between 5, 10, 15 at discretion of Program\" · \"5 receipts/month limit $500 in laundry care products/month l\" · \"1 point/$1 spent on Tide products 5 bonus points for SUD (po\""
+      }
+    ]
+  },
+  {
     "slug": "shop",
     "demoSlug": "shop",
     "checks": [
@@ -36,7 +891,7 @@
       {
         "name": "buttons",
         "ok": true,
-        "detail": "10 → 11 (visible CTAs, needs ≥ 80%)"
+        "detail": "10 → 12 (visible CTAs, needs ≥ 80%)"
       },
       {
         "name": "media",
@@ -45,8 +900,8 @@
       },
       {
         "name": "text",
-        "ok": false,
-        "detail": "853 → 681 chars (needs ≥ 80%)"
+        "ok": true,
+        "detail": "853 → 695 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -81,7 +936,7 @@
       {
         "name": "provenance",
         "ok": false,
-        "detail": "1/13 text blocks not on the original: \"Shop Tide Products\""
+        "detail": "1/14 text blocks not on the original: \"Shop Tide Products\""
       }
     ]
   },
@@ -122,7 +977,7 @@
       {
         "name": "buttons",
         "ok": true,
-        "detail": "11 → 9 (visible CTAs, needs ≥ 80%)"
+        "detail": "11 → 10 (visible CTAs, needs ≥ 80%)"
       },
       {
         "name": "media",
@@ -132,7 +987,7 @@
       {
         "name": "text",
         "ok": true,
-        "detail": "2028 → 1787 chars (needs ≥ 80%)"
+        "detail": "2028 → 1786 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -166,8 +1021,8 @@
       },
       {
         "name": "provenance",
-        "ok": false,
-        "detail": "1/25 text blocks not on the original: \"Filter by Need\""
+        "ok": true,
+        "detail": "25 text blocks, all from the original"
       }
     ]
   }

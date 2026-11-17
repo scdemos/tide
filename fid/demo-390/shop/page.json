@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 4595,
+  "height": 4655,
   "header": {
     "box": {
       "x": 0,
@@ -35,7 +35,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 3810,
+      "y": 3870,
       "w": 390,
       "h": 785
     },
@@ -92,7 +92,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 3682
+        "h": 3742
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -115,6 +115,7 @@
         "Tide Plus A Touch of Downy Liquid Laundry Detergent"
       ],
       "labels": [
+        "Shop Products",
         "Browse other products",
         "Find Retailers",
         "Load more products"
@@ -122,9 +123,9 @@
       "headings": [
         "H1: Shop Tide Products"
       ],
-      "textChars": 681,
-      "links": 20,
-      "buttons": 11,
+      "textChars": 695,
+      "links": 21,
+      "buttons": 12,
       "images": 18,
       "forms": 0,
       "inputs": [],
@@ -133,7 +134,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3746,
+        "y": 3806,
         "w": 390,
         "h": 64
       },
