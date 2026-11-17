@@ -1,13 +1,5 @@
 {
-  "contact-us": {
-    "verdict": "match | mismatch | waived",
-    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
-  },
   "home": {
-    "verdict": "match | mismatch | waived",
-    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
-  },
-  "shop": {
     "verdict": "match | mismatch | waived",
     "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
   }

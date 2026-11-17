@@ -195,6 +195,7 @@ function addCarousel(block) {
   if (!list || list.children.length < 2) return;
   const viewport = createTag('div', { class: 'cards-carousel-viewport' });
   list.replaceWith(viewport);
+  list.classList.add('cards-carousel-track');
   viewport.append(list);
   const items = [...list.children];
   const stepWidth = () => items[1].offsetLeft - items[0].offsetLeft;
