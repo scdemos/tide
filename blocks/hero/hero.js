@@ -20,7 +20,11 @@ export default function decorate(block) {
   }
 
   const h1 = block.querySelector('h1');
-  if (!h1) return;
+  if (!h1) {
+    // picture only: a plain full-bleed banner image (the title follows in the next section)
+    if (!block.querySelector('h2, p:not(:has(picture))')) block.classList.add('image-only');
+    return;
+  }
 
   // Find the first <p> that appears before the <h1> in the DOM and mark it as a tagline
   const contentDiv = h1.closest('div');

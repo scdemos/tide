@@ -414,7 +414,7 @@
       "revealed": 0
     },
     "carousel": {
-      "advances": false
+      "advances": true
     },
     "tabs": null,
     "accordion": null,

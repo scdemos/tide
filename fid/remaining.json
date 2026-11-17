@@ -1,0 +1,163 @@
+{
+ "home": {
+  "buttons": [
+   "1440",
+   "390"
+  ],
+  "text": [
+   "1440",
+   "390"
+  ],
+  "carousels": [
+   "1440",
+   "390"
+  ],
+  "layout": [
+   "1440",
+   "390"
+  ],
+  "provenance": [
+   "1440",
+   "390"
+  ]
+ },
+ "how-to-wash-clothes": {
+  "media": [
+   "1440",
+   "390"
+  ],
+  "provenance": [
+   "1440"
+  ]
+ },
+ "how-to-wash-clothes_how-to-do-laundry": {
+  "buttons": [
+   "1440",
+   "390"
+  ],
+  "layout": [
+   "1440",
+   "390"
+  ],
+  "provenance": [
+   "1440",
+   "390"
+  ]
+ },
+ "how-to-wash-clothes_how-to-remove-stains": {
+  "buttons": [
+   "1440",
+   "390"
+  ],
+  "media": [
+   "1440",
+   "390"
+  ],
+  "text": [
+   "1440",
+   "390"
+  ],
+  "layout": [
+   "1440",
+   "390"
+  ],
+  "provenance": [
+   "1440",
+   "390"
+  ]
+ },
+ "our-commitment": {
+  "buttons": [
+   "1440",
+   "390"
+  ]
+ },
+ "our-commitment_tide-evo": {
+  "buttons": [
+   "1440",
+   "390"
+  ],
+  "media": [
+   "1440",
+   "390"
+  ],
+  "carousels": [
+   "1440",
+   "390"
+  ],
+  "layout": [
+   "1440",
+   "390"
+  ],
+  "provenance": [
+   "1440",
+   "390"
+  ]
+ },
+ "rewards": {
+  "layout": [
+   "1440"
+  ],
+  "provenance": [
+   "1440",
+   "390"
+  ],
+  "text": [
+   "390"
+  ]
+ },
+ "rewards_loyalty_terms-and-conditions": {
+  "layout": [
+   "1440"
+  ],
+  "provenance": [
+   "1440",
+   "390"
+  ]
+ },
+ "shop": {
+  "buttons": [
+   "1440",
+   "390"
+  ],
+  "text": [
+   "1440",
+   "390"
+  ],
+  "provenance": [
+   "1440"
+  ],
+  "forms & inputs": [
+   "390"
+  ],
+  "layout": [
+   "390"
+  ]
+ },
+ "shop_type_laundry-pods": {
+  "forms & inputs": [
+   "1440",
+   "390"
+  ],
+  "buttons": [
+   "1440",
+   "390"
+  ],
+  "text": [
+   "1440",
+   "390"
+  ],
+  "layout": [
+   "1440",
+   "390"
+  ],
+  "headings": [
+   "390"
+  ]
+ },
+ "latest-news": {
+  "text": [
+   "390"
+  ]
+ }
+}

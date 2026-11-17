@@ -1,0 +1,621 @@
+[
+ {
+  "cat": "Beauty stains",
+  "links": [
+   [
+    "Facial Mask",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/facial-mask-stains"
+   ],
+   [
+    "Wax",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/wax-stains"
+   ],
+   [
+    "Acne Cream",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/acne-cream-stains"
+   ],
+   [
+    "Hair Dye",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/hair-dye-stains"
+   ],
+   [
+    "Nail Polish",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/nail-polish-stains"
+   ],
+   [
+    "Deodorant",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/deodorant-stains"
+   ],
+   [
+    "Perfume",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/perfume-stains"
+   ],
+   [
+    "Makeup",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/makeup-stains"
+   ],
+   [
+    "Sunscreen",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/sunscreen-stains"
+   ],
+   [
+    "Toothpaste",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/toothpaste-stains"
+   ],
+   [
+    "Ointment",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/ointment-stains"
+   ],
+   [
+    "Mouthwash",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/mouthwash-stains"
+   ],
+   [
+    "Tough Stains",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/tackle-tough-stains-tide"
+   ],
+   [
+    "Mildew",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/mildew-stains"
+   ],
+   [
+    "Paint",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/paint-stains"
+   ],
+   [
+    "Chewing Gum",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/chewing-gum-stains"
+   ],
+   [
+    "Motor Oil",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/motor-oil-stains"
+   ],
+   [
+    "Dingy Whites",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/dingy-whites-stains"
+   ],
+   [
+    "Crayon",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/crayon-stains"
+   ],
+   [
+    "Play-Doh/Silly Putty",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/play-doh-or-silly-putty-stains"
+   ],
+   [
+    "Glue",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/glue-stains"
+   ],
+   [
+    "Oil",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/general-oil-stains"
+   ],
+   [
+    "Ink",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/ink-stains"
+   ],
+   [
+    "Fabric Softener",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/fabric-softener-stains"
+   ],
+   [
+    "Collar/Cuff Soil",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/collar-or-cuff-soil-stains"
+   ],
+   [
+    "Colored Marker",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/colored-marker-stains"
+   ],
+   [
+    "Clay",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/clay-stains"
+   ],
+   [
+    "Soot",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/soot-stains"
+   ],
+   [
+    "Sweat",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/sweat-stains"
+   ],
+   [
+    "Blood",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/blood-stains"
+   ],
+   [
+    "Correction Fluid",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/correction-fluid-stains"
+   ],
+   [
+    "Cough Syrup",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/cough-syrup-stains"
+   ],
+   [
+    "Dye Transfer",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/dye-transfer-stains"
+   ],
+   [
+    "Underwear",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/underwear-stains"
+   ],
+   [
+    "Shoe Polish",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/shoe-polish-liquid-stains"
+   ],
+   [
+    "Pet",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/pet-stains"
+   ],
+   [
+    "Coffee",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/coffee-stains"
+   ],
+   [
+    "Fruit Juice",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/fruit-juice-stains"
+   ],
+   [
+    "Sport Drink",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/sport-drink-stains"
+   ],
+   [
+    "Hot Chocolate",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/hot-chocolate-stains"
+   ],
+   [
+    "Wine",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/wine-stains"
+   ],
+   [
+    "Soft Drink",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/soft-drink-stains"
+   ],
+   [
+    "Beer",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/beer-stains"
+   ],
+   [
+    "Spaghetti",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/spaghetti-sauce-stains"
+   ],
+   [
+    "Ketchup",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/ketchup-stains"
+   ],
+   [
+    "Chocolate",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/chocolate-stains"
+   ],
+   [
+    "Dairy",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/dairy-products-stains"
+   ],
+   [
+    "BBQ Sauce",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/bbq-sauce-stains"
+   ],
+   [
+    "Cooking Oil",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/oil-stains"
+   ],
+   [
+    "Pudding",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/pudding-stains"
+   ],
+   [
+    "Fruit",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/fruit-stains"
+   ],
+   [
+    "Grease",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/grease-stains"
+   ],
+   [
+    "Mayonnaise",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/mayonnaise-stains"
+   ],
+   [
+    "Mustard",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/mustard-stains"
+   ],
+   [
+    "Salsa",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/salsa-stains"
+   ],
+   [
+    "Vegetable",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/vegetable-stains"
+   ],
+   [
+    "Butter",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/butter-or-margarine-stains"
+   ],
+   [
+    "Candy",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/candy-stains"
+   ],
+   [
+    "Egg",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/egg-stains"
+   ],
+   [
+    "Gelatin Dessert",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/gelatin-dessert-stains"
+   ],
+   [
+    "Gravy",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/gravy-stains"
+   ],
+   [
+    "Mud",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/how-to-remove-mud-stains"
+   ],
+   [
+    "Tree Sap",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/tree-sap-stains"
+   ],
+   [
+    "Oily Road",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/oily-road-water-stains"
+   ],
+   [
+    "Plaster",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/plaster-stains"
+   ],
+   [
+    "Dirt",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/dirt-stains"
+   ],
+   [
+    "Pollen",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/pollen-stains"
+   ],
+   [
+    "Rust",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/rust-stains"
+   ],
+   [
+    "Grass",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/grass-stains"
+   ],
+   [
+    "Skunk Odor",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/skunk-odor-stains"
+   ],
+   [
+    "Urine",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/urine-stains"
+   ],
+   [
+    "Poop",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/poop-stains"
+   ],
+   [
+    "Baby Food",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/baby-food-stains"
+   ]
+  ]
+ },
+ {
+  "cat": "Beauty stains",
+  "links": [
+   [
+    "Facial Mask",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/facial-mask-stains"
+   ],
+   [
+    "Wax",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/wax-stains"
+   ],
+   [
+    "Acne Cream",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/acne-cream-stains"
+   ],
+   [
+    "Hair Dye",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/hair-dye-stains"
+   ],
+   [
+    "Nail Polish",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/nail-polish-stains"
+   ],
+   [
+    "Deodorant",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/deodorant-stains"
+   ],
+   [
+    "Perfume",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/perfume-stains"
+   ],
+   [
+    "Makeup",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/makeup-stains"
+   ],
+   [
+    "Sunscreen",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/sunscreen-stains"
+   ],
+   [
+    "Toothpaste",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/toothpaste-stains"
+   ],
+   [
+    "Ointment",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/ointment-stains"
+   ],
+   [
+    "Mouthwash",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/mouthwash-stains"
+   ]
+  ]
+ },
+ {
+  "cat": "Tough stains",
+  "links": [
+   [
+    "Tough Stains",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/tackle-tough-stains-tide"
+   ],
+   [
+    "Mildew",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/mildew-stains"
+   ],
+   [
+    "Paint",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/paint-stains"
+   ],
+   [
+    "Chewing Gum",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/chewing-gum-stains"
+   ],
+   [
+    "Motor Oil",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/motor-oil-stains"
+   ],
+   [
+    "Dingy Whites",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/dingy-whites-stains"
+   ],
+   [
+    "Crayon",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/crayon-stains"
+   ],
+   [
+    "Play-Doh/Silly Putty",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/play-doh-or-silly-putty-stains"
+   ],
+   [
+    "Glue",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/glue-stains"
+   ],
+   [
+    "Oil",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/general-oil-stains"
+   ],
+   [
+    "Ink",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/ink-stains"
+   ],
+   [
+    "Fabric Softener",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/fabric-softener-stains"
+   ],
+   [
+    "Collar/Cuff Soil",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/collar-or-cuff-soil-stains"
+   ],
+   [
+    "Colored Marker",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/colored-marker-stains"
+   ],
+   [
+    "Clay",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/clay-stains"
+   ],
+   [
+    "Soot",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/soot-stains"
+   ],
+   [
+    "Sweat",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/sweat-stains"
+   ],
+   [
+    "Blood",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/blood-stains"
+   ],
+   [
+    "Correction Fluid",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/correction-fluid-stains"
+   ],
+   [
+    "Cough Syrup",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/cough-syrup-stains"
+   ],
+   [
+    "Dye Transfer",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/dye-transfer-stains"
+   ],
+   [
+    "Underwear",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/underwear-stains"
+   ],
+   [
+    "Shoe Polish",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/shoe-polish-liquid-stains"
+   ],
+   [
+    "Pet",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/pet-stains"
+   ]
+  ]
+ },
+ {
+  "cat": "Drink stains",
+  "links": [
+   [
+    "Coffee",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/coffee-stains"
+   ],
+   [
+    "Fruit Juice",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/fruit-juice-stains"
+   ],
+   [
+    "Sport Drink",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/sport-drink-stains"
+   ],
+   [
+    "Hot Chocolate",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/hot-chocolate-stains"
+   ],
+   [
+    "Wine",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/wine-stains"
+   ],
+   [
+    "Soft Drink",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/soft-drink-stains"
+   ],
+   [
+    "Beer",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/beer-stains"
+   ]
+  ]
+ },
+ {
+  "cat": "Food stains",
+  "links": [
+   [
+    "Spaghetti",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/spaghetti-sauce-stains"
+   ],
+   [
+    "Ketchup",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/ketchup-stains"
+   ],
+   [
+    "Chocolate",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/chocolate-stains"
+   ],
+   [
+    "Dairy",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/dairy-products-stains"
+   ],
+   [
+    "BBQ Sauce",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/bbq-sauce-stains"
+   ],
+   [
+    "Cooking Oil",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/oil-stains"
+   ],
+   [
+    "Pudding",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/pudding-stains"
+   ],
+   [
+    "Fruit",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/fruit-stains"
+   ],
+   [
+    "Grease",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/grease-stains"
+   ],
+   [
+    "Mayonnaise",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/mayonnaise-stains"
+   ],
+   [
+    "Mustard",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/mustard-stains"
+   ],
+   [
+    "Salsa",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/salsa-stains"
+   ],
+   [
+    "Vegetable",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/vegetable-stains"
+   ],
+   [
+    "Butter",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/butter-or-margarine-stains"
+   ],
+   [
+    "Candy",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/candy-stains"
+   ],
+   [
+    "Egg",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/egg-stains"
+   ],
+   [
+    "Gelatin Dessert",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/gelatin-dessert-stains"
+   ],
+   [
+    "Gravy",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/gravy-stains"
+   ]
+  ]
+ },
+ {
+  "cat": "Outdoor stains",
+  "links": [
+   [
+    "Mud",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/how-to-remove-mud-stains"
+   ],
+   [
+    "Tree Sap",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/tree-sap-stains"
+   ],
+   [
+    "Oily Road",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/oily-road-water-stains"
+   ],
+   [
+    "Plaster",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/plaster-stains"
+   ],
+   [
+    "Dirt",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/dirt-stains"
+   ],
+   [
+    "Pollen",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/pollen-stains"
+   ],
+   [
+    "Rust",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/rust-stains"
+   ],
+   [
+    "Grass",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/grass-stains"
+   ],
+   [
+    "Skunk Odor",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/skunk-odor-stains"
+   ]
+  ]
+ },
+ {
+  "cat": "Baby stains",
+  "links": [
+   [
+    "Urine",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/urine-stains"
+   ],
+   [
+    "Poop",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/poop-stains"
+   ],
+   [
+    "Baby Food",
+    "/en-us/how-to-wash-clothes/how-to-remove-stains/baby-food-stains"
+   ]
+  ]
+ }
+]

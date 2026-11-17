@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 7097,
+  "height": 9700,
   "header": {
     "box": {
       "x": 0,
@@ -42,7 +42,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 6662,
+      "y": 9265,
       "w": 1440,
       "h": 434
     },
@@ -131,7 +131,7 @@
         "x": 0,
         "y": 1443,
         "w": 1440,
-        "h": 3329
+        "h": 5932
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -169,20 +169,26 @@
         "Can’t find the right stain?"
       ],
       "headings": [
-        "H1: Stain removal guide"
+        "H1: Stain removal guide",
+        "H2: Beauty stains",
+        "H3: Tough stains",
+        "H3: Drink stains",
+        "H3: Food stains",
+        "H3: Outdoor stains",
+        "H3: Baby stains"
       ],
-      "textChars": 658,
-      "links": 2,
+      "textChars": 1393,
+      "links": 75,
       "buttons": 76,
       "images": 12,
       "forms": 0,
       "inputs": [],
-      "columns": 3
+      "columns": 4
     },
     {
       "box": {
         "x": 0,
-        "y": 4772,
+        "y": 7375,
         "w": 1440,
         "h": 1826
       },
@@ -239,7 +245,7 @@
     {
       "box": {
         "x": 0,
-        "y": 6630,
+        "y": 9233,
         "w": 1440,
         "h": 64
       },
@@ -273,7 +279,7 @@
     "accordion": null,
     "mobile": {
       "hasButton": true,
-      "revealed": 1
+      "revealed": 2
     }
   }
 }

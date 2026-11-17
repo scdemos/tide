@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 13,
-  "at": "2026-11-17T18:00:52.479Z",
+  "iteration": 16,
+  "at": "2026-11-17T18:18:21.612Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -11,37 +11,9 @@
       "fails": [
         {
           "width": 1440,
-          "check": "buttons",
-          "column": "content",
-          "detail": "225 → 84 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#home"
-        },
-        {
-          "width": 1440,
-          "check": "text",
-          "column": "content",
-          "detail": "3009 → 1814 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#home"
-        },
-        {
-          "width": 1440,
-          "check": "carousels",
-          "column": "design",
-          "detail": "3 → 2",
-          "evidence": "fid/fidelity-1440.html#home"
-        },
-        {
-          "width": 1440,
           "check": "layout",
           "column": "design",
           "detail": "#3 \"see what we ve been working on\" columns 1 → 4 · #3 \"see what we ve been working on\" text width 79% → 110% · #5 \"find the right tide product fo\" columns 3 → 7 · #8 \"learn more\" columns 1 → 3",
-          "evidence": "fid/fidelity-1440.html#home"
-        },
-        {
-          "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "5/51 text blocks not on the original: \"Can’t find the right stain?\" · \"try it now!\" · \"Check it out!\" · \"Shop Collection\"",
           "evidence": "fid/fidelity-1440.html#home"
         },
         {
@@ -53,44 +25,9 @@
         },
         {
           "width": 390,
-          "check": "buttons",
-          "column": "content",
-          "detail": "225 → 86 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#home"
-        },
-        {
-          "width": 390,
-          "check": "text",
-          "column": "content",
-          "detail": "3009 → 1768 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#home"
-        },
-        {
-          "width": 390,
-          "check": "carousels",
-          "column": "design",
-          "detail": "3 → 2",
-          "evidence": "fid/fidelity-390.html#home"
-        },
-        {
-          "width": 390,
-          "check": "functionality",
-          "column": "functionality",
-          "detail": "carousel does not advance",
-          "evidence": "fid/fidelity-390.html#home"
-        },
-        {
-          "width": 390,
           "check": "layout",
           "column": "design",
           "detail": "#3 \"see what we ve been working on\" columns 1 → 4 · #3 \"see what we ve been working on\" text width 92% → 288% · #6 \"stain removal guide\" center → start",
-          "evidence": "fid/fidelity-390.html#home"
-        },
-        {
-          "width": 390,
-          "check": "provenance",
-          "column": "content",
-          "detail": "5/50 text blocks not on the original: \"Can’t find the right stain?\" · \"try it now!\" · \"Check it out!\" · \"Shop Collection\"",
           "evidence": "fid/fidelity-390.html#home"
         },
         {
@@ -103,23 +40,16 @@
       ],
       "columns": {
         "design": "fail",
-        "content": "fail",
+        "content": "pass",
         "look & feel": "fail",
-        "functionality": "fail"
+        "functionality": "pass"
       },
-      "rounds": 12
+      "rounds": 15
     },
     {
       "original": "/shop",
       "demo": "/shop",
       "fails": [
-        {
-          "width": 1440,
-          "check": "buttons",
-          "column": "content",
-          "detail": "10 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#shop"
-        },
         {
           "width": 1440,
           "check": "text",
@@ -129,31 +59,10 @@
         },
         {
           "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "1/10 text blocks not on the original: \"Shop Tide Products\"",
-          "evidence": "fid/fidelity-1440.html#shop"
-        },
-        {
-          "width": 1440,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#shop"
-        },
-        {
-          "width": 390,
-          "check": "forms & inputs",
-          "column": "content",
-          "detail": "forms 0 → 0, inputs 1 → 0",
-          "evidence": "fid/fidelity-390.html#shop"
-        },
-        {
-          "width": 390,
-          "check": "buttons",
-          "column": "content",
-          "detail": "11 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#shop"
         },
         {
           "width": 390,
@@ -183,26 +92,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 10
+      "rounds": 12
     },
     {
       "original": "/shop/type/laundry-pods",
       "demo": "/shop/type/laundry-pods",
       "fails": [
-        {
-          "width": 1440,
-          "check": "forms & inputs",
-          "column": "content",
-          "detail": "forms 0 → 0, inputs 1 → 0",
-          "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 1440,
-          "check": "buttons",
-          "column": "content",
-          "detail": "11 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
-        },
         {
           "width": 1440,
           "check": "text",
@@ -226,30 +121,9 @@
         },
         {
           "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 390,
           "check": "headings",
           "column": "content",
           "detail": "missing: H3: Related articles",
-          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 390,
-          "check": "forms & inputs",
-          "column": "content",
-          "detail": "forms 0 → 0, inputs 1 → 0",
-          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 390,
-          "check": "buttons",
-          "column": "content",
-          "detail": "9 → 0 (visible CTAs, needs ≥ 80%)",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
         },
         {
@@ -280,7 +154,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 10
     },
     {
       "original": "/our-commitment",
@@ -288,31 +162,10 @@
       "fails": [
         {
           "width": 1440,
-          "check": "buttons",
-          "column": "content",
-          "detail": "1 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#our-commitment"
-        },
-        {
-          "width": 1440,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#our-commitment"
-        },
-        {
-          "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#our-commitment"
-        },
-        {
-          "width": 390,
-          "check": "buttons",
-          "column": "content",
-          "detail": "1 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#our-commitment"
         },
         {
           "width": 390,
@@ -323,12 +176,12 @@
         }
       ],
       "columns": {
-        "design": "fail",
-        "content": "fail",
+        "design": "pass",
+        "content": "pass",
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 10
     },
     {
       "original": "/our-commitment/tide-evo",
@@ -336,23 +189,9 @@
       "fails": [
         {
           "width": 1440,
-          "check": "buttons",
-          "column": "content",
-          "detail": "4 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 1440,
           "check": "media",
           "column": "content",
           "detail": "9 → 6 (needs ≥ 90%)",
-          "evidence": "fid/fidelity-1440.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 1440,
-          "check": "carousels",
-          "column": "design",
-          "detail": "1 → 0",
           "evidence": "fid/fidelity-1440.html#our-commitment_tide-evo"
         },
         {
@@ -364,31 +203,10 @@
         },
         {
           "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "1/2 text blocks not on the original: \"ingredients woven together in a soft tile form\"",
-          "evidence": "fid/fidelity-1440.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 1440,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 390,
-          "check": "buttons",
-          "column": "content",
-          "detail": "4 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
         },
         {
           "width": 390,
@@ -399,23 +217,9 @@
         },
         {
           "width": 390,
-          "check": "carousels",
-          "column": "design",
-          "detail": "1 → 0",
-          "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 390,
           "check": "layout",
           "column": "design",
           "detail": "#0 \"meet tide evo\" center → start · #0 \"meet tide evo\" columns 5 → 1",
-          "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 390,
-          "check": "provenance",
-          "column": "content",
-          "detail": "1/2 text blocks not on the original: \"ingredients woven together in a soft tile form\"",
           "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
         },
         {
@@ -432,7 +236,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 10
     },
     {
       "original": "/how-to-wash-clothes",
@@ -461,13 +265,6 @@
         },
         {
           "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes"
-        },
-        {
-          "width": 390,
           "check": "media",
           "column": "content",
           "detail": "10 → 8 (needs ≥ 90%)",
@@ -482,24 +279,17 @@
         }
       ],
       "columns": {
-        "design": "fail",
+        "design": "pass",
         "content": "fail",
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 10
     },
     {
       "original": "/how-to-wash-clothes/how-to-remove-stains",
       "demo": "/how-to-wash-clothes/how-to-remove-stains",
       "fails": [
-        {
-          "width": 1440,
-          "check": "buttons",
-          "column": "content",
-          "detail": "227 → 76 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
-        },
         {
           "width": 1440,
           "check": "media",
@@ -511,21 +301,14 @@
           "width": 1440,
           "check": "text",
           "column": "content",
-          "detail": "5506 → 3453 chars (needs ≥ 80%)",
+          "detail": "5506 → 4188 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
           "width": 1440,
           "check": "layout",
           "column": "design",
-          "detail": "#0 \"how to remove stains\" columns 5 → 1 · #0 \"how to remove stains\" text width 45% → 83% · #1 \"stain removal guide\" columns 11 → 3",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
-        },
-        {
-          "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "4/53 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\"",
+          "detail": "#0 \"how to remove stains\" columns 5 → 1 · #0 \"how to remove stains\" text width 45% → 83% · #1 \"stain removal guide\" columns 11 → 4",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
@@ -534,20 +317,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
-        },
-        {
-          "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
-        },
-        {
-          "width": 390,
-          "check": "buttons",
-          "column": "content",
-          "detail": "225 → 76 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
           "width": 390,
@@ -560,7 +329,7 @@
           "width": 390,
           "check": "text",
           "column": "content",
-          "detail": "5506 → 3453 chars (needs ≥ 80%)",
+          "detail": "5506 → 4188 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
@@ -572,13 +341,6 @@
         },
         {
           "width": 390,
-          "check": "provenance",
-          "column": "content",
-          "detail": "4/53 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\"",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
-        },
-        {
-          "width": 390,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
@@ -591,19 +353,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 10
     },
     {
       "original": "/how-to-wash-clothes/how-to-do-laundry",
       "demo": "/how-to-wash-clothes/how-to-do-laundry",
       "fails": [
-        {
-          "width": 1440,
-          "check": "buttons",
-          "column": "content",
-          "detail": "3 → 1 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-do-laundry"
-        },
         {
           "width": 1440,
           "check": "layout",
@@ -613,31 +368,10 @@
         },
         {
           "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "2/91 text blocks not on the original: \"How to Do Laundry: Your Comprehensive Guide | Tide\" · \"Download now\"",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-do-laundry"
-        },
-        {
-          "width": 1440,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-do-laundry"
-        },
-        {
-          "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry"
-        },
-        {
-          "width": 390,
-          "check": "buttons",
-          "column": "content",
-          "detail": "3 → 1 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry"
         },
         {
           "width": 390,
@@ -648,13 +382,6 @@
         },
         {
           "width": 390,
-          "check": "provenance",
-          "column": "content",
-          "detail": "2/91 text blocks not on the original: \"How to Do Laundry: Your Comprehensive Guide | Tide\" · \"Download now\"",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry"
-        },
-        {
-          "width": 390,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
@@ -663,11 +390,11 @@
       ],
       "columns": {
         "design": "fail",
-        "content": "fail",
+        "content": "pass",
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 10
     },
     {
       "original": "/latest-news",
@@ -679,13 +406,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#latest-news"
-        },
-        {
-          "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#latest-news"
         },
         {
           "width": 390,
@@ -703,12 +423,12 @@
         }
       ],
       "columns": {
-        "design": "fail",
+        "design": "pass",
         "content": "fail",
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 9
+      "rounds": 11
     },
     {
       "original": "/rewards",
@@ -723,13 +443,6 @@
         },
         {
           "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "2/12 text blocks not on the original: \"AUTH STATE\" · \"SWITCH TO AUTHENTICATED\"",
-          "evidence": "fid/fidelity-1440.html#rewards"
-        },
-        {
-          "width": 1440,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
@@ -737,23 +450,9 @@
         },
         {
           "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#rewards"
-        },
-        {
-          "width": 390,
           "check": "text",
           "column": "content",
           "detail": "866 → 671 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#rewards"
-        },
-        {
-          "width": 390,
-          "check": "provenance",
-          "column": "content",
-          "detail": "2/11 text blocks not on the original: \"AUTH STATE\" · \"SWITCH TO AUTHENTICATED\"",
           "evidence": "fid/fidelity-390.html#rewards"
         },
         {
@@ -770,7 +469,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 9
+      "rounds": 11
     },
     {
       "original": "/contact-us",
@@ -797,7 +496,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 10
+      "rounds": 12
     },
     {
       "original": "/rewards/loyalty/terms-and-conditions",
@@ -812,31 +511,10 @@
         },
         {
           "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "5/104 text blocks not on the original: \"Each survey or quiz can be completed only once\" · \"Points may vary between 5, 10, 15 at discretion of Program\" · \"5 receipts/month limit $500 in laundry care products/month l\" · \"1 point/$1 spent on Tide products 5 bonus points for SUD (po\"",
-          "evidence": "fid/fidelity-1440.html#rewards_loyalty_terms-and-conditions"
-        },
-        {
-          "width": 1440,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#rewards_loyalty_terms-and-conditions"
-        },
-        {
-          "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#rewards_loyalty_terms-and-conditions"
-        },
-        {
-          "width": 390,
-          "check": "provenance",
-          "column": "content",
-          "detail": "5/104 text blocks not on the original: \"Each survey or quiz can be completed only once\" · \"Points may vary between 5, 10, 15 at discretion of Program\" · \"5 receipts/month limit $500 in laundry care products/month l\" · \"1 point/$1 spent on Tide products 5 bonus points for SUD (po\"",
-          "evidence": "fid/fidelity-390.html#rewards_loyalty_terms-and-conditions"
         },
         {
           "width": 390,
@@ -848,11 +526,11 @@
       ],
       "columns": {
         "design": "fail",
-        "content": "fail",
+        "content": "pass",
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 10
     }
   ]
 }

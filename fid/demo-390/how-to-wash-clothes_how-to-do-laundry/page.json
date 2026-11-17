@@ -24,9 +24,10 @@
       "h": 40,
       "centered": true
     },
-    "hiddenLinks": 53,
+    "hiddenLinks": 52,
     "items": [
       "Navigation menu",
+      "Skip to Content",
       "Search",
       "Submit Search"
     ]
@@ -250,7 +251,7 @@
     "accordion": null,
     "mobile": {
       "hasButton": true,
-      "revealed": 3
+      "revealed": 4
     }
   }
 }

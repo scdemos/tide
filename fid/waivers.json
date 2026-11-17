@@ -1,0 +1,39 @@
+{
+ "home": {
+  "buttons": "SC: the original's stain wheel renders about 225 buttons (three copies of 73 stains); the demo has one wheel of 72 stains plus all CTAs.",
+  "text": "SC: the original's text count includes the three duplicate stain lists; the demo shows every real section and the same stain list once.",
+  "carousels": "SC: the original counts its heading container, the news carousel and the stain wheel; the demo has a real carousel and a stain wheel with prev/next.",
+  "provenance": "SC: 'try it now!', 'Check it out!', 'Shop Collection' and \"Can't find the right stain?\" are the original's own wording, but its hero buttons are images and the link is outside what the checker reads."
+ },
+ "how-to-wash-clothes_how-to-do-laundry": {
+  "buttons": "SC: the original's buttons are tab labels and a back-to-top widget; the demo has the article, its headings and the download link.",
+  "provenance": "SC: 'Download now' is the original's own button (an image link in the original); the page title string is page metadata."
+ },
+ "how-to-wash-clothes_how-to-remove-stains": {
+  "buttons": "SC: the original's stain wheel renders about 225 buttons (three copies); the demo has one wheel.",
+  "provenance": "SC: the stain-type headings and \"Can't find the right stain?\" are the original's own wording; in the original they sit inside collapsed accordions the checker does not read."
+ },
+ "our-commitment": {
+  "buttons": "SC: the only original button is a YouTube preview play overlay; the demo links the same video story as a card."
+ },
+ "our-commitment_tide-evo": {
+  "buttons": "SC: the original's buttons are the video slider's controls; the demo shows the same content without a video slider.",
+  "carousels": "SC: the original has a video slider; embeds are not reproduced.",
+  "provenance": "SC: the line is the original's own copy, shown only after an animation in the original."
+ },
+ "rewards": {
+  "provenance": "SC: 'Auth state' and 'Switch to authenticated' are the author-only login toggle (auth-toggle) requested for Tide Rewards."
+ },
+ "rewards_loyalty_terms-and-conditions": {
+  "provenance": "SC: the flagged lines are the original's own table cells (points table); the checker does not read tables."
+ },
+ "shop": {
+  "buttons": "SC: the original's buttons are the grid/list toggle, 'Load more' and 'Browse other products'; they are app behavior of the original product search.",
+  "forms & inputs": "SC: the original's input is its product filter search.",
+  "provenance": "SC: the title is the original's own page heading."
+ },
+ "shop_type_laundry-pods": {
+  "buttons": "SC: the original's buttons are the grid/list toggle and 'Load more' of the product search.",
+  "forms & inputs": "SC: the original's input is its product filter search."
+ }
+}
