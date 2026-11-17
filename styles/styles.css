@@ -612,6 +612,15 @@ article.article-body > .section > div {
   padding: 0 var(--content-padding-inline);
 }
 
+/* section-metadata style=narrow: text column about half the content width, left aligned */
+main > .section.narrow > .default-content-wrapper {
+  max-width: none;
+  margin-inline: 0;
+  padding-inline: 0;
+  width: min(648px, calc(100% - (2 * var(--content-padding-inline))));
+  margin-left: max(var(--content-padding-inline), calc((100% - var(--grid-container-width, 1200px)) / 2 + var(--content-padding-inline)));
+}
+
 /* section metadata */
 main .section.light,
 main .section.highlight {

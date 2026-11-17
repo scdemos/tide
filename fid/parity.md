@@ -1,12 +1,12 @@
-# Parity: NOT COMPLETE ❌ (round 20, 2026-11-17T18:39:08.196Z)
+# Parity: NOT COMPLETE ❌ (round 21, 2026-11-17T18:40:57.770Z)
 
 Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 + 390 (+ dark OS at 1440) · interactions exercised
 
 | page | design | content | look & feel | functionality | rounds |
 |---|---|---|---|---|---|
 | / | ❌ | ✅ | ❌ | ✅ | 16 |
-| /shop | ❌ | ❌ | ❌ | ✅ | 14 |
-| /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 12 |
+| /shop | ❌ | ❌ | ❌ | ✅ | 15 |
+| /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 13 |
 | /our-commitment | ✅ | ✅ | ❌ | ✅ | 13 |
 | /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 11 |
 | /how-to-wash-clothes | ✅ | ❌ | ❌ | ✅ | 13 |

@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 20,
-  "at": "2026-11-17T18:39:08.196Z",
+  "iteration": 21,
+  "at": "2026-11-17T18:40:57.770Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -92,7 +92,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 14
+      "rounds": 15
     },
     {
       "original": "/shop/type/laundry-pods",
@@ -147,7 +147,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 12
+      "rounds": 13
     },
     {
       "original": "/our-commitment",

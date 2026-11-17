@@ -72,7 +72,8 @@
     "tags": "lists render as pill clouds (browse by tag/category/author, all tags)",
     "band-green": "band modifier: green background",
     "band-purple": "band modifier: purple background",
-    "band-blue": "band modifier: blue background"
+    "band-blue": "band modifier: blue background",
+    "narrow": "text column about half the content width, left aligned (page title + intro under a banner)"
   },
   "blocks": {
     "hero": {
