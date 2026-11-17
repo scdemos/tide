@@ -94,9 +94,9 @@ function decorateFinder(block) {
   })).filter((o) => o.text);
 
   block.textContent = '';
-  const list = createTag('ul', { class: 'quiz-finder-list', role: 'listbox', 'aria-label': normalizeText(before) || 'Options' });
+  const list = createTag('ul', { class: 'quiz-finder-list', 'aria-label': normalizeText(before) || 'Options' });
   const buttons = options.map((o, i) => {
-    const button = createTag('button', { type: 'button', role: 'option', class: 'quiz-finder-item' }, o.text);
+    const button = createTag('button', { type: 'button', class: 'quiz-finder-item' }, o.text);
     button.addEventListener('click', () => select(i, true));  
     list.append(createTag('li', {}, button));
     return button;
@@ -109,7 +109,7 @@ function decorateFinder(block) {
   function select(i, scroll) {
     index = Math.max(0, Math.min(options.length - 1, i));
     buttons.forEach((b, n) => {
-      b.setAttribute('aria-selected', String(n === index));
+      b.setAttribute('aria-current', String(n === index));
       b.dataset.distance = String(Math.min(3, Math.abs(n - index)));
     });
     const { link } = options[index];
