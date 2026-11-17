@@ -77,9 +77,12 @@ function buildCard(product, indexUrl) {
   if (product.price) {
     body.append(createTag('p', { class: 'product-grid-price' }, formatPrice(product.price)));
   }
+  if (product.reviews) body.append(createTag('p', { class: 'product-grid-reviews' }, `(${product.reviews})`));
   link.append(body);
 
   li.append(link);
+  // optional call-to-action button (sheet columns: cta = label, cta-url = destination, defaults to the product url)
+  if (product.cta) li.append(createTag('a', { class: 'button product-grid-cta', href: product['cta-url'] || product.url }, product.cta));
   return li;
 }
 

@@ -117,3 +117,13 @@
     padding: var(--space-l);
   }
 }
+
+.product-grid-reviews {
+  margin: var(--space-xs) 0 0;
+  font-size: var(--body-font-size-xs);
+  color: var(--color-card-dark);
+}
+
+.product-grid-list > li > .product-grid-cta {
+  margin: var(--space-s) var(--space-m) var(--space-m);
+}

@@ -1,4 +1,12 @@
 {
+  "contact-us": {
+    "verdict": "match | mismatch | waived",
+    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
+  },
+  "home": {
+    "verdict": "match | mismatch | waived",
+    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
+  },
   "how-to-wash-clothes": {
     "verdict": "match | mismatch | waived",
     "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
@@ -11,7 +19,31 @@
     "verdict": "match | mismatch | waived",
     "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
   },
+  "latest-news": {
+    "verdict": "match | mismatch | waived",
+    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
+  },
   "our-commitment": {
+    "verdict": "match | mismatch | waived",
+    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
+  },
+  "our-commitment_tide-evo": {
+    "verdict": "match | mismatch | waived",
+    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
+  },
+  "rewards": {
+    "verdict": "match | mismatch | waived",
+    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
+  },
+  "rewards_loyalty_terms-and-conditions": {
+    "verdict": "match | mismatch | waived",
+    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
+  },
+  "shop": {
+    "verdict": "match | mismatch | waived",
+    "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
+  },
+  "shop_type_laundry-pods": {
     "verdict": "match | mismatch | waived",
     "note": "what you compared and what differs (header, each section, footer, 1440 + 390)"
   }

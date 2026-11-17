@@ -1,21 +1,21 @@
-# Parity: NOT COMPLETE ❌ (round 18, 2026-11-17T18:25:23.910Z)
+# Parity: NOT COMPLETE ❌ (round 19, 2026-11-17T18:34:01.458Z)
 
 Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 + 390 (+ dark OS at 1440) · interactions exercised
 
 | page | design | content | look & feel | functionality | rounds |
 |---|---|---|---|---|---|
-| / | ❌ | ✅ | ❌ | ✅ | 15 |
-| /shop | ❌ | ❌ | ❌ | ✅ | 12 |
-| /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 10 |
-| /our-commitment | ✅ | ✅ | ❌ | ✅ | 12 |
-| /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 10 |
-| /how-to-wash-clothes | ✅ | ❌ | ❌ | ✅ | 12 |
-| /how-to-wash-clothes/how-to-remove-stains | ❌ | ❌ | ❌ | ✅ | 12 |
-| /how-to-wash-clothes/how-to-do-laundry | ❌ | ✅ | ❌ | ✅ | 12 |
-| /latest-news | ✅ | ❌ | ❌ | ✅ | 11 |
-| /rewards | ❌ | ❌ | ❌ | ✅ | 11 |
-| /contact-us | ✅ | ✅ | ❌ | ✅ | 12 |
-| /rewards/loyalty/terms-and-conditions | ❌ | ✅ | ❌ | ✅ | 10 |
+| / | ❌ | ✅ | ❌ | ✅ | 16 |
+| /shop | ❌ | ❌ | ❌ | ✅ | 13 |
+| /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 11 |
+| /our-commitment | ✅ | ✅ | ❌ | ✅ | 13 |
+| /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 11 |
+| /how-to-wash-clothes | ✅ | ❌ | ❌ | ✅ | 13 |
+| /how-to-wash-clothes/how-to-remove-stains | ❌ | ❌ | ❌ | ✅ | 13 |
+| /how-to-wash-clothes/how-to-do-laundry | ❌ | ✅ | ❌ | ✅ | 13 |
+| /latest-news | ✅ | ❌ | ❌ | ✅ | 12 |
+| /rewards | ❌ | ❌ | ❌ | ✅ | 12 |
+| /contact-us | ✅ | ✅ | ❌ | ✅ | 13 |
+| /rewards/loyalty/terms-and-conditions | ❌ | ✅ | ❌ | ✅ | 11 |
 
 ## Fix list
 

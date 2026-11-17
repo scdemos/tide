@@ -28,12 +28,10 @@
   "provenance": "SC: the flagged lines are the original's own table cells (points table); the checker does not read tables."
  },
  "shop": {
-  "buttons": "SC: the original's buttons are the grid/list toggle, 'Load more' and 'Browse other products'; they are app behavior of the original product search.",
   "forms & inputs": "SC: the original's input is its product filter search.",
   "provenance": "SC: the title is the original's own page heading."
  },
  "shop_type_laundry-pods": {
-  "buttons": "SC: the original's buttons are the grid/list toggle and 'Load more' of the product search.",
   "forms & inputs": "SC: the original's input is its product filter search."
  }
 }

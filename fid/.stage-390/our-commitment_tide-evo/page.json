@@ -1,0 +1,165 @@
+{
+  "url": "https://tide.com/en-us/our-commitment/tide-evo",
+  "status": 200,
+  "errors": [
+    "Connecting to 'https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json' violates the following Content Security Policy directive: \"connect-src 'self' *.pg.com *.lightyearapi.com *.t",
+    "Fetch API cannot load https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json. Refused to connect because it violates the document's Content Security Policy.",
+    "Error: TypeError: Failed to fetch\n    at S (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2418)\n    at f (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2666)\n    at _ (https://tide",
+    "Loading the script 'https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=DAQO1G3C77UCICERMUPG&lib=ttq' violates the following Content Security Policy directive: \"script-src 'self' 'unsafe-inline' '",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
+    "",
+    "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(16), measurements: Array(2), exceptions: Array(1)} TypeError: Failed to fetch\n    at h",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(5)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, traces: Object, events: Array(6)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, measurements: Array(2), events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafa",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, traces: Object, events: Array(2)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-"
+  ],
+  "theme": null,
+  "declaredScheme": null,
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "lowContrast": [],
+  "title": "Tide evo - Detergent Entirely Made of Clean | Tide",
+  "height": 3712,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 61
+    },
+    "bg": "rgb(27, 51, 146)",
+    "rows": 2,
+    "sticky": true,
+    "logo": {
+      "x": 172,
+      "w": 47,
+      "h": 47,
+      "centered": true
+    },
+    "hiddenLinks": 4,
+    "items": [
+      "Skip to Content",
+      "navigation menu",
+      "Submit Search"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 2028,
+      "w": 390,
+      "h": 1684
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 4,
+      "width": 92
+    },
+    "carousel": false,
+    "texts": [],
+    "labels": [
+      "By Type",
+      "By Need",
+      "Top Collection"
+    ],
+    "headings": [],
+    "textChars": 576,
+    "links": [
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 3,
+    "images": 6,
+    "forms": 0,
+    "inputs": [],
+    "columns": 7
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 110,
+        "w": 390,
+        "h": 1898
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "center",
+        "left": 0,
+        "width": 100
+      },
+      "carousel": true,
+      "texts": [],
+      "labels": [],
+      "headings": [
+        "H1: meet Tide evo.",
+        "H2: 100% concentrated.",
+        "H2: powerful clean."
+      ],
+      "textChars": 226,
+      "links": 0,
+      "buttons": 4,
+      "images": 9,
+      "forms": 0,
+      "inputs": [],
+      "columns": 5
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": null,
+    "mobile": {
+      "hasButton": true,
+      "revealed": 2
+    }
+  }
+}
