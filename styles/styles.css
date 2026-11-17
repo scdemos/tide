@@ -62,6 +62,10 @@
   --color-card-dark: #1b3392;
   --color-rust-bright: #e04300;
   --color-muted: #5b6475;
+  --heading-font-weight: 800;
+  --section-ink-bg: #1b3392;
+  --h2-accent-display: none;
+  --nav-text-transform: uppercase;
 
   /* BRAND TOKENS:end */
 
@@ -325,7 +329,7 @@ h6 {
   margin-top: 0.8em;
   margin-bottom: 0.4em;
   font-family: var(--heading-font-family);
-  font-weight: 500;
+  font-weight: var(--heading-font-weight, 500);
   line-height: var(--heading-line-height);
   scroll-margin: 40px;
 }
@@ -701,7 +705,7 @@ main > .section.rust a:any-link {
 
 /* section-metadata style=ink: deep dark full-bleed section */
 :is(main, article.article-body) > .section.ink {
-  background-color: var(--color-ink);
+  background-color: var(--section-ink-bg, var(--color-ink));
   color: var(--color-parchment);
   margin: 0;
   padding: var(--space-3xl, var(--section-block-space)) 0;

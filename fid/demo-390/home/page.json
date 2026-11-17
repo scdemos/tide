@@ -1,0 +1,332 @@
+{
+  "url": "http://localhost:3000/",
+  "status": 200,
+  "errors": [],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [],
+  "title": "Laundry Detergent and Fabric Care Products - Tide",
+  "height": 5720,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 64
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 106,
+      "w": 100,
+      "h": 40,
+      "centered": false
+    },
+    "hiddenLinks": 52,
+    "items": [
+      "Open navigation",
+      "Search",
+      "Search"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 5061,
+      "w": 390,
+      "h": 659
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 4,
+      "width": 92
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 5
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 64,
+        "w": 390,
+        "h": 667
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 4,
+        "width": 92
+      },
+      "carousel": true,
+      "texts": [
+        "*vs. pretreating and washing with Tide Simply"
+      ],
+      "labels": [
+        "TRY IT NOW!",
+        "CHECK IT OUT!"
+      ],
+      "headings": [
+        "H1: new Tide evo",
+        "H2: Less Work, Better Clean*",
+        "H2: Tide POWER PODS®"
+      ],
+      "textChars": 96,
+      "links": 3,
+      "buttons": 8,
+      "images": 6,
+      "forms": 0,
+      "inputs": [],
+      "columns": 4
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 731,
+        "w": 390,
+        "h": 1522
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "See what we've been working on lately",
+        "Meet Tide evo. Detergent entirely made of clean.",
+        "Remove visible and invisible dirt",
+        "Tide is consumers' #1 Trusted laundry detergent brand in BrandSpark survey",
+        "Tide signs Space Act Agreement with NASA"
+      ],
+      "labels": [],
+      "headings": [
+        "H2: See what we've been working on lately"
+      ],
+      "textChars": 280,
+      "links": 4,
+      "buttons": 0,
+      "images": 8,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 2253,
+        "w": 390,
+        "h": 856
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Find the right Tide product for you",
+        "Pacs, Liquid, Powder and more.",
+        "Stain removal, Deep Cleaning, Bright Colors and more."
+      ],
+      "labels": [],
+      "headings": [
+        "H2: Find the right Tide product for you"
+      ],
+      "textChars": 150,
+      "links": 2,
+      "buttons": 0,
+      "images": 4,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 3109,
+        "w": 390,
+        "h": 395
+      },
+      "bg": "rgb(0, 0, 0)",
+      "tone": "dark",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [],
+      "labels": [
+        "SEE HOW TO REMOVE INK STAINS"
+      ],
+      "headings": [
+        "H2: Stain removal guide"
+      ],
+      "textChars": 131,
+      "links": 1,
+      "buttons": 1,
+      "images": 0,
+      "forms": 0,
+      "inputs": [
+        "select:select-one:I have a"
+      ],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 3504,
+        "w": 390,
+        "h": 546
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Whether you're a beginner or a seasoned pro, start here for some of our expert laundry tips and tricks."
+      ],
+      "labels": [
+        "LEARN MORE"
+      ],
+      "headings": [
+        "H2: How to do laundry"
+      ],
+      "textChars": 132,
+      "links": 1,
+      "buttons": 1,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 4050,
+        "w": 390,
+        "h": 947
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Life after disasters — hurricanes, floods, tornadoes, wildfires — can feel like a nightmare. Families are...",
+        "At Tide Safety Comes First, and It Never Stops",
+        "Keeping loved ones safe is a joint effort. We’ve been working closely with Safe Kids..."
+      ],
+      "labels": [],
+      "headings": [
+        "H2: Learn more"
+      ],
+      "textChars": 288,
+      "links": 2,
+      "buttons": 0,
+      "images": 4,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 4997,
+        "w": 390,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": {
+      "advances": true
+    },
+    "tabs": null,
+    "accordion": null,
+    "mobile": {
+      "hasButton": true,
+      "revealed": 1
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "url": "http://localhost:3000/how-to-wash-clothes",
+  "status": 200,
+  "errors": [],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [
+    {
+      "t": "SIGN IN",
+      "ratio": 1
+    }
+  ],
+  "title": "How to Wash Clothes - Laundry Tips and Tricks | Tide",
+  "height": 2032,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 150
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 32,
+      "w": 200,
+      "h": 45,
+      "centered": false
+    },
+    "hiddenLinks": 41,
+    "items": [
+      "SHOP PRODUCTS",
+      "OUR COMMITMENT",
+      "HOW TO WASH CLOTHES",
+      "WHAT’S NEW",
+      "COUPONS AND DEALS",
+      "Search",
+      "Search",
+      "SIGN IN",
+      "P&G",
+      "Downy",
+      "Bounce",
+      "Contact Us",
+      "US - English"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 1644,
+      "w": 1440,
+      "h": 388
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 8,
+      "width": 83
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 11
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 150,
+        "w": 1440,
+        "h": 522
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 44
+      },
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [
+        "H1: How to Wash Clothes"
+      ],
+      "textChars": 19,
+      "links": 0,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 672,
+        "w": 1440,
+        "h": 169
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Launder like a pro with our laundry tips on how to remove stains and get clean laundry. Whether you want to take the mystery out of doing the laundry, or you need some simple tricks on how to get rid of stains, Tide has you covered with our articles on clothing care and how to wash clothes. With our expert tips for laundry, clothes always look their best."
+      ],
+      "labels": [],
+      "headings": [],
+      "textChars": 357,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 841,
+        "w": 1440,
+        "h": 739
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 10,
+        "width": 80
+      },
+      "carousel": false,
+      "texts": [
+        "It’s a fact of life that not all stains are created equal.",
+        "Sometimes life isn’t easy, and neither is your laundry.",
+        "The Art of Washing Different Fabrics and Colors",
+        "Whether it’s washing different fabrics and colors or caring for your children’s stuffed animals, we at Tide ...",
+        "How to Use a Washer: From Common Problems to HE Detergent",
+        "If you’re looking for a guide covering everything you’ve ever wanted to know about washing machines, from sudsing to HE machines ...",
+        "It’s important to keep your laundry products up, closed and safe – away from children. If at any time you have difficulty closing your package, please reach out directly to our team."
+      ],
+      "labels": [],
+      "headings": [],
+      "textChars": 731,
+      "links": 4,
+      "buttons": 0,
+      "images": 8,
+      "forms": 0,
+      "inputs": [],
+      "columns": 5
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1580,
+        "w": 1440,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0
+}

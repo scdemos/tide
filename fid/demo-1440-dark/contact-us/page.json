@@ -1,0 +1,165 @@
+{
+  "url": "http://localhost:3000/contact-us",
+  "status": 200,
+  "errors": [],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [
+    {
+      "t": "SIGN IN",
+      "ratio": 1
+    }
+  ],
+  "title": "Laundry Detergent and Fabric Care Products - Tide",
+  "height": 1453,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 150
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 32,
+      "w": 200,
+      "h": 45,
+      "centered": false
+    },
+    "hiddenLinks": 41,
+    "items": [
+      "SHOP PRODUCTS",
+      "OUR COMMITMENT",
+      "HOW TO WASH CLOTHES",
+      "WHAT’S NEW",
+      "COUPONS AND DEALS",
+      "Search",
+      "Search",
+      "SIGN IN",
+      "P&G",
+      "Downy",
+      "Bounce",
+      "Contact Us",
+      "US - English"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 1065,
+      "w": 1440,
+      "h": 388
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 8,
+      "width": 83
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 11
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 290,
+        "y": 150,
+        "w": 860,
+        "h": 851
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": false,
+      "layout": {
+        "align": "start",
+        "left": 25,
+        "width": 51
+      },
+      "carousel": false,
+      "texts": [
+        "We’d love to hear from you. Send us a message and we’ll get back to you."
+      ],
+      "labels": [],
+      "headings": [
+        "H1: Contact Us"
+      ],
+      "textChars": 166,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 1,
+      "inputs": [
+        "input:text:Name",
+        "input:email:Email",
+        "select:select-one:Topic",
+        "textarea:textarea:Message"
+      ],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1001,
+        "w": 1440,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0
+}

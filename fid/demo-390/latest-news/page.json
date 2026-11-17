@@ -1,0 +1,284 @@
+{
+  "url": "http://localhost:3000/latest-news",
+  "status": 200,
+  "errors": [],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [],
+  "title": "Discover Tide's Latest News | Tide",
+  "height": 6118,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 64
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 106,
+      "w": 100,
+      "h": 40,
+      "centered": false
+    },
+    "hiddenLinks": 52,
+    "items": [
+      "Open navigation",
+      "Search",
+      "Search"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 5458,
+      "w": 390,
+      "h": 659
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 4,
+      "width": 92
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 5
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 64,
+        "w": 390,
+        "h": 1220
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Tide evo laundry detergent",
+        "6x cleaning layers. activates instantly in water.",
+        "Tide evo Laundry Detergent Tiles, Original Scent",
+        "Tide evo Laundry Detergent Tiles, Spring Blast Scent",
+        "Tide evo Laundry Detergent Tiles, Free & Gentle"
+      ],
+      "labels": [
+        "LEARN MORE"
+      ],
+      "headings": [
+        "H1: Tide evo laundry detergent",
+        "H2: Featured product"
+      ],
+      "textChars": 254,
+      "links": 1,
+      "buttons": 1,
+      "images": 6,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1284,
+        "w": 390,
+        "h": 2763
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Tide Original Liquid Laundry Detergent",
+        "*vs. pretreating and washing with Tide Simply",
+        "Tide Hygienic Clean Heavy Duty 10X Power PODS® Original Scent",
+        "Removes visible and invisible dirt.",
+        "Tide Ultra OXI Boost High Efficiency Liquid Laundry Detergent",
+        "Built-in pre-treaters to remove even the toughest stains.",
+        "Tide Ultra OXI Liquid Laundry Detergent with Odor Eliminators",
+        "Leaves laundry clothes looking good and smelling good, all at once!",
+        "Tide Plus A Touch of Downy Liquid Laundry Detergent",
+        "Offers the brilliant clean you know and love.",
+        "Tide Clean and Gentle Powder",
+        "Specially formulated and dermatologist tested for a great clean that's gentle on skin.",
+        "Tide PODS Free and Gentle Odor Refresh",
+        "Washes away all odors while staying gentle on the skin.",
+        "Tide Free and Gentle Odor Refresh Detergent",
+        "Tough on stains but not on skin."
+      ],
+      "labels": [
+        "LEARN MORE"
+      ],
+      "headings": [
+        "H2: Featured products"
+      ],
+      "textChars": 872,
+      "links": 1,
+      "buttons": 1,
+      "images": 14,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 4048,
+        "w": 390,
+        "h": 820
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "New blue design to remind you to turn to cold.",
+        "Meet Tide evo. Detergent entirely made of clean.",
+        "A limited-resource study to bring clean innovations back to Earth."
+      ],
+      "labels": [
+        "LEARN MORE"
+      ],
+      "headings": [
+        "H2: Tide programs",
+        "H3: Power even in cold.",
+        "H3: Tide evo"
+      ],
+      "textChars": 241,
+      "links": 2,
+      "buttons": 2,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 4868,
+        "w": 390,
+        "h": 526
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "During an average day, you’re likely to pick up a hodgepodge of bacteria and other germs from people and objects, some of which can transfer onto your clothes. On other days, you or someone in your household might be sick with a respiratory virus or a stomach bug.",
+        "The Effortless Way to Keep Your Everyday Items Clean",
+        "Research* shows that keeping your environment clean and organized will make you less stressed-out and happier."
+      ],
+      "labels": [],
+      "headings": [
+        "H2: Latest articles",
+        "H3: Laundry Hygiene Tips"
+      ],
+      "textChars": 465,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 5394,
+        "w": 390,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": null,
+    "mobile": {
+      "hasButton": true,
+      "revealed": 1
+    }
+  }
+}

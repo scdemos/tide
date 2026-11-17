@@ -238,7 +238,7 @@ function initSearch(tools) {
   const submit = document.createElement('button');
   submit.type = 'submit';
   submit.className = 'nav-tool nav-search-submit';
-  submit.setAttribute('aria-label', 'Search');
+  submit.setAttribute('aria-label', link.title || 'Search');
   if (icon) submit.append(icon.cloneNode(true));
 
   form.onsubmit = (e) => {
@@ -552,6 +552,8 @@ export default async function decorate(block) {
   // `stacked` layout: a 4th nav row is a utility bar (contact, region, sign in) above the brand row
   const utility = layout === 'stacked' ? nav.children[3] : null;
   utility?.classList.add('nav-utility');
+  // skip link target for the first utility link (`#site-content`)
+  if (utility) document.querySelector('main')?.setAttribute('id', 'site-content');
   const extras = layout === 'stacked' ? 4 : 3;
   if (tools && nav.children.length > extras) {
     [...nav.children].slice(extras).forEach((extra) => {

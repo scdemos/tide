@@ -33,7 +33,9 @@ async function fetchProductIndex(url) {
 function resolveImage(image, indexUrl) {
   if (!image) return '';
   try {
-    return new URL(image, new URL(indexUrl, window.location.origin)).pathname;
+    const url = new URL(image, new URL(indexUrl, window.location.origin));
+    // images hosted elsewhere (DA media) keep their full URL
+    return url.origin === window.location.origin ? url.pathname : url.href;
   } catch {
     return image;
   }

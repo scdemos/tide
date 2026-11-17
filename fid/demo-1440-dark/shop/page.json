@@ -1,0 +1,187 @@
+{
+  "url": "http://localhost:3000/shop",
+  "status": 200,
+  "errors": [
+    "404 http://localhost:3000/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "404 http://localhost:3000/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "404 http://localhost:3000/scdemos/tide/media/1103581e628f.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "404 http://localhost:3000/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "404 http://localhost:3000/scdemos/tide/media/81027d6b0ffd.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "404 http://localhost:3000/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "404 http://localhost:3000/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "404 http://localhost:3000/scdemos/tide/media/f736c5e11c66.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "404 http://localhost:3000/scdemos/tide/media/8c126de7871f.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [
+    {
+      "t": "SIGN IN",
+      "ratio": 1
+    }
+  ],
+  "title": "Laundry Detergent and Fabric Care Products - Tide",
+  "height": 1767,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 150
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 32,
+      "w": 200,
+      "h": 45,
+      "centered": false
+    },
+    "hiddenLinks": 41,
+    "items": [
+      "SHOP PRODUCTS",
+      "OUR COMMITMENT",
+      "HOW TO WASH CLOTHES",
+      "WHAT’S NEW",
+      "COUPONS AND DEALS",
+      "Search",
+      "Search",
+      "SIGN IN",
+      "P&G",
+      "Downy",
+      "Bounce",
+      "Contact Us",
+      "US - English"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 1379,
+      "w": 1440,
+      "h": 388
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 8,
+      "width": 83
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 11
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 150,
+        "w": 1440,
+        "h": 1165
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Tide evo Laundry Detergent Tiles, Original Scent",
+        "Tide Original Liquid Laundry Detergent",
+        "Tide OXI Boost Power PODS®",
+        "Tide Free and Gentle Liquid Laundry Detergent",
+        "Tide PODS® Laundry Detergent Original Scent",
+        "Tide Ultra OXI Power PODS® with Odor Eliminators",
+        "Tide PODS® Laundry Detergent Spring Meadow Scent",
+        "Tide Ultra OXI Boost High Efficiency Liquid Laundry Detergent",
+        "Tide Plus A Touch of Downy Liquid Laundry Detergent"
+      ],
+      "labels": [],
+      "headings": [
+        "H1: Shop Tide Products"
+      ],
+      "textChars": 435,
+      "links": 9,
+      "buttons": 0,
+      "images": 18,
+      "forms": 0,
+      "inputs": [],
+      "columns": 3
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 1315,
+        "w": 1440,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0
+}

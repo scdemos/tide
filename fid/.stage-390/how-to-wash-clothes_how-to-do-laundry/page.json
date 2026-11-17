@@ -1,0 +1,271 @@
+{
+  "url": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry",
+  "status": 200,
+  "errors": [
+    "Connecting to 'https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json' violates the following Content Security Policy directive: \"connect-src 'self' *.pg.com *.lightyearapi.com *.t",
+    "Fetch API cannot load https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json. Refused to connect because it violates the document's Content Security Policy.",
+    "Error: TypeError: Failed to fetch\n    at S (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2418)\n    at f (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2666)\n    at _ (https://tide",
+    "Loading the script 'https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=DAQO1G3C77UCICERMUPG&lib=ttq' violates the following Content Security Policy directive: \"script-src 'self' 'unsafe-inline' '",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
+    "",
+    "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je"
+  ],
+  "theme": null,
+  "declaredScheme": null,
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "lowContrast": [],
+  "title": "How to Do Laundry: Your Comprehensive Guide | Tide",
+  "height": 36507,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 61
+    },
+    "bg": "rgb(27, 51, 146)",
+    "rows": 2,
+    "sticky": true,
+    "logo": {
+      "x": 172,
+      "w": 47,
+      "h": 47,
+      "centered": true
+    },
+    "hiddenLinks": 4,
+    "items": [
+      "Skip to Content",
+      "navigation menu",
+      "Submit Search"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 34911,
+      "w": 390,
+      "h": 1596
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 4,
+      "width": 92
+    },
+    "carousel": false,
+    "texts": [],
+    "labels": [
+      "By Type",
+      "By Need",
+      "Top Collection"
+    ],
+    "headings": [],
+    "textChars": 576,
+    "links": [
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 3,
+    "images": 6,
+    "forms": 0,
+    "inputs": [],
+    "columns": 7
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 61,
+        "w": 390,
+        "h": 846
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 4,
+        "width": 92
+      },
+      "carousel": false,
+      "texts": [
+        "Sometimes life isn’t easy, and neither is your laundry.",
+        "You may feel overwhelmed when you’re faced with choosing the right detergent, or, perhaps you’re more worried about shrinking that sweater in the wash. From how to do laundry, beginning with the basics such as sorting, dosing the right amount of detergent, and decoding laundry symbols to getting sweat stains out of clothes, let Tide help you with our laundry guide that includes seven easy tips on how to wash clothes in washing machines—whether you’re a novice or a pro."
+      ],
+      "labels": [
+        "Browse Laundry Articles",
+        "Laundry Care In 9 Steps"
+      ],
+      "headings": [
+        "H1: How to Do Laundry"
+      ],
+      "textChars": 636,
+      "links": 7,
+      "buttons": 2,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 3
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 907,
+        "w": 390,
+        "h": 33855
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 4,
+        "width": 92
+      },
+      "carousel": true,
+      "texts": [
+        "Find Out Everything You Need to Know about Your Detergent",
+        "Even the most experienced washers sometimes need tips for better laundry, so here are Tide's top laundry tips for experts.",
+        "How Does Washing Clothes with Vinegar or Baking Soda Compare to Detergent?",
+        "Baking soda and distilled white vinegar are two of the most versatile products that people turn to for a multitude of household cleaning solutions.",
+        "How to Care for Sensitive Skin",
+        "Whether you experience seasonal skin sensitivities or have year-round, persistent issues, having sensitive...",
+        "How Much Laundry Detergent to Use",
+        "Ever seen white residues on your clothes after washing and thought... “I’ve used too much detergent in that load!”",
+        "How to Separate Your Laundry for the Best Results",
+        "Follow our simple tips for sorting laundry , and say goodbye to laundry accidents forever.",
+        "How to Read Laundry Symbols",
+        "Laundry symbols seem like another language, but the washing machine symbols on your garments’ care labels tell...",
+        "How to Use Tide Clean Boost Fabric Rinse",
+        "Tide Fabric Rinse is a new laundry odor remover that helps rinse away the smelly residue trapped within fabric fibers by acting as a laundry detergent booster.",
+        "Tide evo is a laundry detergent with 6x concentrated layers that activate instantly in water. Tide evo has no added water, no fillers and no plastic bottles.",
+        "Try These Laundry Tips for College Students",
+        "College isn’t about spending time doing laundry.",
+        "How to Organize Your Laundry Room",
+        "Five tips for keeping your laundry room in order.",
+        "Tide Detergents: Choosing the Best Option for Your Laundry Needs",
+        "Laundry can be a breeze when you choose the right detergent.",
+        "Mastering Laundry in Hard Water Areas with Tide and Downy",
+        "Doing laundry in areas with hard water can be a real challenge, but Tide and Downy are here to help!",
+        "Learn More About Tide PODs Innovative Water-Soluble Smart Film",
+        "Tide PODS are convenient pre-measured detergent pacs that provide effective stain removal and make the laundry task easier to complete.",
+        "Discover the Best Smelling Detergent for Long-Lasting Freshness",
+        "Laundry day is more than just about cleaning—it's about ensuring your clothes carry a delightful fragrance that lasts. At Tide, we understand the importance of fresh-smelling laundry, and we're here to help you achieve that perfect aroma.",
+        "Tackle Tough Stains with Tide: A Practical Guide",
+        "Dealing with stains can be a hassle, but Tide is here to help you manage even the most stubborn ones.",
+        "Understanding Oxygen Bleach and Oxi Boosters: Complementing Your Detergent",
+        "You might wonder if oxygen boosters can replace your detergent. The truth is, they work differently and are designed to complement each other, giving you the best results for your laundry.",
+        "Spring Cleaning Made Simple: A Fresh Start with Laundry",
+        "When you think “spring cleaning,” it’s easy to picture a long to-do list and feel overwhelmed. A simple way to get started is to focus on one category that makes a big impact: laundry.",
+        "Enhance Your Laundry Experience: Discover the Power of Scent Beads and Fresh-Smelling Detergents",
+        "Laundry doesn’t have to just be about cleaning; in addition to clean clothes, you can create a sensory experience that leaves your clothes smelling delightful.",
+        "Understanding Detergent Fragrances: How Tide Offers Freshness Without Overpowering Scents",
+        "Laundry day is all about achieving fresh, clean clothes, but sometimes you want flexibility on the scent of your detergent.",
+        "Discover the Best Detergent for Eczema-Prone Skin",
+        "When it comes to sensitive skin, choosing the right laundry detergent is crucial.",
+        "Mastering Tide Evo: Your Guide to a Perfect Wash",
+        "Tide Evo is a revolutionary laundry detergent tile designed to make washing easier and more efficient. Here’s how to use it effectively and troubleshoot common issues.",
+        "Comparing Tide evo Tiles: Your Guide to Choosing the Right Detergent",
+        "Choosing the right detergent can make a big difference to your laundry routine in terms of cleaning effectiveness and simplicity. Tide evo offers a unique solution by eliminating plastic packaging and providing ultra-concentrated cleaning power. But how do they stand up against other forms of detergents like liquids, powders, sheets, pods, and laundry soda?",
+        "Discover Real Laundry Magic with Tide evo",
+        "For generations, Tide has been synonymous with clean. We’ve been there for life's toughest messes, the everyday laundry pile, and the comforting scent of freshly washed clothes. We heard you, loud and clear. You love the performance of Tide, the confidence it brings, but you're also increasingly conscious about the heavy jugs, plastic bottles, and unnecessary ingredients.",
+        "Discover the Benefits of Tide evo Laundry Tiles",
+        "Laundry just got easier with Tide evo laundry tiles. These innovative detergent tiles offer powerful cleaning in a lightweight form that comes in FSC Certified paperboard packaging.",
+        "What Is the Best Detergent in Terms of Quality? What the Science Actually Shows",
+        "In real-world use, the “best” detergent is not simply the strongest or the mildest. It is one that consistently delivers a deep, thorough clean in everyday conditions - cold water, standard or short cycles, mixed fabrics - while keeping clothes looking, feeling, and smelling “like new” over many washes.",
+        "A Scientific Guide to Laundry for Sensitive Skin: Understanding the Role of Residues, Performance, and Formulation",
+        "Are Detergents Toxic? What Science Actually Says",
+        "High-quality detergents including well-established brands such as Tide are rigorously tested to ensure they are safe for everyday household use when used as directed for laundering clothes.",
+        "Hazard vs. Risk: Why 'Toxic’ Claims About Your Detergent May Be Misleading",
+        "You’ve seen the alarming posts on social media. The blog articles with scary headlines. They list complex-sounding ingredients in your laundry detergent and label them \"toxic,\" \"carcinogenic,\" or \"harmful.\" It’s enough to make anyone worry about the clothes they put on their family every day.",
+        "Why a Better Clean Is a Part of a Safe Clean",
+        "In the search for a safer, healthier home, many of us are drawn to products labeled \"natural,\" \"plant-based,\" or \"eco-friendly.\" It feels like the responsible choice, especially when it comes to the laundry that touches our family's skin.",
+        "What's Really on Your Clothes? A Deep Dive into Detergent Residue",
+        "You pull a warm shirt from the dryer. It smells fresh and looks clean. But a nagging thought, fueled by something you read online, pops into your head: What if it’s covered in invisible chemical residue?",
+        "Is Tide Safe? How Decades of Scientific Testing Ensure Your Family's Safety",
+        "It’s one of the most common questions consumers ask: \"Is Tide safe for my family?\" With so much conflicting information online, it's easy to feel uncertain.",
+        "Wash Smarter with Cold Water",
+        "Cold water washing is better for your clothes, wallet, and the planet — and Tide makes it easy.",
+        "A Technical Review and Fact-Check: The Rolsky & Kelkar (2021) Study on Polyvinyl Alcohol (PVA) and its Inapplicability to Water-Soluble Detergent Films",
+        "A Fragrance-Free Laundry Routine That Still Leaves Clothes Truly Clean",
+        "If scents give you a headache—or you’re simply avoiding added fragrance—laundry day can feel like a minefield. At Tide, we hear this a lot: people want a detergent that skips perfumes but still delivers a deep clean.",
+        "How to Choose a Laundry Detergent for Your Pet’s Bedding, Toys, and Blankets",
+        "Pet fabrics go through a lot—bedding, blankets, soft toys, and crate liners can pick up a unique mix of soils like dander, body oils, and protein-based messes.",
+        "Tide and Sensitive Skin: How to Choose the Right Detergent (and Wash Routine)",
+        "If you’re dealing with sensitive skin (or eczema-prone skin in your household), it’s normal to look closely at what touches your clothes and bedding every day.",
+        "Tide PODS and Skin Safety: What to Know About Residue, Rinsing, and Sensitive Skin",
+        "It’s a question you may think about while tossing a pod into the wash: Are Tide Pods safe for my skin?",
+        "Your Sensitive Skin Laundry Guide: Strong Cleaning, Fewer Unwanted Add-ons",
+        "If you’ve ever wondered, “Do strong detergents irritate skin?”, you’re not alone. At Tide, we hear this a lot—and it often comes from a misunderstanding of what’s really behind laundry-related irritation.",
+        "Does Tide Evo Fully Dissolve? The Complete Guide to Preventing Residue",
+        "Volatile Organic Compounds (VOCs) in Laundry Products: Does VOC Content Translate to Airborne Emissions?",
+        "Are All Laundry Detergents the Same?",
+        "It's a common question in the laundry aisle: is there really a difference between the budget brand and the premium option?",
+        "Is a Premium Detergent Like Tide Worth It?",
+        "When you see a premium detergent on the shelf, it's fair to ask: is it really worth the extra cost?",
+        "The Best Detergent for Stains, Odors, Cold Water, and HE Machines"
+      ],
+      "labels": [],
+      "headings": [
+        "H2: Laundry Basics",
+        "H1: Are Detergents Toxic? What Science Actually Says",
+        "H1: Hazard vs. Risk: Why 'Toxic’ Claims About Your Detergent May Be Misleading",
+        "H1: Why a Better Clean Is a Part of a Safe Clean",
+        "H1: What's Really on Your Clothes? A Deep Dive into Detergent Residue",
+        "H1: Is Tide Safe? How Decades of Scientific Testing Ensure Your Family's Safety",
+        "H1: A Technical Review and Fact-Check: The Rolsky & Kelkar (2021) Study on Polyvinyl Alcohol (",
+        "H2: Odor Removal",
+        "H2: Laundry Care In 9 Easy Steps",
+        "H1: ",
+        "H4: Normal/Regular Cycle",
+        "H4: Delicate Cycle",
+        "H4: Permanent Press Cycle",
+        "H4: Cold Setting",
+        "H4: Warm Setting",
+        "H4: Hot Setting"
+      ],
+      "textChars": 26869,
+      "links": 163,
+      "buttons": 1,
+      "images": 30,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": null,
+    "mobile": {
+      "hasButton": true,
+      "revealed": 2
+    }
+  }
+}

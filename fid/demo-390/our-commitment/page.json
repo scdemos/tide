@@ -1,0 +1,196 @@
+{
+  "url": "http://localhost:3000/our-commitment",
+  "status": 200,
+  "errors": [],
+  "theme": "light",
+  "declaredScheme": "light",
+  "bodyBg": "rgb(255, 255, 255)",
+  "lowContrast": [],
+  "title": "Our Commitment - Learn More About The Brand | Tide",
+  "height": 4860,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 64
+    },
+    "bg": "rgb(255, 255, 255)",
+    "rows": 0,
+    "sticky": false,
+    "logo": {
+      "x": 106,
+      "w": 100,
+      "h": 40,
+      "centered": false
+    },
+    "hiddenLinks": 52,
+    "items": [
+      "Open navigation",
+      "Search",
+      "Search"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 4200,
+      "w": 390,
+      "h": 659
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 4,
+      "width": 92
+    },
+    "carousel": false,
+    "texts": [
+      "Washing Different Fabrics and Colors",
+      "Related: P&G Brands | MrClean | Downy | Bounce | P&G Everyday",
+      "Tide Rewards Terms and Conditions",
+      "Consumer Health Data Privacy Policy"
+    ],
+    "labels": [],
+    "headings": [],
+    "textChars": 455,
+    "links": [
+      "By Type",
+      "By Need",
+      "Top Collection",
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 0,
+    "images": 0,
+    "forms": 0,
+    "inputs": [],
+    "columns": 5
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 64,
+        "w": 390,
+        "h": 452
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 4,
+        "width": 80
+      },
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [
+        "H1: Our Commitment"
+      ],
+      "textChars": 14,
+      "links": 0,
+      "buttons": 0,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 516,
+        "w": 390,
+        "h": 3620
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 13,
+        "width": 75
+      },
+      "carousel": false,
+      "texts": [
+        "Washing in cold is not only beneficial for you and your wallet, but for the environment, too.",
+        "*vs. pretreating and washing with Tide Simply",
+        "Meet Tide evo. Detergent entirely made of clean.",
+        "Don't pay for water, pay for clean",
+        "Tide PODS® are formulated with 88% concentrated ingredients to powerfully remove stains.",
+        "A limited-resource study to bring clean innovations back to Earth.",
+        "The results are in. Word of mouth is important when it comes to laundry reviews, and Tide's numbers don't lie.",
+        "Life after disasters — hurricanes, floods, tornadoes, wildfires — can feel like a nightmare. Families are displaced. Routine is interrupted. Nothing feels normal.",
+        "All About Tide Ingredients",
+        "You have many reasons to be interested in what ingredients are – and are not – in the products you use, so...",
+        "Introducing Tide Cleaners!",
+        "Laundry is something we all have to do, but most of us don’t enjoy it."
+      ],
+      "labels": [],
+      "headings": [],
+      "textChars": 1095,
+      "links": 9,
+      "buttons": 0,
+      "images": 18,
+      "forms": 0,
+      "inputs": [],
+      "columns": 2
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 4136,
+        "w": 390,
+        "h": 64
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": null,
+      "carousel": false,
+      "texts": [],
+      "labels": [],
+      "headings": [],
+      "textChars": 0,
+      "links": 0,
+      "buttons": 0,
+      "images": 0,
+      "forms": 0,
+      "inputs": [],
+      "columns": 0
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": null,
+    "mobile": {
+      "hasButton": true,
+      "revealed": 1
+    }
+  }
+}
