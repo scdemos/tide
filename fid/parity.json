@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 9,
-  "at": "2026-11-17T17:47:58.648Z",
+  "iteration": 10,
+  "at": "2026-11-17T17:56:02.672Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -114,7 +114,7 @@
         "look & feel": "fail",
         "functionality": "fail"
       },
-      "rounds": 8
+      "rounds": 9
     },
     {
       "original": "/shop",
@@ -197,7 +197,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/shop/type/laundry-pods",
@@ -294,7 +294,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/our-commitment",
@@ -342,7 +342,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/our-commitment/tide-evo",
@@ -446,7 +446,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/how-to-wash-clothes",
@@ -501,7 +501,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/how-to-wash-clothes/how-to-remove-stains",
@@ -605,7 +605,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/how-to-wash-clothes/how-to-do-laundry",
@@ -681,7 +681,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/latest-news",
@@ -722,7 +722,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 9
     },
     {
       "original": "/rewards",
@@ -784,7 +784,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 8
+      "rounds": 9
     },
     {
       "original": "/contact-us",
@@ -818,7 +818,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/rewards/loyalty/terms-and-conditions",
@@ -873,7 +873,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     }
   ]
 }
