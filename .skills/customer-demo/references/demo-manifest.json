@@ -141,8 +141,16 @@
       "use": "GATED step-by-step checklist (\"complete each checkpoint to unlock\"). Not a timeline: use table striped (Year | Milestone) for history."
     },
     "quiz": {
-      "variants": [],
-      "use": "interactive questionnaire (risk profiler, product finder)"
+      "variants": [
+        "finder"
+      ],
+      "use": "interactive questionnaire (risk profiler, product finder)",
+      "finderModel": {
+        "level": 4,
+        "baseCandidate": true,
+        "contentModel": "rows: 'Questions'; sentence with \u2026 for the dropdown; one row per option (label in col 2, destination link in col 4). Dropdown + button, no scoring.",
+        "use": "'I have a ___' selectors that lead to a page (stain finder, product finder)"
+      }
     },
     "compound-interest-calculator": {
       "variants": [],
@@ -237,7 +245,8 @@
     "templates": {
       "level": 7,
       "use": "Template: article (insights/news, breadcrumb, date) and Template: events (listing); add a new template for a page type that appears on 2+ pages"
-    }
+    },
+    "martechConsent": "scripts.js: Web SDK defaultConsent is 'pending' (no third-party cookies until the visitor accepts); the cross-site login session call (auth-api.js) runs only after a login was started in this browser"
   },
   "mappingRules": [
     "Fidelity first: never force a customer pattern into a block if it changes the look; never drop content.",
@@ -250,8 +259,8 @@
   ],
   "pageMetadata": {
     "social-share": "off hides the floating share dock (delayed.js)",
-    "currency": "ISO code for calculators (USD, TWD, CAD…)",
-    "locale": "Intl locale for calculators (en-US…)",
+    "currency": "ISO code for calculators (USD, TWD, CAD\u2026)",
+    "locale": "Intl locale for calculators (en-US\u2026)",
     "Experiment / Experiment Variants": "page-level A/B: variants are full pages, relative paths OK",
     "Campaign-<name>": "value must be the served URL of the campaign page: a DA doc named index is served at the FOLDER url (/campaigns/x/), not /campaigns/x/index",
     "color-scheme": "light | dark | auto (default). Set light/dark site-wide in metadata.json when the customer has no dark mode, so the OS preference cannot flip the demo"
@@ -268,6 +277,16 @@
     "login-label / logout-label": {
       "level": 0,
       "use": "metadata overrides for auth link text"
+    },
+    "header nav-layout: stacked": {
+      "level": 6,
+      "baseCandidate": true,
+      "use": "three rows: utility bar (4th nav row: skip link, partner logos, contact, region), brand + search bar in the brand color, sub-nav in the dark surface color with dropdowns/mega menus; header height reserved via body class set early (no CLS)"
+    },
+    "footer footer-layout: columns": {
+      "level": 6,
+      "baseCandidate": true,
+      "use": "brand-colored connect band + social icon links, columns block of link lists, related links, legal link row; icon-only links get aria-labels"
     }
   },
   "baseContentMarkers": {
@@ -278,5 +297,11 @@
       "Lorem ipsum",
       "Demo Site"
     ]
+  },
+  "tokens": {
+    "--heading-font-weight": "heading weight (default 500)",
+    "--section-ink-bg": "background of section style ink (default --color-ink)",
+    "--h2-accent-display": "none hides the bar under h2",
+    "--nav-text-transform": "nav label casing"
   }
 }

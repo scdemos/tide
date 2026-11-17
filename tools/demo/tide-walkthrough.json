@@ -1,0 +1,97 @@
+{
+  "topbarTitle": "Tide demo walkthrough",
+  "topbarSubtitle": "tide.com rebuilt on AEM Edge Delivery Services",
+  "slides": [
+    {
+      "eyebrowLabel": "The site",
+      "slideTitle": "Tide, rebuilt on Edge Delivery",
+      "leadParagraph": "Real tide.com pages and content: home, shop, our commitment, how to wash clothes, what's new, rewards.",
+      "bulletPoints": [
+        "Three-row header with dropdown menus",
+        "Product browse, stain finder, carousels and cards",
+        "Compare side by side with tide.com"
+      ],
+      "openInBrowser": [
+        {
+          "buttonText": "Open the demo",
+          "url": "https://main--tide--scdemos.aem.page/"
+        }
+      ]
+    },
+    {
+      "eyebrowLabel": "Authoring",
+      "slideTitle": "Authors work in documents",
+      "leadParagraph": "Every page is a document in Document Authoring: headings, text, images and blocks in tables.",
+      "bulletPoints": [
+        "Edit the home page in DA",
+        "Change a headline and preview",
+        "Edit nav and footer once, everywhere"
+      ],
+      "openInBrowser": [
+        {
+          "buttonText": "Open DA",
+          "url": "https://da.live/#/scdemos/tide"
+        }
+      ]
+    },
+    {
+      "eyebrowLabel": "Block library",
+      "slideTitle": "Drag in ready-made blocks",
+      "leadParagraph": "The Library panel lists cards, columns, carousel, product grid, stain finder, tabs and more, each with a Tide example.",
+      "bulletPoints": [
+        "Open a page in DA, then Library, then Blocks",
+        "Insert a Carousel or Product Grid",
+        "Header and footer variants are set in site metadata"
+      ],
+      "openInBrowser": [
+        {
+          "buttonText": "Block library",
+          "url": "https://da.live/#/scdemos/tide/docs/library/blocks"
+        }
+      ]
+    },
+    {
+      "eyebrowLabel": "Performance",
+      "slideTitle": "Fast by default",
+      "leadParagraph": "Lighthouse scores of 100 for performance, accessibility and best practices on mobile and desktop are the target for every page.",
+      "bulletPoints": [
+        "No framework, no build step",
+        "Images optimized automatically",
+        "Analytics wait for consent"
+      ]
+    },
+    {
+      "eyebrowLabel": "Search and forms",
+      "slideTitle": "Search and a contact form",
+      "leadParagraph": "Site search runs on the query index. The contact form posts to the shared demo endpoint.",
+      "bulletPoints": [
+        "Search for \"stain\" or \"pods\"",
+        "Do not submit the form live: it posts to a shared channel"
+      ],
+      "openInBrowser": [
+        {
+          "buttonText": "Search",
+          "url": "https://main--tide--scdemos.aem.page/search?q=stain"
+        }
+      ]
+    },
+    {
+      "eyebrowLabel": "Publishing",
+      "slideTitle": "Review, schedule and roll out",
+      "leadParagraph": "Request Publish routes changes to an approver, Schedule Publish queues a go-live, and Multi-Site Manager rolls content out to other locales.",
+      "bulletPoints": [
+        "Request Publish: Library, then Request Publish",
+        "Schedule Publish and Multi-Site Manager: the Prepare menu in DA"
+      ]
+    },
+    {
+      "eyebrowLabel": "Personalization",
+      "slideTitle": "Add an experiment or campaign",
+      "leadParagraph": "None are set by default. Add Experiment metadata to a page and a challenger page to run an A/B test.",
+      "bulletPoints": [
+        "Experiment: <id> and Experiment Variants: <path> in page metadata",
+        "Preview with ?experiment=<id>/challenger-1"
+      ]
+    }
+  ]
+}
