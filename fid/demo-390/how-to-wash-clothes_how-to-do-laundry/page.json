@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Do Laundry: Your Comprehensive Guide | Tide",
-  "height": 30781,
+  "height": 30076,
   "header": {
     "box": {
       "x": 0,
@@ -34,9 +34,9 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 30122,
+      "y": 29291,
       "w": 390,
-      "h": 659
+      "h": 785
     },
     "bg": "rgb(255, 255, 255)",
     "tone": "light",
@@ -83,7 +83,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 5
+    "columns": 7
   },
   "sections": [
     {
@@ -120,7 +120,7 @@
         "x": 0,
         "y": 503,
         "w": 390,
-        "h": 29619
+        "h": 28789
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -218,15 +218,15 @@
       ],
       "headings": [
         "H2: Laundry Basics",
-        "H1: Are Detergents Toxic? What Science Actually Says",
-        "H1: Hazard vs. Risk: Why 'Toxic’ Claims About Your Detergent May Be Misleading",
-        "H1: Why a Better Clean Is a Part of a Safe Clean",
-        "H1: What's Really on Your Clothes? A Deep Dive into Detergent Residue",
-        "H1: Is Tide Safe? How Decades of Scientific Testing Ensure Your Family's Safety",
-        "H1: A Technical Review and Fact-Check: The Rolsky & Kelkar (2021) Study on Polyvinyl Alcohol (",
+        "H2: Are Detergents Toxic? What Science Actually Says",
+        "H2: Hazard vs. Risk: Why 'Toxic’ Claims About Your Detergent May Be Misleading",
+        "H2: Why a Better Clean Is a Part of a Safe Clean",
+        "H2: What's Really on Your Clothes? A Deep Dive into Detergent Residue",
+        "H2: Is Tide Safe? How Decades of Scientific Testing Ensure Your Family's Safety",
+        "H2: A Technical Review and Fact-Check: The Rolsky & Kelkar (2021) Study on Polyvinyl Alcohol (",
         "H2: Odor Removal",
         "H2: Laundry Care In 9 Easy Steps",
-        "H4: Normal/Regular Cycle",
+        "H3: Normal/Regular Cycle",
         "H4: Delicate Cycle",
         "H4: Permanent Press Cycle",
         "H4: Cold Setting",
@@ -236,7 +236,7 @@
       "textChars": 26689,
       "links": 6,
       "buttons": 1,
-      "images": 30,
+      "images": 26,
       "forms": 0,
       "inputs": [],
       "columns": 1

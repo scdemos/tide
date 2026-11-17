@@ -5,9 +5,14 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [],
+  "lowContrast": [
+    {
+      "t": "SKIP TO CONTENT",
+      "ratio": 2.3
+    }
+  ],
   "title": "How to Do Laundry: Your Comprehensive Guide | Tide",
-  "height": 21273,
+  "height": 20686,
   "header": {
     "box": {
       "x": 0,
@@ -19,9 +24,9 @@
     "rows": 0,
     "sticky": false,
     "logo": {
-      "x": 32,
-      "w": 200,
-      "h": 45,
+      "x": 570,
+      "w": 80,
+      "h": 16,
       "centered": false
     },
     "hiddenLinks": 41,
@@ -42,9 +47,9 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 20884,
+      "y": 20251,
       "w": 1440,
-      "h": 388
+      "h": 434
     },
     "bg": "rgb(255, 255, 255)",
     "tone": "light",
@@ -128,7 +133,7 @@
         "x": 0,
         "y": 721,
         "w": 1440,
-        "h": 20164
+        "h": 19531
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -226,15 +231,15 @@
       ],
       "headings": [
         "H2: Laundry Basics",
-        "H1: Are Detergents Toxic? What Science Actually Says",
-        "H1: Hazard vs. Risk: Why 'Toxic’ Claims About Your Detergent May Be Misleading",
-        "H1: Why a Better Clean Is a Part of a Safe Clean",
-        "H1: What's Really on Your Clothes? A Deep Dive into Detergent Residue",
-        "H1: Is Tide Safe? How Decades of Scientific Testing Ensure Your Family's Safety",
-        "H1: A Technical Review and Fact-Check: The Rolsky & Kelkar (2021) Study on Polyvinyl Alcohol (",
+        "H2: Are Detergents Toxic? What Science Actually Says",
+        "H2: Hazard vs. Risk: Why 'Toxic’ Claims About Your Detergent May Be Misleading",
+        "H2: Why a Better Clean Is a Part of a Safe Clean",
+        "H2: What's Really on Your Clothes? A Deep Dive into Detergent Residue",
+        "H2: Is Tide Safe? How Decades of Scientific Testing Ensure Your Family's Safety",
+        "H2: A Technical Review and Fact-Check: The Rolsky & Kelkar (2021) Study on Polyvinyl Alcohol (",
         "H2: Odor Removal",
         "H2: Laundry Care In 9 Easy Steps",
-        "H4: Normal/Regular Cycle",
+        "H3: Normal/Regular Cycle",
         "H4: Delicate Cycle",
         "H4: Permanent Press Cycle",
         "H4: Cold Setting",

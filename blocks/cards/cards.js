@@ -187,6 +187,48 @@ function addViewToggle(block) {
   set('list');
 }
 
+/**
+ * Variant `cards carousel`: cards in a row with previous/next arrows and page dots.
+ */
+function addCarousel(block) {
+  const list = block.querySelector(':scope > ul');
+  if (!list || list.children.length < 2) return;
+  const viewport = createTag('div', { class: 'cards-carousel-viewport' });
+  list.replaceWith(viewport);
+  viewport.append(list);
+  const items = [...list.children];
+  const stepWidth = () => items[1].offsetLeft - items[0].offsetLeft;
+  const perView = () => Math.max(1, Math.round(list.clientWidth / stepWidth()));
+  const pages = () => Math.max(1, items.length - perView() + 1);
+  const prev = createTag('button', { type: 'button', class: 'cards-carousel-arrow cards-carousel-prev', 'aria-label': 'Previous slide' });
+  const next = createTag('button', { type: 'button', class: 'cards-carousel-arrow cards-carousel-next', 'aria-label': 'Next slide' });
+  const dots = createTag('div', { class: 'cards-carousel-dots' });
+  const goTo = (i) => list.scrollTo({ left: i * stepWidth(), behavior: 'smooth' });
+  const current = () => Math.round(list.scrollLeft / stepWidth());
+  const sync = () => {
+    const at = Math.min(current(), pages() - 1);
+    prev.disabled = at <= 0;
+    next.disabled = at >= pages() - 1;
+    dots.querySelectorAll('button').forEach((d, i) => d.setAttribute('aria-current', String(i === at)));
+  };
+  const buildDots = () => {
+    dots.textContent = '';
+    for (let i = 0; i < pages(); i += 1) {
+      const dot = createTag('button', { type: 'button', class: 'cards-carousel-dot', 'aria-label': `Go to slide ${i + 1}` });
+      dot.addEventListener('click', () => goTo(i));
+      dots.append(dot);
+    }
+    sync();
+  };
+  prev.addEventListener('click', () => goTo(Math.max(0, current() - 1)));
+  next.addEventListener('click', () => goTo(Math.min(pages() - 1, current() + 1)));
+  list.addEventListener('scroll', sync, { passive: true });
+  window.addEventListener('resize', buildDots);
+  viewport.append(prev, next);
+  block.append(dots);
+  buildDots();
+}
+
 export default async function decorate(block) {
   if (block.classList.contains('links')) {
     await decorateLinks(block);
@@ -196,4 +238,5 @@ export default async function decorate(block) {
     decorateDefault(block);
   }
   if (block.classList.contains('switchable')) addViewToggle(block);
+  if (block.classList.contains('carousel')) addCarousel(block);
 }

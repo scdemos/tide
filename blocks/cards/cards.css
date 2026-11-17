@@ -790,3 +790,109 @@
   align-items: center;
   min-height: 24px;
 }
+
+/* variant: carousel (cards in a scrolling row with arrows and dots) */
+.cards.carousel .cards-carousel-viewport {
+  position: relative;
+}
+
+.cards.carousel .cards-carousel-viewport > ul {
+  display: flex;
+  gap: var(--space-m);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.cards.carousel .cards-carousel-viewport > ul::-webkit-scrollbar {
+  display: none;
+}
+
+.cards.carousel .cards-carousel-viewport > ul > li {
+  flex: 0 0 85%;
+  scroll-snap-align: start;
+}
+
+@media (width >= 900px) {
+  .cards.carousel .cards-carousel-viewport > ul > li {
+    flex-basis: calc((100% - (2 * var(--space-m))) / 3);
+  }
+}
+
+.cards.carousel .cards-carousel-arrow {
+  position: absolute;
+  top: 40%;
+  width: 40px;
+  height: 40px;
+  margin: 0;
+  border: 0;
+  border-radius: 50%;
+  padding: 0;
+  background-color: var(--color-rust);
+  color: var(--color-light);
+  cursor: pointer;
+}
+
+.cards.carousel .cards-carousel-arrow:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.cards.carousel .cards-carousel-prev {
+  left: var(--space-xs);
+}
+
+.cards.carousel .cards-carousel-next {
+  right: var(--space-xs);
+}
+
+.cards.carousel .cards-carousel-arrow::before {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: auto;
+  border: solid currentcolor;
+  border-width: 0 0 3px 3px;
+  transform: rotate(45deg);
+}
+
+.cards.carousel .cards-carousel-next::before {
+  transform: rotate(-135deg);
+}
+
+.cards.carousel .cards-carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-xs);
+  margin-top: var(--space-s);
+}
+
+.cards.carousel .cards-carousel-dot {
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  border: 0;
+  border-radius: 50%;
+  padding: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.cards.carousel .cards-carousel-dot::before {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: auto;
+  border-radius: 50%;
+  background-color: var(--color-gray-300);
+}
+
+.cards.carousel .cards-carousel-dot[aria-current='true']::before {
+  background-color: var(--color-rust);
+}

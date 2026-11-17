@@ -5,9 +5,14 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [],
+  "lowContrast": [
+    {
+      "t": "SKIP TO CONTENT",
+      "ratio": 2.3
+    }
+  ],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 4712,
+  "height": 4796,
   "header": {
     "box": {
       "x": 0,
@@ -19,9 +24,9 @@
     "rows": 0,
     "sticky": false,
     "logo": {
-      "x": 32,
-      "w": 200,
-      "h": 45,
+      "x": 570,
+      "w": 80,
+      "h": 16,
       "centered": false
     },
     "hiddenLinks": 41,
@@ -42,9 +47,9 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 4324,
+      "y": 4361,
       "w": 1440,
-      "h": 388
+      "h": 434
     },
     "bg": "rgb(255, 255, 255)",
     "tone": "light",
@@ -107,7 +112,7 @@
       "layout": {
         "align": "start",
         "left": 8,
-        "width": 28
+        "width": 44
       },
       "carousel": false,
       "texts": [],
@@ -115,7 +120,8 @@
         "TRY IT NOW!"
       ],
       "headings": [
-        "H1: new Tide evo"
+        "H1: new Tide evo",
+        "H1: 6x concentrated layers"
       ],
       "textChars": 47,
       "links": 1,
@@ -135,14 +141,24 @@
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
-      "layout": null,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 44
+      },
       "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [],
-      "textChars": 0,
+      "texts": [
+        "*vs. pretreating and washing with Tide Simply"
+      ],
+      "labels": [
+        "CHECK IT OUT!"
+      ],
+      "headings": [
+        "H1: Less Work, Better Clean*"
+      ],
+      "textChars": 84,
       "links": 1,
-      "buttons": 0,
+      "buttons": 1,
       "images": 2,
       "forms": 0,
       "inputs": [],
@@ -258,7 +274,7 @@
         "x": 0,
         "y": 2898,
         "w": 1440,
-        "h": 315
+        "h": 353
       },
       "bg": "rgb(27, 51, 146)",
       "tone": "dark",
@@ -274,7 +290,7 @@
         "LEARN MORE"
       ],
       "headings": [
-        "H2: Stain removal guide"
+        "H1: Stain removal guide"
       ],
       "textChars": 630,
       "links": 1,
@@ -284,12 +300,12 @@
       "inputs": [
         "select:select-one:I have a"
       ],
-      "columns": 1
+      "columns": 0
     },
     {
       "box": {
         "x": 0,
-        "y": 3213,
+        "y": 3251,
         "w": 1440,
         "h": 431
       },
@@ -322,7 +338,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3644,
+        "y": 3682,
         "w": 1440,
         "h": 615
       },
@@ -355,7 +371,7 @@
     {
       "box": {
         "x": 0,
-        "y": 4260,
+        "y": 4297,
         "w": 1440,
         "h": 64
       },

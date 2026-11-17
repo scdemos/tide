@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Discover Tide's Latest News | Tide",
-  "height": 6069,
+  "height": 6195,
   "header": {
     "box": {
       "x": 0,
@@ -36,7 +36,7 @@
       "x": 0,
       "y": 5410,
       "w": 390,
-      "h": 659
+      "h": 785
     },
     "bg": "rgb(255, 255, 255)",
     "tone": "light",
@@ -83,7 +83,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 5
+    "columns": 7
   },
   "sections": [
     {

@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 1616,
+  "height": 1652,
   "header": {
     "box": {
       "x": 0,
@@ -34,9 +34,9 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 956,
+      "y": 867,
       "w": 390,
-      "h": 659
+      "h": 785
     },
     "bg": "rgb(255, 255, 255)",
     "tone": "light",
@@ -83,7 +83,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 5
+    "columns": 7
   },
   "sections": [
     {
@@ -91,7 +91,7 @@
         "x": 32,
         "y": 64,
         "w": 325,
-        "h": 828
+        "h": 739
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -102,14 +102,12 @@
         "width": 63
       },
       "carousel": false,
-      "texts": [
-        "We’d love to hear from you. Send us a message and we’ll get back to you."
-      ],
+      "texts": [],
       "labels": [],
       "headings": [
         "H1: Contact Us"
       ],
-      "textChars": 166,
+      "textChars": 93,
       "links": 0,
       "buttons": 0,
       "images": 0,
@@ -125,7 +123,7 @@
     {
       "box": {
         "x": 0,
-        "y": 892,
+        "y": 803,
         "w": 390,
         "h": 64
       },

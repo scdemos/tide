@@ -46,7 +46,7 @@
       {
         "name": "text",
         "ok": true,
-        "detail": "0 → 166 chars (needs ≥ 80%)"
+        "detail": "0 → 93 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -84,11 +84,6 @@
         "detail": "alignment, tone, bleed, columns and width match"
       },
       {
-        "name": "provenance",
-        "ok": false,
-        "detail": "1/1 text blocks not on the original: \"We’d love to hear from you. Send us a message and we’ll get \""
-      },
-      {
         "name": "review",
         "ok": false,
         "detail": "no by-eye verdict in review.json"
@@ -121,8 +116,8 @@
       },
       {
         "name": "headings",
-        "ok": false,
-        "detail": "missing: H1: 6x concentrated layers · H1: Less Work, Better Clean*"
+        "ok": true,
+        "detail": "all present"
       },
       {
         "name": "forms & inputs",
@@ -132,7 +127,7 @@
       {
         "name": "buttons",
         "ok": false,
-        "detail": "225 → 4 (visible CTAs, needs ≥ 80%)"
+        "detail": "225 → 5 (visible CTAs, needs ≥ 80%)"
       },
       {
         "name": "media",
@@ -142,7 +137,7 @@
       {
         "name": "text",
         "ok": false,
-        "detail": "3009 → 1679 chars (needs ≥ 80%)"
+        "detail": "3009 → 1740 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -177,12 +172,12 @@
       {
         "name": "layout",
         "ok": false,
-        "detail": "#0 \"new tide evo\" text width 84% → 57% · #6 \"stain removal guide\" center → start"
+        "detail": "#6 \"stain removal guide\" center → start"
       },
       {
         "name": "provenance",
         "ok": false,
-        "detail": "2/26 text blocks not on the original: \"TRY IT NOW!\" · \"SHOP COLLECTION\""
+        "detail": "3/29 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\" · \"SHOP COLLECTION\""
       },
       {
         "name": "review",
@@ -328,8 +323,8 @@
       },
       {
         "name": "media",
-        "ok": true,
-        "detail": "32 → 32 (needs ≥ 90%)"
+        "ok": false,
+        "detail": "32 → 28 (needs ≥ 90%)"
       },
       {
         "name": "text",
@@ -465,12 +460,12 @@
       {
         "name": "layout",
         "ok": false,
-        "detail": "#0 \"how to remove stains\" columns 3 → 1 · #1 \"stain removal guide\" light → dark background · #1 \"stain removal guide\" columns 3 → 1"
+        "detail": "#0 \"how to remove stains\" columns 3 → 1 · #1 \"stain removal guide\" light → dark background · #1 \"stain removal guide\" columns 3 → 0"
       },
       {
         "name": "provenance",
         "ok": false,
-        "detail": "3/33 text blocks not on the original: \"A picture of a glass of red wine being spilled on a white ga\" · \"A picture of some charcoal\" · \"Spinach stain on a white garment\""
+        "detail": "5/36 text blocks not on the original: \"A picture of a glass of red wine being spilled on a white ga\" · \"A picture of some charcoal\" · \"Spinach stain on a white garment\" · \"Clay, soil or dirt stains\""
       },
       {
         "name": "review",
@@ -910,7 +905,7 @@
       {
         "name": "text",
         "ok": true,
-        "detail": "30304 → 30194 chars (needs ≥ 80%)"
+        "detail": "30304 → 30234 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -924,8 +919,8 @@
       },
       {
         "name": "health",
-        "ok": false,
-        "detail": "404 http://localhost:3000/blocks/activities/activities.css | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/blocks/activities/activities.js"
+        "ok": true,
+        "detail": "no errors"
       },
       {
         "name": "header layout",

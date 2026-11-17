@@ -46,7 +46,7 @@
       {
         "name": "text",
         "ok": true,
-        "detail": "0 → 166 chars (needs ≥ 80%)"
+        "detail": "0 → 93 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -55,8 +55,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -65,8 +65,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -82,11 +82,6 @@
         "name": "layout",
         "ok": true,
         "detail": "alignment, tone, bleed, columns and width match"
-      },
-      {
-        "name": "provenance",
-        "ok": false,
-        "detail": "1/1 text blocks not on the original: \"We’d love to hear from you. Send us a message and we’ll get \""
       },
       {
         "name": "review",
@@ -121,8 +116,8 @@
       },
       {
         "name": "headings",
-        "ok": false,
-        "detail": "missing: H1: 6x concentrated layers · H1: Less Work, Better Clean*"
+        "ok": true,
+        "detail": "all present"
       },
       {
         "name": "forms & inputs",
@@ -132,7 +127,7 @@
       {
         "name": "buttons",
         "ok": false,
-        "detail": "225 → 4 (visible CTAs, needs ≥ 80%)"
+        "detail": "225 → 5 (visible CTAs, needs ≥ 80%)"
       },
       {
         "name": "media",
@@ -142,7 +137,7 @@
       {
         "name": "text",
         "ok": false,
-        "detail": "3009 → 1702 chars (needs ≥ 80%)"
+        "detail": "3009 → 1786 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -151,8 +146,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -161,8 +156,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -177,12 +172,12 @@
       {
         "name": "layout",
         "ok": false,
-        "detail": "#3 \"see what we ve been working on\" columns 1 → 5 · #5 \"find the right tide product fo\" columns 3 → 7 · #8 \"learn more\" columns 1 → 3"
+        "detail": "#3 \"see what we ve been working on\" columns 1 → 5 · #5 \"find the right tide product fo\" columns 3 → 7 · #6 \"stain removal guide\" columns 2 → 0 · #8 \"learn more\" columns 1 → 3"
       },
       {
         "name": "provenance",
         "ok": false,
-        "detail": "2/26 text blocks not on the original: \"TRY IT NOW!\" · \"SHOP COLLECTION\""
+        "detail": "3/30 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\" · \"SHOP COLLECTION\""
       },
       {
         "name": "review",
@@ -247,8 +242,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -257,8 +252,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -343,8 +338,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -353,8 +348,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -439,8 +434,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -449,8 +444,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -465,12 +460,12 @@
       {
         "name": "layout",
         "ok": false,
-        "detail": "#0 \"how to remove stains\" columns 5 → 1 · #1 \"stain removal guide\" light → dark background · #1 \"stain removal guide\" columns 11 → 1"
+        "detail": "#0 \"how to remove stains\" columns 5 → 1 · #1 \"stain removal guide\" light → dark background · #1 \"stain removal guide\" columns 11 → 0"
       },
       {
         "name": "provenance",
         "ok": false,
-        "detail": "3/33 text blocks not on the original: \"A picture of a glass of red wine being spilled on a white ga\" · \"A picture of some charcoal\" · \"Spinach stain on a white garment\""
+        "detail": "5/36 text blocks not on the original: \"A picture of a glass of red wine being spilled on a white ga\" · \"A picture of some charcoal\" · \"Spinach stain on a white garment\" · \"Clay, soil or dirt stains\""
       },
       {
         "name": "review",
@@ -535,8 +530,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -545,8 +540,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -631,8 +626,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -641,8 +636,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -727,8 +722,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -737,8 +732,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -823,8 +818,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -833,8 +828,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -910,7 +905,7 @@
       {
         "name": "text",
         "ok": true,
-        "detail": "30304 → 30194 chars (needs ≥ 80%)"
+        "detail": "30304 → 30234 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -919,18 +914,18 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
-        "ok": false,
-        "detail": "404 http://localhost:3000/blocks/activities/activities.css | Failed to load resource: the server responded with a status of 404 (Not Found) | failed to load block activities Event"
+        "ok": true,
+        "detail": "no errors"
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -945,7 +940,7 @@
       {
         "name": "layout",
         "ok": false,
-        "detail": "#0 \"loyalty program full terms and\" columns 3 → 1 · #0 \"loyalty program full terms and\" text width 59% → 83%"
+        "detail": "#0 \"loyalty program full terms and\" text width 59% → 83%"
       },
       {
         "name": "provenance",
@@ -1015,8 +1010,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -1025,8 +1020,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",
@@ -1111,8 +1106,8 @@
       },
       {
         "name": "readability",
-        "ok": true,
-        "detail": "no text below 3:1"
+        "ok": false,
+        "detail": "\"SKIP TO CONTENT\" 2.3:1"
       },
       {
         "name": "health",
@@ -1121,8 +1116,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo height 16 → 45px"
+        "ok": true,
+        "detail": "height 175px, 4 rows, logo left"
       },
       {
         "name": "carousels",

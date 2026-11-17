@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Shop Pacs and Tide PODS® | Laundry Detergent - Tide",
-  "height": 7325,
+  "height": 7474,
   "header": {
     "box": {
       "x": 0,
@@ -34,9 +34,9 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 6666,
+      "y": 6689,
       "w": 390,
-      "h": 659
+      "h": 785
     },
     "bg": "rgb(255, 255, 255)",
     "tone": "light",
@@ -83,7 +83,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 5
+    "columns": 7
   },
   "sections": [
     {
@@ -128,7 +128,7 @@
         "x": 0,
         "y": 3197,
         "w": 390,
-        "h": 3404
+        "h": 3428
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -153,8 +153,8 @@
       ],
       "labels": [],
       "headings": [
-        "H3: Why shop laundry detergent pacs",
-        "H4: A Foolproof Clean",
+        "H2: Why shop laundry detergent pacs",
+        "H3: A Foolproof Clean",
         "H4: #1 Recommended",
         "H4: Extra cleaning power in the wash",
         "H3: Safety",
@@ -171,7 +171,7 @@
     {
       "box": {
         "x": 0,
-        "y": 6602,
+        "y": 6625,
         "w": 390,
         "h": 64
       },

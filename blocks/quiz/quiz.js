@@ -94,25 +94,44 @@ function decorateFinder(block) {
   })).filter((o) => o.text);
 
   block.textContent = '';
-  const id = 'quiz-finder-select';
-  const select = createTag('select', { id, class: 'quiz-finder-select' });
-  options.forEach((o, i) => select.append(createTag('option', { value: String(i) }, o.text)));
+  const list = createTag('ul', { class: 'quiz-finder-list', role: 'listbox', 'aria-label': normalizeText(before) || 'Options' });
+  const buttons = options.map((o, i) => {
+    const button = createTag('button', { type: 'button', role: 'option', class: 'quiz-finder-item' }, o.text);
+    button.addEventListener('click', () => select(i, true));  
+    list.append(createTag('li', {}, button));
+    return button;
+  });
+  const up = createTag('button', { type: 'button', class: 'quiz-finder-arrow quiz-finder-up', 'aria-label': 'Previous item' });
+  const down = createTag('button', { type: 'button', class: 'quiz-finder-arrow quiz-finder-down', 'aria-label': 'Next item' });
   const cta = createTag('a', { class: 'button quiz-finder-cta' });
-  const update = () => {
-    const { link } = options[Number(select.value)] || {};
+  let index = 0;
+  const itemHeight = () => buttons[0].parentElement.offsetHeight || 40;
+  function select(i, scroll) {
+    index = Math.max(0, Math.min(options.length - 1, i));
+    buttons.forEach((b, n) => {
+      b.setAttribute('aria-selected', String(n === index));
+      b.dataset.distance = String(Math.min(3, Math.abs(n - index)));
+    });
+    const { link } = options[index];
     cta.href = link?.href || '#';
     cta.textContent = link?.textContent.trim() || '';
     cta.hidden = !link;
-  };
-  select.addEventListener('change', update);
-  update();
-  const form = createTag('div', { class: 'quiz-finder-form' }, [
-    createTag('label', { for: id, class: 'quiz-finder-before' }, before.trim()),
-    select,
+    if (scroll) list.scrollTo({ top: index * itemHeight(), behavior: 'smooth' });
+  }
+  list.addEventListener('scroll', () => {
+    const at = Math.round(list.scrollTop / itemHeight());
+    if (at !== index) select(at, false);
+  }, { passive: true });
+  up.addEventListener('click', () => select(index - 1, true));
+  down.addEventListener('click', () => select(index + 1, true));
+  select(0, false);
+  const picker = createTag('div', { class: 'quiz-finder-picker' }, [up, list, down]);
+  block.append(createTag('div', { class: 'quiz-finder-form' }, [
+    createTag('span', { class: 'quiz-finder-before' }, before.trim()),
+    picker,
     createTag('span', { class: 'quiz-finder-after' }, after.trim()),
     cta,
-  ]);
-  block.append(form);
+  ]));
 }
 
 /**
