@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 7045,
+  "height": 7971,
   "header": {
     "box": {
       "x": 0,
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 6260,
+      "y": 7186,
       "w": 390,
       "h": 785
     },
@@ -89,38 +89,9 @@
     {
       "box": {
         "x": 0,
-        "y": 64,
+        "y": 96,
         "w": 390,
-        "h": 452
-      },
-      "bg": "rgb(255, 255, 255)",
-      "tone": "light",
-      "bleed": true,
-      "layout": {
-        "align": "start",
-        "left": 4,
-        "width": 92
-      },
-      "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [
-        "H1: How to remove stains"
-      ],
-      "textChars": 20,
-      "links": 0,
-      "buttons": 0,
-      "images": 2,
-      "forms": 0,
-      "inputs": [],
-      "columns": 1
-    },
-    {
-      "box": {
-        "x": 0,
-        "y": 516,
-        "w": 390,
-        "h": 793
+        "h": 893
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -136,8 +107,10 @@
         "It’s important to know what type of stains you’re facing before choosing the most appropriate pretreatment and washing methods to use. Dealing with oily stain removal? You can use a dish soap to pretreat these spots, but for enzymatic stains, like blood, you’ll want to pretreat with a liquid detergent and a clean toothbrush. Follow along to learn how to remove stains from clothes most effectively and more details about some of the most common types."
       ],
       "labels": [],
-      "headings": [],
-      "textChars": 512,
+      "headings": [
+        "H1: How to remove stains"
+      ],
+      "textChars": 533,
       "links": 0,
       "buttons": 0,
       "images": 2,
@@ -148,9 +121,9 @@
     {
       "box": {
         "x": 0,
-        "y": 1309,
+        "y": 989,
         "w": 390,
-        "h": 441
+        "h": 674
       },
       "bg": "rgb(27, 51, 146)",
       "tone": "dark",
@@ -160,30 +133,50 @@
         "left": 8,
         "width": 83
       },
-      "carousel": false,
-      "texts": [],
+      "carousel": true,
+      "texts": [
+        "Can’t find the right stain?"
+      ],
       "labels": [
-        "LEARN MORE"
+        "Tough stains",
+        "baby food",
+        "chewing gum",
+        "cough syrup",
+        "dingy whites",
+        "dye transfer",
+        "fabric softener",
+        "facial mask",
+        "fruit juice",
+        "hair dye",
+        "hot chocolate",
+        "motor oil",
+        "nail polish",
+        "oily road",
+        "shoe polish",
+        "skunk odor",
+        "soft drink",
+        "sport drink",
+        "tree sap",
+        "Learn More",
+        "Can’t find the right stain?"
       ],
       "headings": [
         "H1: Stain removal guide"
       ],
-      "textChars": 630,
-      "links": 1,
-      "buttons": 1,
+      "textChars": 658,
+      "links": 2,
+      "buttons": 76,
       "images": 0,
       "forms": 0,
-      "inputs": [
-        "select:select-one:I have a"
-      ],
-      "columns": 0
+      "inputs": [],
+      "columns": 1
     },
     {
       "box": {
         "x": 0,
-        "y": 1750,
+        "y": 1663,
         "w": 390,
-        "h": 1964
+        "h": 2976
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -194,27 +187,23 @@
         "width": 83
       },
       "carousel": false,
-      "texts": [
-        "A picture of a glass of red wine being spilled on a white garment",
-        "A picture of some charcoal",
-        "Spinach stain on a white garment"
-      ],
+      "texts": [],
       "labels": [],
       "headings": [
         "H2: Stain removal guide"
       ],
-      "textChars": 182,
+      "textChars": 19,
       "links": 0,
       "buttons": 0,
       "images": 12,
       "forms": 0,
       "inputs": [],
-      "columns": 3
+      "columns": 1
     },
     {
       "box": {
         "x": 0,
-        "y": 3714,
+        "y": 4639,
         "w": 390,
         "h": 2482
       },
@@ -271,7 +260,7 @@
     {
       "box": {
         "x": 0,
-        "y": 6196,
+        "y": 7122,
         "w": 390,
         "h": 64
       },
@@ -298,7 +287,9 @@
       "before": 1,
       "revealed": 0
     },
-    "carousel": null,
+    "carousel": {
+      "advances": false
+    },
     "tabs": null,
     "accordion": null,
     "mobile": {

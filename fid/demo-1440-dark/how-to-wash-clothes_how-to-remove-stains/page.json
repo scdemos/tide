@@ -5,14 +5,9 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SKIP TO CONTENT",
-      "ratio": 2.3
-    }
-  ],
+  "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 5620,
+  "height": 7337,
   "header": {
     "box": {
       "x": 0,
@@ -24,14 +19,14 @@
     "rows": 0,
     "sticky": false,
     "logo": {
-      "x": 570,
+      "x": 310,
       "w": 80,
       "h": 16,
       "centered": false
     },
     "hiddenLinks": 41,
     "items": [
-      "SKIP TO CONTENT",
+      "Skip to Content",
       "Contact Us",
       "US - English",
       "SHOP PRODUCTS",
@@ -47,7 +42,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 5185,
+      "y": 6903,
       "w": 1440,
       "h": 434
     },
@@ -102,38 +97,9 @@
     {
       "box": {
         "x": 0,
-        "y": 150,
+        "y": 182,
         "w": 1440,
-        "h": 452
-      },
-      "bg": "rgb(255, 255, 255)",
-      "tone": "light",
-      "bleed": true,
-      "layout": {
-        "align": "start",
-        "left": 8,
-        "width": 44
-      },
-      "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [
-        "H1: How to remove stains"
-      ],
-      "textChars": 20,
-      "links": 0,
-      "buttons": 0,
-      "images": 2,
-      "forms": 0,
-      "inputs": [],
-      "columns": 1
-    },
-    {
-      "box": {
-        "x": 0,
-        "y": 602,
-        "w": 1440,
-        "h": 1125
+        "h": 1261
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -149,8 +115,10 @@
         "It’s important to know what type of stains you’re facing before choosing the most appropriate pretreatment and washing methods to use. Dealing with oily stain removal? You can use a dish soap to pretreat these spots, but for enzymatic stains, like blood, you’ll want to pretreat with a liquid detergent and a clean toothbrush. Follow along to learn how to remove stains from clothes most effectively and more details about some of the most common types."
       ],
       "labels": [],
-      "headings": [],
-      "textChars": 512,
+      "headings": [
+        "H1: How to remove stains"
+      ],
+      "textChars": 533,
       "links": 0,
       "buttons": 0,
       "images": 2,
@@ -161,9 +129,9 @@
     {
       "box": {
         "x": 0,
-        "y": 1727,
+        "y": 1443,
         "w": 1440,
-        "h": 353
+        "h": 619
       },
       "bg": "rgb(27, 51, 146)",
       "tone": "dark",
@@ -173,30 +141,50 @@
         "left": 8,
         "width": 83
       },
-      "carousel": false,
-      "texts": [],
+      "carousel": true,
+      "texts": [
+        "Can’t find the right stain?"
+      ],
       "labels": [
-        "LEARN MORE"
+        "Tough stains",
+        "baby food",
+        "chewing gum",
+        "cough syrup",
+        "dingy whites",
+        "dye transfer",
+        "fabric softener",
+        "facial mask",
+        "fruit juice",
+        "hair dye",
+        "hot chocolate",
+        "motor oil",
+        "nail polish",
+        "oily road",
+        "shoe polish",
+        "skunk odor",
+        "soft drink",
+        "sport drink",
+        "tree sap",
+        "Learn More",
+        "Can’t find the right stain?"
       ],
       "headings": [
         "H1: Stain removal guide"
       ],
-      "textChars": 630,
-      "links": 1,
-      "buttons": 1,
+      "textChars": 658,
+      "links": 2,
+      "buttons": 76,
       "images": 0,
       "forms": 0,
-      "inputs": [
-        "select:select-one:I have a"
-      ],
-      "columns": 0
+      "inputs": [],
+      "columns": 1
     },
     {
       "box": {
         "x": 0,
-        "y": 2080,
+        "y": 2062,
         "w": 1440,
-        "h": 1215
+        "h": 2951
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -207,27 +195,23 @@
         "width": 83
       },
       "carousel": false,
-      "texts": [
-        "A picture of a glass of red wine being spilled on a white garment",
-        "A picture of some charcoal",
-        "Spinach stain on a white garment"
-      ],
+      "texts": [],
       "labels": [],
       "headings": [
         "H2: Stain removal guide"
       ],
-      "textChars": 182,
+      "textChars": 19,
       "links": 0,
       "buttons": 0,
       "images": 12,
       "forms": 0,
       "inputs": [],
-      "columns": 7
+      "columns": 2
     },
     {
       "box": {
         "x": 0,
-        "y": 3295,
+        "y": 5013,
         "w": 1440,
         "h": 1826
       },
@@ -284,7 +268,7 @@
     {
       "box": {
         "x": 0,
-        "y": 5121,
+        "y": 6839,
         "w": 1440,
         "h": 64
       },

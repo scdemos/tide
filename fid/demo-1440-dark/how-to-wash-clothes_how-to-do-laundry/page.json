@@ -5,14 +5,9 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SKIP TO CONTENT",
-      "ratio": 2.3
-    }
-  ],
+  "lowContrast": [],
   "title": "How to Do Laundry: Your Comprehensive Guide | Tide",
-  "height": 20686,
+  "height": 20808,
   "header": {
     "box": {
       "x": 0,
@@ -24,14 +19,14 @@
     "rows": 0,
     "sticky": false,
     "logo": {
-      "x": 570,
+      "x": 310,
       "w": 80,
       "h": 16,
       "centered": false
     },
     "hiddenLinks": 41,
     "items": [
-      "SKIP TO CONTENT",
+      "Skip to Content",
       "Contact Us",
       "US - English",
       "SHOP PRODUCTS",
@@ -47,7 +42,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 20251,
+      "y": 20373,
       "w": 1440,
       "h": 434
     },
@@ -109,31 +104,27 @@
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
-      "layout": {
-        "align": "start",
-        "left": 8,
-        "width": 41
-      },
+      "layout": null,
       "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [
-        "H1: How to Do Laundry"
+      "texts": [
+        "How to Do Laundry: Your Comprehensive Guide | Tide"
       ],
-      "textChars": 60,
+      "labels": [],
+      "headings": [],
+      "textChars": 75,
       "links": 2,
       "buttons": 0,
       "images": 2,
       "forms": 0,
       "inputs": [],
-      "columns": 4
+      "columns": 3
     },
     {
       "box": {
         "x": 0,
         "y": 721,
         "w": 1440,
-        "h": 19531
+        "h": 19653
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -227,9 +218,10 @@
         "Is a Premium Detergent Like Tide Worth It?"
       ],
       "labels": [
-        "DOWNLOAD NOW"
+        "Download now"
       ],
       "headings": [
+        "H1: How to Do Laundry",
         "H2: Laundry Basics",
         "H2: Are Detergents Toxic? What Science Actually Says",
         "H2: Hazard vs. Risk: Why 'Toxic’ Claims About Your Detergent May Be Misleading",
@@ -246,7 +238,7 @@
         "H4: Warm Setting",
         "H4: Hot Setting"
       ],
-      "textChars": 26689,
+      "textChars": 26707,
       "links": 6,
       "buttons": 1,
       "images": 30,

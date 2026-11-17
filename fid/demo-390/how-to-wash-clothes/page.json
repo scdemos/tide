@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Wash Clothes - Laundry Tips and Tricks | Tide",
-  "height": 3477,
+  "height": 3158,
   "header": {
     "box": {
       "x": 0,
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 2692,
+      "y": 2373,
       "w": 390,
       "h": 785
     },
@@ -89,38 +89,9 @@
     {
       "box": {
         "x": 0,
-        "y": 64,
+        "y": 96,
         "w": 390,
-        "h": 452
-      },
-      "bg": "rgb(255, 255, 255)",
-      "tone": "light",
-      "bleed": true,
-      "layout": {
-        "align": "start",
-        "left": 4,
-        "width": 92
-      },
-      "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [
-        "H1: How to Wash Clothes"
-      ],
-      "textChars": 19,
-      "links": 0,
-      "buttons": 0,
-      "images": 2,
-      "forms": 0,
-      "inputs": [],
-      "columns": 1
-    },
-    {
-      "box": {
-        "x": 0,
-        "y": 516,
-        "w": 390,
-        "h": 311
+        "h": 412
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -135,8 +106,10 @@
         "Launder like a pro with our laundry tips on how to remove stains and get clean laundry. Whether you want to take the mystery out of doing the laundry, or you need some simple tricks on how to get rid of stains, Tide has you covered with our articles on clothing care and how to wash clothes. With our expert tips for laundry, clothes always look their best."
       ],
       "labels": [],
-      "headings": [],
-      "textChars": 357,
+      "headings": [
+        "H1: How to Wash Clothes"
+      ],
+      "textChars": 377,
       "links": 0,
       "buttons": 0,
       "images": 0,
@@ -147,7 +120,7 @@
     {
       "box": {
         "x": 0,
-        "y": 827,
+        "y": 508,
         "w": 390,
         "h": 1801
       },
@@ -182,7 +155,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2628,
+        "y": 2309,
         "w": 390,
         "h": 64
       },

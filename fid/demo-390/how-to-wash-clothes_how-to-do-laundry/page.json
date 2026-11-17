@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Do Laundry: Your Comprehensive Guide | Tide",
-  "height": 30076,
+  "height": 30389,
   "header": {
     "box": {
       "x": 0,
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 29291,
+      "y": 29604,
       "w": 390,
       "h": 785
     },
@@ -96,18 +96,14 @@
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
-      "layout": {
-        "align": "start",
-        "left": 4,
-        "width": 85
-      },
+      "layout": null,
       "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [
-        "H1: How to Do Laundry"
+      "texts": [
+        "How to Do Laundry: Your Comprehensive Guide | Tide"
       ],
-      "textChars": 60,
+      "labels": [],
+      "headings": [],
+      "textChars": 75,
       "links": 2,
       "buttons": 0,
       "images": 2,
@@ -120,7 +116,7 @@
         "x": 0,
         "y": 503,
         "w": 390,
-        "h": 28789
+        "h": 29101
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -214,9 +210,10 @@
         "Is a Premium Detergent Like Tide Worth It?"
       ],
       "labels": [
-        "DOWNLOAD NOW"
+        "Download now"
       ],
       "headings": [
+        "H1: How to Do Laundry",
         "H2: Laundry Basics",
         "H2: Are Detergents Toxic? What Science Actually Says",
         "H2: Hazard vs. Risk: Why 'Toxic’ Claims About Your Detergent May Be Misleading",
@@ -233,10 +230,10 @@
         "H4: Warm Setting",
         "H4: Hot Setting"
       ],
-      "textChars": 26689,
+      "textChars": 26707,
       "links": 6,
       "buttons": 1,
-      "images": 26,
+      "images": 28,
       "forms": 0,
       "inputs": [],
       "columns": 1

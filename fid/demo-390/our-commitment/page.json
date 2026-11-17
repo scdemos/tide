@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Our Commitment - Learn More About The Brand | Tide",
-  "height": 5006,
+  "height": 4910,
   "header": {
     "box": {
       "x": 0,
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 4221,
+      "y": 4125,
       "w": 390,
       "h": 785
     },
@@ -89,36 +89,38 @@
     {
       "box": {
         "x": 0,
-        "y": 64,
+        "y": 96,
         "w": 390,
-        "h": 452
+        "h": 323
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 4,
-        "width": 80
+        "left": 8,
+        "width": 83
       },
       "carousel": false,
-      "texts": [],
+      "texts": [
+        "At Tide, we are committed to holding ourselves to the highest standards of clean when making our detergents. We are also committed to helping those in need of clean clothes, while also keeping our impact low and helping the planet."
+      ],
       "labels": [],
       "headings": [
         "H1: Our Commitment"
       ],
-      "textChars": 14,
+      "textChars": 246,
       "links": 0,
       "buttons": 0,
-      "images": 2,
+      "images": 0,
       "forms": 0,
       "inputs": [],
-      "columns": 1
+      "columns": 0
     },
     {
       "box": {
         "x": 0,
-        "y": 516,
+        "y": 419,
         "w": 390,
         "h": 3641
       },
@@ -158,7 +160,7 @@
     {
       "box": {
         "x": 0,
-        "y": 4157,
+        "y": 4061,
         "w": 390,
         "h": 64
       },

@@ -5,14 +5,9 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SKIP TO CONTENT",
-      "ratio": 2.3
-    }
-  ],
+  "lowContrast": [],
   "title": "How to Wash Clothes - Laundry Tips and Tricks | Tide",
-  "height": 2078,
+  "height": 1724,
   "header": {
     "box": {
       "x": 0,
@@ -24,14 +19,14 @@
     "rows": 0,
     "sticky": false,
     "logo": {
-      "x": 570,
+      "x": 310,
       "w": 80,
       "h": 16,
       "centered": false
     },
     "hiddenLinks": 41,
     "items": [
-      "SKIP TO CONTENT",
+      "Skip to Content",
       "Contact Us",
       "US - English",
       "SHOP PRODUCTS",
@@ -47,7 +42,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 1644,
+      "y": 1290,
       "w": 1440,
       "h": 434
     },
@@ -102,38 +97,9 @@
     {
       "box": {
         "x": 0,
-        "y": 150,
+        "y": 182,
         "w": 1440,
-        "h": 522
-      },
-      "bg": "rgb(255, 255, 255)",
-      "tone": "light",
-      "bleed": true,
-      "layout": {
-        "align": "start",
-        "left": 8,
-        "width": 44
-      },
-      "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [
-        "H1: How to Wash Clothes"
-      ],
-      "textChars": 19,
-      "links": 0,
-      "buttons": 0,
-      "images": 2,
-      "forms": 0,
-      "inputs": [],
-      "columns": 1
-    },
-    {
-      "box": {
-        "x": 0,
-        "y": 672,
-        "w": 1440,
-        "h": 169
+        "h": 305
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -148,8 +114,10 @@
         "Launder like a pro with our laundry tips on how to remove stains and get clean laundry. Whether you want to take the mystery out of doing the laundry, or you need some simple tricks on how to get rid of stains, Tide has you covered with our articles on clothing care and how to wash clothes. With our expert tips for laundry, clothes always look their best."
       ],
       "labels": [],
-      "headings": [],
-      "textChars": 357,
+      "headings": [
+        "H1: How to Wash Clothes"
+      ],
+      "textChars": 377,
       "links": 0,
       "buttons": 0,
       "images": 0,
@@ -160,7 +128,7 @@
     {
       "box": {
         "x": 0,
-        "y": 841,
+        "y": 487,
         "w": 1440,
         "h": 739
       },
@@ -195,7 +163,7 @@
     {
       "box": {
         "x": 0,
-        "y": 1580,
+        "y": 1226,
         "w": 1440,
         "h": 64
       },

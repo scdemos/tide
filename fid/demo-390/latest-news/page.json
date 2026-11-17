@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Discover Tide's Latest News | Tide",
-  "height": 6195,
+  "height": 7516,
   "header": {
     "box": {
       "x": 0,
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 5410,
+      "y": 6731,
       "w": 390,
       "h": 785
     },
@@ -91,35 +91,33 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 1208
+        "h": 1322
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 8,
-        "width": 83
+        "left": 4,
+        "width": 92
       },
       "carousel": false,
       "texts": [
         "Tide evo laundry detergent",
-        "6x cleaning layers. activates instantly in water.",
         "Tide evo Laundry Detergent Tiles, Original Scent",
         "Tide evo Laundry Detergent Tiles, Spring Blast Scent",
         "Tide evo Laundry Detergent Tiles, Free & Gentle"
       ],
       "labels": [
-        "LEARN MORE"
+        "Learn More"
       ],
       "headings": [
-        "H1: Tide evo laundry detergent",
-        "H2: Featured product"
+        "H1: Tide evo laundry detergent"
       ],
-      "textChars": 254,
+      "textChars": 204,
       "links": 1,
       "buttons": 1,
-      "images": 6,
+      "images": 8,
       "forms": 0,
       "inputs": [],
       "columns": 2
@@ -127,22 +125,21 @@
     {
       "box": {
         "x": 0,
-        "y": 1272,
+        "y": 1386,
         "w": 390,
-        "h": 2751
+        "h": 2884
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 8,
-        "width": 83
+        "left": 4,
+        "width": 92
       },
       "carousel": false,
       "texts": [
         "Tide Original Liquid Laundry Detergent",
-        "*vs. pretreating and washing with Tide Simply",
         "Tide Hygienic Clean Heavy Duty 10X Power PODS® Original Scent",
         "Removes visible and invisible dirt.",
         "Tide Ultra OXI Boost High Efficiency Liquid Laundry Detergent",
@@ -159,15 +156,15 @@
         "Tough on stains but not on skin."
       ],
       "labels": [
-        "LEARN MORE"
+        "Learn More"
       ],
       "headings": [
-        "H2: Featured products"
+        "H1: Tide Original Liquid Laundry Detergent"
       ],
-      "textChars": 872,
+      "textChars": 801,
       "links": 1,
       "buttons": 1,
-      "images": 14,
+      "images": 16,
       "forms": 0,
       "inputs": [],
       "columns": 2
@@ -175,36 +172,34 @@
     {
       "box": {
         "x": 0,
-        "y": 4023,
+        "y": 4269,
         "w": 390,
-        "h": 808
+        "h": 1563
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 8,
-        "width": 83
+        "left": 4,
+        "width": 84
       },
       "carousel": false,
       "texts": [
-        "New blue design to remind you to turn to cold.",
-        "Meet Tide evo. Detergent entirely made of clean.",
-        "A limited-resource study to bring clean innovations back to Earth."
+        "A limited-resource study to bring clean innovations back to Earth.",
+        "Life after disasters — hurricanes, floods, tornadoes, wildfires — can feel like a nightmare. Families are..."
       ],
       "labels": [
-        "LEARN MORE"
+        "Learn More"
       ],
       "headings": [
-        "H2: Tide programs",
-        "H3: Power even in cold.",
-        "H3: Tide evo"
+        "H1: Power even in cold.",
+        "H1: Tide evo"
       ],
-      "textChars": 241,
+      "textChars": 268,
       "links": 2,
       "buttons": 2,
-      "images": 2,
+      "images": 8,
       "forms": 0,
       "inputs": [],
       "columns": 2
@@ -212,41 +207,39 @@
     {
       "box": {
         "x": 0,
-        "y": 4832,
+        "y": 5833,
         "w": 390,
-        "h": 514
+        "h": 834
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 8,
-        "width": 83
+        "left": 4,
+        "width": 92
       },
       "carousel": false,
       "texts": [
-        "During an average day, you’re likely to pick up a hodgepodge of bacteria and other germs from people and objects, some of which can transfer onto your clothes. On other days, you or someone in your household might be sick with a respiratory virus or a stomach bug.",
         "The Effortless Way to Keep Your Everyday Items Clean",
         "Research* shows that keeping your environment clean and organized will make you less stressed-out and happier."
       ],
       "labels": [],
       "headings": [
-        "H2: Latest articles",
-        "H3: Laundry Hygiene Tips"
+        "H1: Laundry Hygiene Tips"
       ],
-      "textChars": 465,
+      "textChars": 200,
       "links": 0,
       "buttons": 0,
-      "images": 0,
+      "images": 4,
       "forms": 0,
       "inputs": [],
-      "columns": 1
+      "columns": 2
     },
     {
       "box": {
         "x": 0,
-        "y": 5346,
+        "y": 6667,
         "w": 390,
         "h": 64
       },

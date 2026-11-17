@@ -5,12 +5,7 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SKIP TO CONTENT",
-      "ratio": 2.3
-    }
-  ],
+  "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
   "height": 1814,
   "header": {
@@ -24,14 +19,14 @@
     "rows": 0,
     "sticky": false,
     "logo": {
-      "x": 570,
+      "x": 310,
       "w": 80,
       "h": 16,
       "centered": false
     },
     "hiddenLinks": 41,
     "items": [
-      "SKIP TO CONTENT",
+      "Skip to Content",
       "Contact Us",
       "US - English",
       "SHOP PRODUCTS",

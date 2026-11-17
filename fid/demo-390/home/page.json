@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 6924,
+  "height": 6127,
   "header": {
     "box": {
       "x": 0,
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 6139,
+      "y": 5342,
       "w": 390,
       "h": 785
     },
@@ -104,7 +104,7 @@
       "carousel": false,
       "texts": [],
       "labels": [
-        "TRY IT NOW!"
+        "try it now!"
       ],
       "headings": [
         "H1: new Tide evo",
@@ -136,7 +136,7 @@
       "carousel": false,
       "texts": [],
       "labels": [
-        "CHECK IT OUT!"
+        "Check it out!"
       ],
       "headings": [
         "H1: Less Work, Better Clean*"
@@ -154,7 +154,7 @@
         "x": 0,
         "y": 1000,
         "w": 390,
-        "h": 820
+        "h": 806
       },
       "bg": "rgb(27, 51, 146)",
       "tone": "dark",
@@ -171,7 +171,7 @@
         "Now there’s a Tide Power PODS® product for any mess."
       ],
       "labels": [
-        "SHOP COLLECTION"
+        "Shop Collection"
       ],
       "headings": [
         "H2: POWER PODS®"
@@ -187,19 +187,19 @@
     {
       "box": {
         "x": 0,
-        "y": 1820,
+        "y": 1806,
         "w": 390,
-        "h": 1519
+        "h": 517
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
-        "left": 8,
-        "width": 83
+        "left": -138,
+        "width": 288
       },
-      "carousel": false,
+      "carousel": true,
       "texts": [
         "See what we've been working on lately",
         "Meet Tide evo. Detergent entirely made of clean.",
@@ -213,16 +213,16 @@
       ],
       "textChars": 280,
       "links": 4,
-      "buttons": 0,
+      "buttons": 6,
       "images": 8,
       "forms": 0,
       "inputs": [],
-      "columns": 2
+      "columns": 4
     },
     {
       "box": {
         "x": 0,
-        "y": 3339,
+        "y": 2323,
         "w": 390,
         "h": 822
       },
@@ -257,9 +257,9 @@
     {
       "box": {
         "x": 0,
-        "y": 4161,
+        "y": 3145,
         "w": 390,
-        "h": 441
+        "h": 674
       },
       "bg": "rgb(27, 51, 146)",
       "tone": "dark",
@@ -269,30 +269,50 @@
         "left": 8,
         "width": 83
       },
-      "carousel": false,
-      "texts": [],
+      "carousel": true,
+      "texts": [
+        "Can’t find the right stain?"
+      ],
       "labels": [
-        "LEARN MORE"
+        "Tough stains",
+        "baby food",
+        "chewing gum",
+        "cough syrup",
+        "dingy whites",
+        "dye transfer",
+        "fabric softener",
+        "facial mask",
+        "fruit juice",
+        "hair dye",
+        "hot chocolate",
+        "motor oil",
+        "nail polish",
+        "oily road",
+        "shoe polish",
+        "skunk odor",
+        "soft drink",
+        "sport drink",
+        "tree sap",
+        "Learn More",
+        "Can’t find the right stain?"
       ],
       "headings": [
         "H1: Stain removal guide"
       ],
-      "textChars": 630,
-      "links": 1,
-      "buttons": 1,
+      "textChars": 658,
+      "links": 2,
+      "buttons": 76,
       "images": 0,
       "forms": 0,
-      "inputs": [
-        "select:select-one:I have a"
-      ],
-      "columns": 0
+      "inputs": [],
+      "columns": 1
     },
     {
       "box": {
         "x": 0,
-        "y": 4602,
+        "y": 3819,
         "w": 390,
-        "h": 534
+        "h": 520
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -307,7 +327,7 @@
         "Whether you're a beginner or a seasoned pro, start here for some of our expert laundry tips and tricks."
       ],
       "labels": [
-        "LEARN MORE"
+        "Learn More"
       ],
       "headings": [
         "H2: How to do laundry"
@@ -323,7 +343,7 @@
     {
       "box": {
         "x": 0,
-        "y": 5136,
+        "y": 4338,
         "w": 390,
         "h": 939
       },
@@ -356,7 +376,7 @@
     {
       "box": {
         "x": 0,
-        "y": 6075,
+        "y": 5278,
         "w": 390,
         "h": 64
       },
@@ -383,7 +403,9 @@
       "before": 1,
       "revealed": 0
     },
-    "carousel": null,
+    "carousel": {
+      "advances": false
+    },
     "tabs": null,
     "accordion": null,
     "mobile": {
