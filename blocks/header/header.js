@@ -549,8 +549,12 @@ export default async function decorate(block) {
   }
 
   const tools = nav.querySelector('.nav-tools');
-  if (tools && nav.children.length > 3) {
-    [...nav.children].slice(3).forEach((extra) => {
+  // `stacked` layout: a 4th nav row is a utility bar (contact, region, sign in) above the brand row
+  const utility = layout === 'stacked' ? nav.children[3] : null;
+  utility?.classList.add('nav-utility');
+  const extras = layout === 'stacked' ? 4 : 3;
+  if (tools && nav.children.length > extras) {
+    [...nav.children].slice(extras).forEach((extra) => {
       while (extra.firstElementChild) tools.append(extra.firstElementChild);
       extra.remove();
     });

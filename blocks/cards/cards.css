@@ -14,7 +14,7 @@
 }
 
 .cards > ul > li {
-  border: 1px solid light-dark(var(--color-gray-200), rgb(245 242 237 / 10%));
+  border: 1px solid light-dark(var(--color-gray-200), rgb(255 255 255 / 10%));
   background: light-dark(var(--color-light), var(--color-card-dark));
   display: flex;
   flex-direction: column;
@@ -27,8 +27,8 @@
 
 .cards > ul > li:hover {
   transform: translateY(-8px);
-  box-shadow: 0 24px 48px light-dark(rgb(161 79 43 / 18%), rgb(197 160 89 / 18%));
-  border-color: light-dark(var(--color-gold), rgb(197 160 89 / 45%));
+  box-shadow: 0 24px 48px light-dark(rgb(251 76 6 / 18%), rgb(254 229 0 / 18%));
+  border-color: light-dark(var(--color-gold), rgb(254 229 0 / 45%));
 }
 
 /* Article wrapper — layout-invisible so the card link remains the direct flex child */
@@ -128,7 +128,7 @@
 
 .cards.bento > ul > li:hover {
   transform: translateY(-10px);
-  box-shadow: 0 32px 64px -12px light-dark(rgb(161 79 43 / 25%), rgb(197 160 89 / 20%)), 0 0 0 1px light-dark(var(--color-gold), rgb(197 160 89 / 40%));
+  box-shadow: 0 32px 64px -12px light-dark(rgb(251 76 6 / 25%), rgb(254 229 0 / 20%)), 0 0 0 1px light-dark(var(--color-gold), rgb(254 229 0 / 40%));
   border-color: var(--color-gold);
 }
 
@@ -189,7 +189,7 @@
   outline: 2px solid var(--color-gold);
   outline-offset: 3px;
   border-radius: var(--border-radius-heritage);
-  box-shadow: 0 0 0 4px rgb(197 160 89 / 20%);
+  box-shadow: 0 0 0 4px rgb(254 229 0 / 20%);
 }
 
 /* Image — stretch to card edges */
@@ -318,7 +318,7 @@
 
 .cards.list > ul > li {
   border: 0;
-  border-bottom: 1px solid light-dark(var(--color-gray-200), rgb(245 242 237 / 15%));
+  border-bottom: 1px solid light-dark(var(--color-gray-200), rgb(255 255 255 / 15%));
   background: transparent;
   box-shadow: none;
 }

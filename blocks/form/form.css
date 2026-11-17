@@ -46,7 +46,7 @@ main .form form {
   scroll-margin: 1em;
   width: 100%;
   min-width: 0;
-  border: 1px solid light-dark(rgb(26 26 26 / 20%), rgb(245 242 237 / 20%));
+  border: 1px solid light-dark(rgb(26 26 26 / 20%), rgb(255 255 255 / 20%));
   border-radius: 8px;
   padding: 12px 14px;
   background: light-dark(var(--color-light), rgb(6 13 13 / 60%));
@@ -79,7 +79,7 @@ main .form form {
   outline: 2px solid var(--color-gold);
   outline-offset: 2px;
   border-color: var(--color-gold);
-  box-shadow: 0 0 0 4px rgb(197 160 89 / 12%);
+  box-shadow: 0 0 0 4px rgb(254 229 0 / 12%);
 }
 
 .form input:disabled,
@@ -259,7 +259,7 @@ main .form form {
   background: var(--color-gold);
   border-color: var(--color-gold);
   transform: translateY(-2px);
-  box-shadow: 0 8px 20px light-dark(rgb(161 79 43 / 25%), rgb(197 160 89 / 25%));
+  box-shadow: 0 8px 20px light-dark(rgb(251 76 6 / 25%), rgb(254 229 0 / 25%));
 }
 
 .form .button-wrapper button.button.secondary {

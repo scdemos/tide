@@ -1,0 +1,193 @@
+{
+  "url": "https://tide.com/en-us/shop/type/laundry-pods",
+  "viewport": 1440,
+  "nav": {
+    "tree": [
+      {
+        "label": "Shop Products",
+        "visible": true,
+        "children": []
+      },
+      {
+        "label": "Browse by Type",
+        "visible": false,
+        "children": []
+      },
+      {
+        "label": "Pacs",
+        "visible": false,
+        "children": []
+      }
+    ],
+    "navs": [
+      {
+        "where": "page",
+        "label": "Breadcrumbs",
+        "links": 1,
+        "items": [
+          {
+            "label": "Shop Products",
+            "visible": true,
+            "children": []
+          },
+          {
+            "label": "Browse by Type",
+            "visible": false,
+            "children": []
+          },
+          {
+            "label": "Pacs",
+            "visible": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "headerLinks": [
+      "Skip to Content",
+      "Contact Us",
+      "US - English",
+      "Sign in",
+      "Submit Search",
+      "Shop Products",
+      "Our Commitment",
+      "How to Wash Clothes",
+      "What’s New",
+      "Coupons and Deals"
+    ],
+    "search": true,
+    "language": false,
+    "sticky": false,
+    "height": 175,
+    "bg": "rgb(27, 51, 146)"
+  },
+  "type": {
+    "h1": {
+      "family": "Tide",
+      "size": "48px",
+      "weight": "400",
+      "lineHeight": "52px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(251, 76, 6)"
+    },
+    "h2": null,
+    "h3": {
+      "family": "Tide",
+      "size": "40px",
+      "weight": "800",
+      "lineHeight": "44px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(251, 76, 6)"
+    },
+    "h4": {
+      "family": "Tide",
+      "size": "32px",
+      "weight": "800",
+      "lineHeight": "38px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(251, 76, 6)"
+    },
+    "body": {
+      "family": "Tide",
+      "size": "48px",
+      "weight": "400",
+      "lineHeight": "52px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(251, 76, 6)"
+    },
+    "small": null,
+    "nav": {
+      "family": "Tide",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.6px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "button": {
+      "family": "Tide",
+      "size": "20px",
+      "weight": "700",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    }
+  },
+  "buttons": [
+    {
+      "n": 10,
+      "label": "Browse other products",
+      "bg": "rgb(251, 76, 6)",
+      "color": "rgb(255, 255, 255)",
+      "border": "0px none rgb(255, 255, 255)",
+      "radius": "25px",
+      "padding": "10px 30px",
+      "transform": "none",
+      "weight": "700",
+      "size": "20px"
+    },
+    {
+      "n": 9,
+      "label": "Odor Removal",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(27, 51, 146)",
+      "border": "2px solid rgb(116, 129, 180)",
+      "radius": "25px",
+      "padding": "2px 10px",
+      "transform": "none",
+      "weight": "700",
+      "size": "14px"
+    },
+    {
+      "n": 2,
+      "label": "Read More",
+      "bg": "rgb(27, 51, 146)",
+      "color": "rgb(255, 255, 255)",
+      "border": "0px none rgb(255, 255, 255)",
+      "radius": "25px",
+      "padding": "10px 30px",
+      "transform": "none",
+      "weight": "700",
+      "size": "20px"
+    }
+  ],
+  "cards": {
+    "count": 10,
+    "radius": "0px",
+    "shadow": "none",
+    "border": "none",
+    "bg": "rgba(0, 0, 0, 0)"
+  },
+  "container": {
+    "width": 1170,
+    "gutter": 135
+  },
+  "bands": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 2042,
+      "heading": "Shop Tide Laundry Pacs"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "50px 0px",
+      "h": 2559,
+      "heading": "Why shop laundry detergent pacs"
+    }
+  ],
+  "meta": {
+    "title": "Shop Pacs and Tide PODS® | Laundry Detergent - Tide",
+    "description": "Find information about Tide PODS® laundry detergent pacs, including Original, Free and Gentle, Febreze, and POWER PODS® varieties from Tide. Buy Tide PODS® online!",
+    "image": "",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "title": "Discover Tide's Latest News | Tide",
+  "url": "https://tide.com/en-us/latest-news",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/XkLHfQbsxZiWzLCKOR7Y7/7555744761880cb831a03b159dfc2f8d/Tide_EVO_enh_How_to_use_hero_bg_min992_20260625_module1.jpg?fm=webp",
+          "alt": "all in one BG",
+          "w": 1440
+        },
+        {
+          "type": "p",
+          "text": "FEATURED PRODUCT",
+          "html": "FEATURED PRODUCT"
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "Tide evo laundry detergent"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "6x cleaning layers. activates instantly in water.",
+          "html": "6x cleaning layers. activates instantly in water."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry/how-to-use-tide-evo"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/5XFdS6dxLtir2f9X96DwPq/96b0968600c38aefc70d4f1feebc9b1c/Tide_Evo_Original_20260225_listing_image_520x520.png?fm=webp",
+          "alt": "Pack of Tide Evo Laundry Detergent Tiles, Original Scent",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide evo Laundry Detergent Tiles, Original Scent",
+          "html": "Tide evo Laundry Detergent Tiles, Original Scent"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/5Tkovs4ZrPGaqSugkW5awS/0fe8ce4667d33c524056a1187d87b9ea/Tide_Evo_SpringBlast_20260225_listing_image_520x520.png?fm=webp",
+          "alt": "Pack of Tide Evo Laundry Detergent Tiles, Spring Blast Scent",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide evo Laundry Detergent Tiles, Spring Blast Scent",
+          "html": "Tide evo Laundry Detergent Tiles, Spring Blast Scent"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2eEJUoht9biOvSonw7eqnp/378f42193ed6900bfcda7b925486a028/Tide_Evo_F_G_20260225_listing_image_520x520.png?fm=webp",
+          "alt": "Pack of Tide evo Laundry Detergent Tiles, Free & Gentle",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide evo Laundry Detergent Tiles, Free & Gentle",
+          "html": "Tide evo Laundry Detergent Tiles, Free &amp; Gentle"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/1jkrQMsjbmGkraXKxqPKDC/5c286cb63719dfc1663db0f92e1b5f52/Tide_TheRock_EN-US_whatsnew_hero_20250826_default.png?fm=webp",
+          "alt": "Tide OXI Boost Power PODS",
+          "w": 555
+        },
+        {
+          "type": "p",
+          "text": "FEATURED PRODUCTS",
+          "html": "FEATURED PRODUCTS"
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "Tide Original Liquid Laundry Detergent"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "Less Work, Better Clean*",
+          "html": "Less Work, Better Clean*"
+        },
+        {
+          "type": "p",
+          "text": "*vs. pretreating and washing with Tide Simply",
+          "html": "*vs. pretreating and washing with Tide Simply"
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/shop/type/liquid/tide-original-liquid"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/56wEsEYwsCzaEjNcEAwsac/0cb139918bbf538950aabdcc60333aa3/Tide_Value_SUD_HC_EN-US_listing_520x520.png?fm=webp",
+          "alt": "",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide Hygienic Clean Heavy Duty 10X Power PODS® Original Scent",
+          "html": "Tide Hygienic Clean Heavy Duty 10X Power PODS® Original Scent"
+        },
+        {
+          "type": "p",
+          "text": "Removes visible and invisible dirt.",
+          "html": "Removes visible and invisible dirt."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/tNCllBSQwIsUH5lwMGNyB/b5df8bdced1863017188329840757302/003131-22_BigMamma_Oxi_Boost_EN-US_HDL_listing_520x520.png?fm=webp",
+          "alt": "Tide Ultra OXI High Efficiency Liquid Laundry Detergent",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide Ultra OXI Boost High Efficiency Liquid Laundry Detergent",
+          "html": "Tide Ultra OXI Boost High Efficiency Liquid Laundry Detergent"
+        },
+        {
+          "type": "p",
+          "text": "Built-in pre-treaters to remove even the toughest stains.",
+          "html": "Built-in pre-treaters to remove even the toughest stains."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/5ijbQgXfP9lCZiQVsO9Agg/4a0172051528b3d65f77b4e9c3f69c2a/003131-22_BigMamma_Odor_EN-US_HDL_listing_520x520.png?fm=webp",
+          "alt": "Tide Ultra OXI Liquid Laundry Detergent with Odor Eliminators - 69 ounces, color orange",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide Ultra OXI Liquid Laundry Detergent with Odor Eliminators",
+          "html": "Tide Ultra OXI Liquid Laundry Detergent with Odor Eliminators"
+        },
+        {
+          "type": "p",
+          "text": "Leaves laundry clothes looking good and smelling good, all at once!",
+          "html": "Leaves laundry clothes looking good and smelling good, all at once!"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/11SSWBxbj9qIn4Wcp2sz4s/16082664acb840fab45329ec05b6329f/_listing_520x520Tide_Downy_April_Fresh_US_HDL.jpg?fm=webp",
+          "alt": "Tide Plus A Touch of Downy Liquid Laundry Detergent",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide Plus A Touch of Downy Liquid Laundry Detergent",
+          "html": "Tide Plus A Touch of Downy Liquid Laundry Detergent"
+        },
+        {
+          "type": "p",
+          "text": "Offers the brilliant clean you know and love.",
+          "html": "Offers the brilliant clean you know and love."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/5rF7SdGzq3zH4duwAWEDL6/c4bf6c6183aebead51a4c0a67efd7b1f/Tide_Clean_and_Gentle_PWD_listing_520x520.png?fm=webp",
+          "alt": "Tide Clean and Gentle Powder",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide Clean and Gentle Powder",
+          "html": "Tide Clean and Gentle Powder"
+        },
+        {
+          "type": "p",
+          "text": "Specially formulated and dermatologist tested for a great clean that's gentle on skin.",
+          "html": "Specially formulated and dermatologist tested for a great clean that's gentle on skin."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2EmhJqiQWCq1DCooMOrf8z/bc17d6566ad9b54d9fd405bb29b7cd82/B2318-39_Tide_Fraplan_SUD_EN-US_listing_520x520.png?fm=webp",
+          "alt": "Tide PODS Free and Gentle Odor Refresh",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide PODS Free and Gentle Odor Refresh",
+          "html": "Tide PODS Free and Gentle Odor Refresh"
+        },
+        {
+          "type": "p",
+          "text": "Washes away all odors while staying gentle on the skin.",
+          "html": "Washes away all odors while staying gentle on the skin."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/5ibsiwEfiFhQccotuob3MU/8c3dcb1387caa54de171f072382e8384/B2318-39_Tide_Fraplan_HDL_EN-US_listing_520x520.png?fm=webp",
+          "alt": "Tide Free and Gentle Odor Refresh Detergent - #1 most trusted by American",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide Free and Gentle Odor Refresh Detergent",
+          "html": "Tide Free and Gentle Odor Refresh Detergent"
+        },
+        {
+          "type": "p",
+          "text": "Tough on stains but not on skin.",
+          "html": "Tough on stains but not on skin."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/7eWadlG8eUvlPwX4P8q46f/17dd9bcc7737b474dbbaf729c937849e/Tide_HP_latest_news_Cold_Water_20240411_blue_min1200px.jpg?fm=webp",
+          "alt": "",
+          "w": 1440
+        },
+        {
+          "type": "p",
+          "text": "TIDE PROGRAMS",
+          "html": "TIDE PROGRAMS"
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "Power even in cold."
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "New blue design to remind you to turn to cold.",
+          "html": "New blue design to remind you to turn to cold."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/our-commitment/turn-to-cold"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/7xcINu9pB7Lv1WwfHqwHcn/ed0609c7fbe51c5f4ad50d50fb657381/Tide_HP_latest_news_BlackWidow_20240308_blue_min1200px.png?fm=webp",
+          "alt": "",
+          "w": 1440
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "Tide evo"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "Meet Tide evo. Detergent entirely made of clean.",
+          "html": "Meet Tide evo. Detergent entirely made of clean."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/our-commitment/tide-evo"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/34qePGLOhDGjpyl6PsePbr/196e12185e7d815983cd58a4ca703795/Tide_Nasa_370x320.jpg?fm=webp",
+          "alt": "",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide in Space",
+          "html": "Tide in Space"
+        },
+        {
+          "type": "p",
+          "text": "A limited-resource study to bring clean innovations back to Earth.",
+          "html": "A limited-resource study to bring clean innovations back to Earth."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2ovAibKVCqk64hr7KbG8g3/f42e41723941b7f95bf48fa7d774ca0f/Tide_LoH-hero_370x320.jpg?fm=webp",
+          "alt": "A child getting his clothes cleaned at a Tide Loads of Hope truck",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Loads of Hope",
+          "html": "Loads of Hope"
+        },
+        {
+          "type": "p",
+          "text": "Life after disasters — hurricanes, floods, tornadoes, wildfires — can feel like a nightmare. Families are...",
+          "html": "Life after disasters — hurricanes, floods, tornadoes, wildfires — can feel like a nightmare. Families are..."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/51h3Iy5soWCj8sufgvmA3Z/b571d8ca1feb574ecabbf0b0426f131c/Tide_carusel_02__1920x653_1217.jpg?fm=webp",
+          "alt": "Placing garments into the drum",
+          "w": 1440
+        },
+        {
+          "type": "p",
+          "text": "LATEST ARTICLES",
+          "html": "<strong>LATEST ARTICLES</strong>"
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "Laundry Hygiene Tips"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "During an average day, you’re likely to pick up a hodgepodge of bacteria and other germs from people and objects, some of which can transfer onto your clothes. On other days, you or someone in your household might be sick with a respiratory virus or a stomach bug.",
+          "html": "During an average day, you’re likely to pick up a hodgepodge of bacteria and other germs from people and objects, some of which can transfer onto your clothes. On other days, you or someone in your household might be sick with a respiratory virus or a stomach bug."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/16svd6bAQhfG40Cmq0ZgvF/96a6630091e1ab42ba73e00172d53dff/TIDE_Specific-garment---sweater_FINAL.jpg?fm=webp",
+          "alt": "A gray pullover and an orange box full of clean clothes on a bed with a white duvet",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "The Effortless Way to Keep Your Everyday Items Clean",
+          "html": "The Effortless Way to Keep Your Everyday Items Clean"
+        },
+        {
+          "type": "p",
+          "text": "Research* shows that keeping your environment clean and organized will make you less stressed-out and happier.",
+          "html": "Research* shows that keeping your environment clean and organized will make you less stressed-out and happier."
+        }
+      ]
+    }
+  ]
+}

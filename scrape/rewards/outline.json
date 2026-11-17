@@ -1,0 +1,147 @@
+{
+  "title": "Laundry Detergent Pods Coupons and Rewards | Tide",
+  "url": "https://tide.com/en-us/rewards",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/1k7gifQoKyWcO6OjzLYDSZ/4df3a8da08098a08864f2688391ab705/module_1_bg.jpg?fm=webp",
+          "alt": "A group of teenagers sitting on a washing-machine prepared to do laundry",
+          "w": 1440
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "Tide is here to help you"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "Whether its removing a stain from your favorite shirt, getting odors out of workout clothes, or helping you save some money by turning to cold, Tide is dedicated to making laundry day easy for you.",
+          "html": "Whether its removing a stain from your favorite shirt, getting odors out of workout clothes, or helping you save some money by turning to cold, Tide is dedicated to making laundry day easy for you."
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "Discover Tide"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "Stay up to date on deals, new products, and laundry tips from the leaders in laundry science.",
+          "html": "Stay up to date on deals, new products, and laundry tips from the leaders in laundry science."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/7MHseyODYEOiHtM803OPPr/07459d922cdde13d960b2786fd5385f8/Shopper_Sync_DT.png?fm=webp",
+          "alt": "",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Find laundry deals at your preferred store.",
+          "html": "Find laundry deals at your preferred store."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/4C0jPc2obNbUjk04uB5ZbD/f8e05c07e02bc2a849569df960626e85/Tide_Evo_thumbnail_570x310.png?fm=webp",
+          "alt": "",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Lightweight, no mess, laundry tiles that instantly activate in water.",
+          "html": "Lightweight, no mess, laundry tiles that instantly activate in water."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/rL1jSl4cXQN6xuK6one93/41d6916ae94f7fa1d677729fb01b6607/Education_DT.png?fm=webp",
+          "alt": "",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Let us help you get the best laundry results every time you do laundry.",
+          "html": "Let us help you get the best laundry results every time you do laundry."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/3qFlTWLLCbJElYuMDAEjnS/0ecdd5e9360f692a92367d774ce672f7/Laundry_Reimagined_V1_DT.jpg?fm=webp",
+          "alt": "A self-service laundromat with two rows of washing-machines on the sides",
+          "w": 1440
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2xMMlAb2jUV9Zo3yufQQwY/87aa4a6a87cfd7f83e37a6ac3920b8eb/HOW_TO_WASH_CLOTHES_How_to_remove_stains_570x310.jpg?fm=webp",
+          "alt": "A person pouring blue detergent on a white shirt to clean a stain",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "How to Remove Stains",
+          "html": "How to Remove Stains"
+        },
+        {
+          "type": "p",
+          "text": "It’s a fact of life that not all stains are created equal.",
+          "html": "It’s a fact of life that not all stains are created equal."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/how-to-wash-clothes/how-to-remove-stains"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/4C0jPc2obNbUjk04uB5ZbD/f8e05c07e02bc2a849569df960626e85/Tide_Evo_thumbnail_570x310.png?fm=webp",
+          "alt": "Tide Evo product feature",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "Tide Evo Tiles",
+          "html": "Tide Evo Tiles"
+        },
+        {
+          "type": "p",
+          "text": "Say bye-bye to plastics bottles and hello to evo, Tide’s next evolution of clean.",
+          "html": "Say bye-bye to plastics bottles and hello to evo, Tide’s next evolution of clean."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/shop/type/laundry-tiles/tide-evo-laundry-detergent-tiles-original"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/4bxNAllOvCErlE5NzdPjJR/692288fc7fd092876eb65fb725539662/Laundry_Symbols_thumbnail_570x310.png?fm=webp",
+          "alt": "Fabric care label",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "How to Read Laundry Symbols",
+          "html": "How to Read Laundry Symbols"
+        },
+        {
+          "type": "p",
+          "text": "Laundry symbols seem like another language...",
+          "html": "Laundry symbols seem like another language..."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry/how-to-read-laundry-symbols"
+        }
+      ]
+    }
+  ]
+}

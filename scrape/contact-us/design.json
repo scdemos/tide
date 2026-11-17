@@ -1,0 +1,61 @@
+{
+  "url": "https://tide.com/en-us/contact-us",
+  "viewport": 1440,
+  "nav": {
+    "tree": [],
+    "navs": [],
+    "headerLinks": [
+      "Skip to Content",
+      "Contact Us",
+      "US - English",
+      "Sign in",
+      "Submit Search",
+      "Shop Products",
+      "Our Commitment",
+      "How to Wash Clothes",
+      "What’s New",
+      "Coupons and Deals"
+    ],
+    "search": true,
+    "language": false,
+    "sticky": false,
+    "height": 175,
+    "bg": "rgb(27, 51, 146)"
+  },
+  "type": {
+    "h1": null,
+    "h2": null,
+    "h3": null,
+    "h4": null,
+    "body": null,
+    "small": null,
+    "nav": {
+      "family": "Tide",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.6px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "button": null
+  },
+  "buttons": [],
+  "cards": null,
+  "container": null,
+  "bands": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 558,
+      "heading": ""
+    }
+  ],
+  "meta": {
+    "title": "Laundry Detergent and Fabric Care Products - Tide",
+    "description": "",
+    "image": "",
+    "lang": "en"
+  }
+}

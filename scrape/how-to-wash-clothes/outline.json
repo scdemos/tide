@@ -1,0 +1,120 @@
+{
+  "title": "How to Wash Clothes - Laundry Tips and Tricks | Tide",
+  "url": "https://tide.com/en-us/how-to-wash-clothes",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/sTjmDwW8fg4WOcxIqnvd9/a051216d5ea02c205561a60ea9d79b0e/HOW_TO_WASH_CLOTHES_Header_1920x653.jpg?fm=webp",
+          "alt": "A person loading clothes into a washing machine",
+          "w": 1440
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "How to Wash Clothes"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "Launder like a pro with our laundry tips on how to remove stains and get clean laundry. Whether you want to take the mystery out of doing the laundry, or you need some simple tricks on how to get rid of stains, Tide has you covered with our articles on clothing care and how to wash clothes. With our expert tips for laundry, clothes always look their best.",
+          "html": "Launder like a pro with our laundry tips on how to remove stains and get clean laundry. Whether you want to take the mystery out of doing the laundry, or you need some simple tricks on how to get rid of stains, Tide has you covered with our articles on clothing care and how to wash clothes. With our expert tips for laundry, clothes always look their best."
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2xMMlAb2jUV9Zo3yufQQwY/87aa4a6a87cfd7f83e37a6ac3920b8eb/HOW_TO_WASH_CLOTHES_How_to_remove_stains_570x310.jpg?fm=webp",
+          "alt": "A hand pouring blue liquid on a white shirt from a pipette",
+          "w": 555
+        },
+        {
+          "type": "p",
+          "text": "How to remove stains",
+          "html": "How to remove stains"
+        },
+        {
+          "type": "p",
+          "text": "It’s a fact of life that not all stains are created equal.",
+          "html": "It’s a fact of life that not all stains are created equal."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/how-to-wash-clothes/how-to-remove-stains"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2sGz5dCo8LlJoenyCauJ9H/50da004ddfeb3aa2fa839d854d3c9c67/HOW_TO_WASH_CLOTES_How_to_do_Laundry_570x310.jpg?fm=webp",
+          "alt": "A laundry basket full of colorful garments",
+          "w": 555
+        },
+        {
+          "type": "p",
+          "text": "How to Do Laundry",
+          "html": "How to Do Laundry"
+        },
+        {
+          "type": "p",
+          "text": "Sometimes life isn’t easy, and neither is your laundry.",
+          "html": "Sometimes life isn’t easy, and neither is your laundry."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/7FmJC0yRrvfmxEkg0FAujA/2fc0d9df8fb6bbdc82a4ac1067a5d760/HOW_TO_WASH_CLOTHES_The_art_of_washing_different_fabric_370x320.jpg?fm=webp",
+          "alt": "A pile of colorful garments in front of a washer",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "The Art of Washing Different Fabrics and Colors",
+          "html": "The Art of Washing Different Fabrics and Colors"
+        },
+        {
+          "type": "p",
+          "text": "Whether it’s washing different fabrics and colors or caring for your children’s stuffed animals, we at Tide ...",
+          "html": "Whether it’s washing different fabrics and colors or caring for your children’s stuffed animals, we at Tide ..."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/how-to-wash-clothes/washing-different-fabrics-and-colors"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/25DTzY4OsuphCXK5ZuipX6/dd65376add2d156316d7ecc1a7991a8d/Tide_StartMachine_S5_217.jpg?fm=webp",
+          "alt": "A person selecting the wash cycle on a washing machine",
+          "w": 360
+        },
+        {
+          "type": "p",
+          "text": "How to Use a Washer: From Common Problems to HE Detergent",
+          "html": "How to Use a Washer: From Common Problems to HE Detergent"
+        },
+        {
+          "type": "p",
+          "text": "If you’re looking for a guide covering everything you’ve ever wanted to know about washing machines, from sudsing to HE machines ...",
+          "html": "If you’re looking for a guide covering everything you’ve ever wanted to know about washing machines, from sudsing to HE machines ..."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/how-to-wash-clothes/washing-machine-101"
+        },
+        {
+          "type": "p",
+          "text": "It’s important to keep your laundry products up, closed and safe – away from children. If at any time you have difficulty closing your package, please reach out directly to our team.",
+          "html": "It’s important to keep your laundry products up, closed and safe – away from children. If at any time you have difficulty closing your package, <a class=\"event_internal_link\" data-action-detail=\"/en-us/contact-us\" target=\"_blank\" rel=\"noreferrer\" href=\"/en-us/contact-us\">please reach out directly to our team</a>."
+        }
+      ]
+    }
+  ]
+}

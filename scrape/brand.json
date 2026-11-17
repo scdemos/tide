@@ -1,0 +1,101 @@
+{
+  "colors": [
+    {
+      "v": "rgb(255, 255, 255)",
+      "n": 943
+    },
+    {
+      "v": "rgb(0, 0, 0)",
+      "n": 326
+    },
+    {
+      "v": "rgb(19, 37, 156)",
+      "n": 109
+    },
+    {
+      "v": "rgb(27, 51, 146)",
+      "n": 103
+    },
+    {
+      "v": "rgb(0, 0, 238)",
+      "n": 47
+    },
+    {
+      "v": "rgb(251, 76, 6)",
+      "n": 22
+    }
+  ],
+  "backgrounds": [
+    {
+      "v": "rgb(255, 255, 255)",
+      "n": 11
+    },
+    {
+      "v": "rgb(27, 51, 146)",
+      "n": 9
+    },
+    {
+      "v": "rgb(251, 76, 6)",
+      "n": 9
+    },
+    {
+      "v": "rgb(240, 240, 240)",
+      "n": 4
+    },
+    {
+      "v": "rgb(245, 245, 245)",
+      "n": 2
+    },
+    {
+      "v": "rgb(19, 37, 156)",
+      "n": 1
+    },
+    {
+      "v": "rgb(254, 229, 0)",
+      "n": 1
+    },
+    {
+      "v": "rgba(0, 0, 0, 0.5)",
+      "n": 1
+    }
+  ],
+  "borders": [
+    {
+      "v": "rgb(255, 255, 255)",
+      "n": 941
+    },
+    {
+      "v": "rgb(0, 0, 0)",
+      "n": 322
+    },
+    {
+      "v": "rgb(19, 37, 156)",
+      "n": 109
+    },
+    {
+      "v": "rgb(27, 51, 146)",
+      "n": 103
+    },
+    {
+      "v": "rgb(0, 0, 238)",
+      "n": 47
+    },
+    {
+      "v": "rgb(251, 76, 6)",
+      "n": 22
+    }
+  ],
+  "fonts": [
+    "Tide, sans-serif"
+  ],
+  "headingFont": "Tide, sans-serif",
+  "radius": "0px",
+  "logo": [
+    "https://tide.com/images/header_logo_png.webp",
+    "https://tide.com/images/header_logo_downy.webp",
+    "https://tide.com/images/header_logo_bounce.webp",
+    "inline-svg"
+  ],
+  "favicon": "https://tide.com/images/favicon.ico",
+  "siteName": "Tide"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Laundry Detergent and Fabric Care Products - Tide",
+  "url": "https://tide.com/en-us/contact-us",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        {
+          "type": "embed",
+          "src": "https://consumersupport.pg.com/carehub?brand=Tide&language=en&country=us",
+          "title": "pgcontactus"
+        }
+      ]
+    }
+  ]
+}

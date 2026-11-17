@@ -1,0 +1,122 @@
+{
+  "title": "Tide evo - Detergent Entirely Made of Clean | Tide",
+  "url": "https://tide.com/en-us/our-commitment/tide-evo",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        {
+          "type": "img",
+          "src": "https://tide.com/images/sky-bg.webp",
+          "alt": "",
+          "w": 1440,
+          "background": true
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2AK94wo02vkbh9liYdm0J7/816a5e347f98855a99e23694e97eb32f/Frame_2762.png?fm=webp",
+          "alt": "Tide EVO",
+          "w": 1440
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "meet Tide evo."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "100% concentrated."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "powerful clean."
+      },
+      "items": [
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/3DXSDYMY9rEipBbjyb4GIY/02359cf1609527a1a0875e8b1ba01bb6/icon1.png?fm=webp",
+          "alt": "no plastic bottles",
+          "w": 210
+        },
+        {
+          "type": "p",
+          "text": "packaging that is",
+          "html": "packaging that is "
+        },
+        {
+          "type": "p",
+          "text": "ready to recycle",
+          "html": "ready to recycle "
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/3VJcqZlZ7im5XhLuGiUIUr/208adbbb987b6980f6b0e76653bad12c/icon2.png?fm=webp",
+          "alt": "no extra water",
+          "w": 210
+        },
+        {
+          "type": "p",
+          "text": "ultra lightweight and",
+          "html": "ultra lightweight and "
+        },
+        {
+          "type": "p",
+          "text": "mess-free",
+          "html": "mess-free "
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/6TtxHOVT6bYvYIDW73muzn/7250f93cbeb67dd36e2cfded01ebc25e/icon3.png?fm=webp",
+          "alt": "no fillers",
+          "w": 210
+        },
+        {
+          "type": "p",
+          "text": "100% concentrated",
+          "html": "100% concentrated "
+        },
+        {
+          "type": "p",
+          "text": "ingredients woven",
+          "html": "ingredients woven "
+        },
+        {
+          "type": "p",
+          "text": "together in a soft tile",
+          "html": "together in a soft tile "
+        },
+        {
+          "type": "p",
+          "text": "form",
+          "html": "form "
+        },
+        {
+          "type": "embed",
+          "src": "https://videos.ctfassets.net/ajjw8wywicb3/77VgVqgBLYtpb6MNa5gvo/9d5b6371a83a7a1c3ff01133a8859bf0/Tide_EVO-Blue_BG__16x9__ProRes_4444_133269459.mp4",
+          "title": ""
+        },
+        {
+          "type": "embed",
+          "src": "https://videos.ctfassets.net/ajjw8wywicb3/6xMuyKO48YTOG5yvbgnmaz/f0c66add6c5193aa49c96b2108c2dcf1/SI03_TIDE_EVO_OG_VIS_DCom_enUS_132341143_16x9_5s_1080p.mp4",
+          "title": ""
+        },
+        {
+          "type": "embed",
+          "src": "https://videos.ctfassets.net/ajjw8wywicb3/6djdN54nWkWTBSIgLrMweb/b5450b0e4042838a07f7d9603aa7cdb7/Tide_Review_asset_16x9_1080p_5s.mp4",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

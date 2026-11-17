@@ -1,0 +1,134 @@
+{
+  "url": "https://tide.com/en-us/rewards/loyalty/terms-and-conditions",
+  "viewport": 1440,
+  "nav": {
+    "tree": [
+      {
+        "label": "Home",
+        "visible": true,
+        "children": []
+      },
+      {
+        "label": "Laundry Detergent Pods Coupons and Rewards",
+        "visible": true,
+        "children": []
+      },
+      {
+        "label": "Loyalty Program Terms and Conditions",
+        "visible": false,
+        "children": []
+      }
+    ],
+    "navs": [
+      {
+        "where": "page",
+        "label": "Breadcrumbs",
+        "links": 2,
+        "items": [
+          {
+            "label": "Home",
+            "visible": true,
+            "children": []
+          },
+          {
+            "label": "Laundry Detergent Pods Coupons and Rewards",
+            "visible": true,
+            "children": []
+          },
+          {
+            "label": "Loyalty Program Terms and Conditions",
+            "visible": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "headerLinks": [
+      "Skip to Content",
+      "Contact Us",
+      "US - English",
+      "Sign in",
+      "Submit Search",
+      "Shop Products",
+      "Our Commitment",
+      "How to Wash Clothes",
+      "What’s New",
+      "Coupons and Deals"
+    ],
+    "search": true,
+    "language": false,
+    "sticky": false,
+    "height": 175,
+    "bg": "rgb(27, 51, 146)"
+  },
+  "type": {
+    "h1": {
+      "family": "Tide",
+      "size": "48px",
+      "weight": "800",
+      "lineHeight": "52px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "h2": {
+      "family": "Tide",
+      "size": "48px",
+      "weight": "800",
+      "lineHeight": "52px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(251, 76, 6)"
+    },
+    "h3": null,
+    "h4": null,
+    "body": {
+      "family": "Tide",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(27, 51, 146)"
+    },
+    "small": null,
+    "nav": {
+      "family": "Tide",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.6px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "button": null
+  },
+  "buttons": [],
+  "cards": null,
+  "container": {
+    "width": 1140,
+    "gutter": 150
+  },
+  "bands": [
+    {
+      "bg": "rgb(251, 76, 6)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 500,
+      "heading": "Loyalty Program Full Terms and Conditions"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 9288,
+      "heading": "1. Eligibility."
+    }
+  ],
+  "meta": {
+    "title": "Loyalty Program Terms and Conditions | Tide",
+    "description": "Loyalty Program Terms and Conditions",
+    "image": "",
+    "lang": "en"
+  }
+}

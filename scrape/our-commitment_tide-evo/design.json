@@ -1,0 +1,127 @@
+{
+  "url": "https://tide.com/en-us/our-commitment/tide-evo",
+  "viewport": 1440,
+  "nav": {
+    "tree": [
+      {
+        "label": "Home",
+        "visible": true,
+        "children": []
+      },
+      {
+        "label": "Our Commitment",
+        "visible": true,
+        "children": []
+      },
+      {
+        "label": "How to use Tide evo",
+        "visible": false,
+        "children": []
+      }
+    ],
+    "navs": [
+      {
+        "where": "page",
+        "label": "Breadcrumbs",
+        "links": 2,
+        "items": [
+          {
+            "label": "Home",
+            "visible": true,
+            "children": []
+          },
+          {
+            "label": "Our Commitment",
+            "visible": true,
+            "children": []
+          },
+          {
+            "label": "How to use Tide evo",
+            "visible": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "headerLinks": [
+      "Skip to Content",
+      "Contact Us",
+      "US - English",
+      "Sign in",
+      "Submit Search",
+      "Shop Products",
+      "Our Commitment",
+      "How to Wash Clothes",
+      "What’s New",
+      "Coupons and Deals"
+    ],
+    "search": true,
+    "language": false,
+    "sticky": false,
+    "height": 175,
+    "bg": "rgb(27, 51, 146)"
+  },
+  "type": {
+    "h1": {
+      "family": "Tide",
+      "size": "68px",
+      "weight": "400",
+      "lineHeight": "76px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(19, 37, 156)"
+    },
+    "h2": {
+      "family": "Tide",
+      "size": "68px",
+      "weight": "800",
+      "lineHeight": "76px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(19, 37, 156)"
+    },
+    "h3": null,
+    "h4": null,
+    "body": {
+      "family": "Tide",
+      "size": "22px",
+      "weight": "400",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(19, 37, 156)"
+    },
+    "small": null,
+    "nav": {
+      "family": "Tide",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.6px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "button": null
+  },
+  "buttons": [],
+  "cards": null,
+  "container": {
+    "width": 1170,
+    "gutter": 135
+  },
+  "bands": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": true,
+      "padY": "0px 0px",
+      "h": 2430,
+      "heading": "meet Tide evo."
+    }
+  ],
+  "meta": {
+    "title": "Tide evo - Detergent Entirely Made of Clean | Tide",
+    "description": "Introducing Tide evo: Experience an eco-friendly, 100% concentrated detergent in a sleek tile form. Enjoy mess-free cleaning with recyclable packaging and zero fillers.",
+    "image": "",
+    "lang": "en"
+  }
+}

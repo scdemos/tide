@@ -1,0 +1,198 @@
+{
+  "url": "https://tide.com/en-us/how-to-wash-clothes/how-to-remove-stains",
+  "viewport": 1440,
+  "nav": {
+    "tree": [
+      {
+        "label": "Home",
+        "visible": true,
+        "children": []
+      },
+      {
+        "label": "How to Wash Clothes",
+        "visible": true,
+        "children": []
+      },
+      {
+        "label": "How to Remove Stains",
+        "visible": false,
+        "children": []
+      }
+    ],
+    "navs": [
+      {
+        "where": "page",
+        "label": "Breadcrumbs",
+        "links": 2,
+        "items": [
+          {
+            "label": "Home",
+            "visible": true,
+            "children": []
+          },
+          {
+            "label": "How to Wash Clothes",
+            "visible": true,
+            "children": []
+          },
+          {
+            "label": "How to Remove Stains",
+            "visible": false,
+            "children": []
+          }
+        ]
+      },
+      {
+        "where": "page",
+        "label": "",
+        "links": 0,
+        "items": [
+          {
+            "label": "Browse by stain type",
+            "visible": false,
+            "children": []
+          },
+          {
+            "label": "Stain Removal Guide",
+            "visible": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "headerLinks": [
+      "Skip to Content",
+      "Contact Us",
+      "US - English",
+      "Sign in",
+      "Submit Search",
+      "Shop Products",
+      "Our Commitment",
+      "How to Wash Clothes",
+      "What’s New",
+      "Coupons and Deals"
+    ],
+    "search": true,
+    "language": false,
+    "sticky": false,
+    "height": 175,
+    "bg": "rgb(27, 51, 146)"
+  },
+  "type": {
+    "h1": {
+      "family": "Tide",
+      "size": "48px",
+      "weight": "800",
+      "lineHeight": "52px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(251, 76, 6)"
+    },
+    "h2": {
+      "family": "Tide",
+      "size": "48px",
+      "weight": "800",
+      "lineHeight": "52px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "h3": {
+      "family": "Tide",
+      "size": "40px",
+      "weight": "800",
+      "lineHeight": "44px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(251, 76, 6)"
+    },
+    "h4": null,
+    "body": {
+      "family": "Tide",
+      "size": "20px",
+      "weight": "700",
+      "lineHeight": "26px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(27, 51, 146)"
+    },
+    "small": null,
+    "nav": {
+      "family": "Tide",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.6px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "button": {
+      "family": "Tide",
+      "size": "20px",
+      "weight": "700",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    }
+  },
+  "buttons": [
+    {
+      "n": 1,
+      "label": "Learn More",
+      "bg": "rgb(27, 51, 146)",
+      "color": "rgb(255, 255, 255)",
+      "border": "0px none rgb(255, 255, 255)",
+      "radius": "25px",
+      "padding": "10px 30px",
+      "transform": "none",
+      "weight": "700",
+      "size": "20px"
+    },
+    {
+      "n": 1,
+      "label": "Back to Top",
+      "bg": "rgb(27, 51, 146)",
+      "color": "rgb(255, 255, 255)",
+      "border": "0px none rgb(255, 255, 255)",
+      "radius": "30px",
+      "padding": "20px 20px",
+      "transform": "none",
+      "weight": "700",
+      "size": "20px"
+    }
+  ],
+  "cards": {
+    "count": 8,
+    "radius": "0px",
+    "shadow": "none",
+    "border": "none",
+    "bg": "rgba(0, 0, 0, 0)"
+  },
+  "container": {
+    "width": 1170,
+    "gutter": 135
+  },
+  "bands": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 857,
+      "heading": "How to remove stains"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 5292,
+      "heading": "Stain removal guide"
+    }
+  ],
+  "meta": {
+    "title": "How to Remove Stains - Stain Removal Guide | Tide",
+    "description": "Tide's stain removal guide shows you how to remove over 80 different types of stains; leaving clothes cleaner, fresher and brighter for longer!",
+    "image": "",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "url": "https://tide.com/en-us/rewards",
+  "viewport": 1440,
+  "nav": {
+    "tree": [],
+    "navs": [],
+    "headerLinks": [
+      "Skip to Content",
+      "Contact Us",
+      "US - English",
+      "Sign in",
+      "Submit Search",
+      "Shop Products",
+      "Our Commitment",
+      "How to Wash Clothes",
+      "What’s New",
+      "Coupons and Deals"
+    ],
+    "search": true,
+    "language": false,
+    "sticky": false,
+    "height": 175,
+    "bg": "rgb(27, 51, 146)"
+  },
+  "type": {
+    "h1": null,
+    "h2": {
+      "family": "Tide",
+      "size": "48px",
+      "weight": "800",
+      "lineHeight": "52px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(251, 76, 6)"
+    },
+    "h3": null,
+    "h4": null,
+    "body": {
+      "family": "Tide",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(27, 51, 146)"
+    },
+    "small": null,
+    "nav": {
+      "family": "Tide",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.6px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "button": {
+      "family": "Tide",
+      "size": "20px",
+      "weight": "700",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    }
+  },
+  "buttons": [
+    {
+      "n": 3,
+      "label": "Learn More",
+      "bg": "rgb(251, 76, 6)",
+      "color": "rgb(255, 255, 255)",
+      "border": "0px none rgb(255, 255, 255)",
+      "radius": "25px",
+      "padding": "10px 30px",
+      "transform": "none",
+      "weight": "700",
+      "size": "20px"
+    }
+  ],
+  "cards": {
+    "count": 3,
+    "radius": "0px",
+    "shadow": "none",
+    "border": "none",
+    "bg": "rgba(0, 0, 0, 0)"
+  },
+  "container": {
+    "width": 1140,
+    "gutter": 150
+  },
+  "bands": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 700,
+      "heading": "Tide is here to help you"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 96,
+      "heading": "Discover Tide"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 473,
+      "heading": ""
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 700,
+      "heading": ""
+    },
+    {
+      "bg": "rgb(27, 51, 146)",
+      "bgImage": false,
+      "padY": "80px 0px",
+      "h": 80,
+      "heading": ""
+    },
+    {
+      "bg": "rgb(27, 51, 146)",
+      "bgImage": false,
+      "padY": "0px 80px",
+      "h": 573,
+      "heading": ""
+    }
+  ],
+  "meta": {
+    "title": "Laundry Detergent Pods Coupons and Rewards | Tide",
+    "description": "Discover the latest deals, coupons, and special offers on http://Tide.com , America's #1 laundry detergent. Save big and get great value with Tide Rewards.",
+    "image": "",
+    "lang": "en"
+  }
+}

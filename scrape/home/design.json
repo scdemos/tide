@@ -1,0 +1,192 @@
+{
+  "url": "https://tide.com/en-us",
+  "viewport": 1440,
+  "nav": {
+    "tree": [],
+    "navs": [],
+    "headerLinks": [
+      "Skip to Content",
+      "Contact Us",
+      "US - English",
+      "Sign in",
+      "Submit Search",
+      "Shop Products",
+      "Our Commitment",
+      "How to Wash Clothes",
+      "What’s New",
+      "Coupons and Deals"
+    ],
+    "search": true,
+    "language": false,
+    "sticky": false,
+    "height": 175,
+    "bg": "rgb(27, 51, 146)"
+  },
+  "type": {
+    "h1": {
+      "family": "Tide",
+      "size": "50px",
+      "weight": "400",
+      "lineHeight": "55px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(19, 37, 156)"
+    },
+    "h2": {
+      "family": "Tide",
+      "size": "70px",
+      "weight": "800",
+      "lineHeight": "75px",
+      "letterSpacing": "2.625px",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "h3": {
+      "family": "Tide",
+      "size": "32px",
+      "weight": "800",
+      "lineHeight": "38px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(27, 51, 146)"
+    },
+    "h4": null,
+    "body": {
+      "family": "Tide",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(27, 51, 146)"
+    },
+    "small": null,
+    "nav": {
+      "family": "Tide",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.6px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "button": {
+      "family": "Tide",
+      "size": "20px",
+      "weight": "700",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)"
+    }
+  },
+  "buttons": [
+    {
+      "n": 5,
+      "label": "try it now!",
+      "bg": "rgb(251, 76, 6)",
+      "color": "rgb(255, 255, 255)",
+      "border": "0px none rgb(255, 255, 255)",
+      "radius": "25px",
+      "padding": "10px 30px",
+      "transform": "none",
+      "weight": "700",
+      "size": "20px"
+    },
+    {
+      "n": 2,
+      "label": "Check it out!",
+      "bg": "rgb(27, 51, 146)",
+      "color": "rgb(255, 255, 255)",
+      "border": "0px none rgb(255, 255, 255)",
+      "radius": "25px",
+      "padding": "10px 30px",
+      "transform": "none",
+      "weight": "700",
+      "size": "20px"
+    }
+  ],
+  "cards": null,
+  "container": {
+    "width": 1170,
+    "gutter": 135
+  },
+  "bands": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 500,
+      "heading": "new Tide evo"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 375,
+      "heading": "Less Work, Better Clean*"
+    },
+    {
+      "bg": "rgb(27, 51, 146)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 800,
+      "heading": "POWER PODS®"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 118,
+      "heading": "See what we've been working on lately"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 420,
+      "heading": ""
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "90px 95px",
+      "h": 762,
+      "heading": "Find the right Tide product for you"
+    },
+    {
+      "bg": "rgb(27, 51, 146)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 602,
+      "heading": "Stain removal guide"
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 642,
+      "heading": "How to do laundry"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 192,
+      "heading": "Learn more"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": false,
+      "padY": "0px 0px",
+      "h": 544,
+      "heading": ""
+    }
+  ],
+  "meta": {
+    "title": "Laundry Detergent and Fabric Care Products - Tide",
+    "description": "Visit Tide for the greatest in laundry products. With powders, liquids and pacs on offer; learn about stain removal, fabric care, and more from Tide!",
+    "image": "https://images.ctfassets.net/ajjw8wywicb3/1bGbAuVbRby66FzFbNKMye/1902291e5f9680f5f413c527c3cf7d26/Website_DT_1200x627_Tide_logo.jpg",
+    "lang": "en"
+  }
+}

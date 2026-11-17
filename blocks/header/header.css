@@ -1610,3 +1610,117 @@ header .nav-layout-rail .nav-brand .icon-rail-mark {
     mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Ccircle cx='12' cy='10' r='3.5'/%3E%3Cpath d='M5.5 19c1.6-2.6 3.8-3.8 6.5-3.8s4.9 1.2 6.5 3.8'/%3E%3C/svg%3E") center / contain no-repeat;
   }
 }
+
+/* ==========================================================================
+   Layout: stacked (metadata `nav-layout: stacked`)
+   Three rows: utility bar (4th nav row), brand + search bar, sub-nav with the sections.
+   Colors come from tokens: utility = background, brand bar = --color-rust, sub-nav = --color-card-dark.
+   ========================================================================== */
+header .nav-layout-stacked {
+  --nav-height: 56px;
+}
+
+header .nav-layout-stacked .nav-wrapper {
+  background-color: var(--color-rust);
+  border-bottom: 0;
+}
+
+header .nav-layout-stacked nav .nav-utility {
+  display: none;
+}
+
+header .nav-layout-stacked nav .nav-brand a:any-link {
+  color: var(--color-light);
+}
+
+header .nav-layout-stacked nav .nav-brand img {
+  height: 40px;
+  width: auto;
+}
+
+header .nav-layout-stacked nav .nav-tools,
+header .nav-layout-stacked nav .nav-hamburger button {
+  color: var(--color-light);
+}
+
+@media (width >= 900px) {
+  body:has(header .nav-layout-stacked) {
+    --nav-height: 150px;
+  }
+
+  header .nav-layout-stacked nav {
+    display: grid;
+    grid-template:
+      'utility utility' 36px
+      'brand tools' 72px
+      'sections sections' 42px / 1fr auto;
+    max-width: none;
+    padding: 0;
+    gap: 0;
+  }
+
+  header .nav-layout-stacked nav .nav-utility {
+    grid-area: utility;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0 max(var(--space-xl), calc((100% - 1200px) / 2));
+    background-color: var(--color-light);
+    color: var(--color-dark);
+    font-size: var(--body-font-size-xs);
+  }
+
+  header .nav-layout-stacked nav .nav-utility > div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-s) var(--space-m);
+    align-items: center;
+  }
+
+  header .nav-layout-stacked nav .nav-utility p,
+  header .nav-layout-stacked nav .nav-utility ul {
+    display: flex;
+    gap: var(--space-m);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  header .nav-layout-stacked nav .nav-utility a:any-link {
+    color: var(--color-card-dark);
+    font-weight: 600;
+  }
+
+  header .nav-layout-stacked nav .nav-brand {
+    flex: none;
+    justify-content: flex-start;
+    padding-left: max(var(--space-xl), calc((100% - 1200px) / 2));
+  }
+
+  header .nav-layout-stacked nav .nav-tools {
+    padding-right: max(var(--space-xl), calc((100% - 1200px) / 2));
+  }
+
+  header .nav-layout-stacked nav .nav-sections {
+    grid-area: sections;
+    background-color: var(--color-card-dark);
+    color: var(--color-light);
+    justify-content: center;
+  }
+
+  header .nav-layout-stacked nav .nav-sections .default-content-wrapper > ul {
+    justify-content: center;
+    gap: var(--space-xl);
+  }
+
+  header .nav-layout-stacked nav .nav-sections .default-content-wrapper > ul > li > p {
+    min-height: 42px;
+    font-size: var(--body-font-size-xs);
+    text-transform: var(--nav-text-transform, none);
+  }
+
+  header .nav-layout-stacked nav .nav-sections a:any-link {
+    color: var(--color-light);
+  }
+}

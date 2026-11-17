@@ -1,0 +1,217 @@
+{
+  "title": "Laundry Detergent and Fabric Care Products - Tide",
+  "url": "https://tide.com/en-us",
+  "sections": [
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "new Tide evo"
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "6x concentrated layers"
+      },
+      "items": [
+        {
+          "type": "cta",
+          "text": "try it now!",
+          "href": "https://tide.com/en-us/shop/type/laundry-tiles/tide-evo-laundry-detergent-tiles-original"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2D4zSKHS0VgYoQ9dzylYWA/807e110c8d8a7b6fa06404d4c7270e25/Tide_EVO_enahncement_HP_hero_20260205_min1400px.jpg?fm=webp",
+          "alt": "",
+          "w": 1440
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 1,
+        "text": "Less Work, Better Clean*"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "*vs. pretreating and washing with Tide Simply",
+          "html": "<u>*vs. pretreating and washing with Tide Simply</u>"
+        },
+        {
+          "type": "cta",
+          "text": "Check it out!",
+          "href": "https://tide.com/en-us/our-commitment/tide-boosted"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/5GxpkNFRU365mIop31eSWN/88eaf7c454a534fb6f795012fa439225/Tide_TheRock_HP_hero_20250812_min1400px.jpg?fm=webp",
+          "alt": "",
+          "w": 1440
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/1sHzih13inxoSet2yLepN4/791a08ce776b22d826fb7d8009e918c0/Tide_Power_Pods_module2_20250320_min1200px.png?fm=webp",
+          "alt": "New Tide Hygienic Clean is designed to remove both visible and invisible dirt ",
+          "w": 801
+        },
+        {
+          "type": "p",
+          "text": "Tide",
+          "html": "Tide"
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "POWER PODS®"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "Life is messier. Washing machines are bigger.",
+          "html": "Life is messier. Washing machines are bigger."
+        },
+        {
+          "type": "p",
+          "text": "Bigger PODS® means a better clean in every load.",
+          "html": "Bigger PODS<strong>®</strong> means a better clean in every load."
+        },
+        {
+          "type": "p",
+          "text": "Now there’s a Tide Power PODS® product for any mess.",
+          "html": "Now there’s a Tide Power PODS<strong>®</strong> product for any mess."
+        },
+        {
+          "type": "cta",
+          "text": "Shop Collection",
+          "href": "https://tide.com/en-us/shop/top-collections/tide-power-pods"
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "See what we've been working on lately"
+      },
+      "items": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Meet Tide evo. Detergent entirely made of clean. Learn More",
+            "Remove visible and invisible dirt Learn More",
+            "Tide is consumers' #1 Trusted laundry detergent brand in BrandSpark survey Learn More",
+            "Tide signs Space Act Agreement with NASA Learn More"
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "Find the right Tide product for you"
+      },
+      "items": [
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/jrwLVFSOxSUBsy0zpk2vk/b060c46ea3aed4795b097a43932dd8a7/how_to_remove_stains.png?fm=webp",
+          "alt": "A white T-shirt with brown liquid stains on it",
+          "w": 784
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "Stain removal guide"
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "How to do laundry"
+      },
+      "items": [
+        {
+          "type": "p",
+          "text": "Whether you're a beginner or a seasoned pro, start here for some of our expert laundry tips and tricks.",
+          "html": "Whether you're a beginner or a seasoned pro, start here for some of our expert laundry tips and tricks."
+        },
+        {
+          "type": "cta",
+          "text": "Learn More",
+          "href": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/4IfuhdyZ40I2tDctxsPlVi/2939823ea98f743841a5a004f76cbf7a/Tide_how_to_do_laundry_min1200_20220915.png?fm=webp",
+          "alt": "A person holding a Tide Original Liquid Detergent product",
+          "w": 720
+        }
+      ]
+    },
+    {
+      "title": {
+        "type": "h",
+        "level": 2,
+        "text": "Learn more"
+      },
+      "items": [
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/1eeKGDOfWebH9aNAZSbgYB/9b12eb5fa879c9c38b7f0ec0143a61ec/Tide_LoH-hero_570x310_v2.jpg?fm=webp",
+          "alt": "A child getting his clothes cleaned at a Tide Loads of Hope truck",
+          "w": 555
+        },
+        {
+          "type": "p",
+          "text": "Loads of Hope",
+          "html": "Loads of Hope"
+        },
+        {
+          "type": "p",
+          "text": "Life after disasters — hurricanes, floods, tornadoes, wildfires — can feel like a nightmare. Families are...",
+          "html": "Life after disasters — hurricanes, floods, tornadoes, wildfires — can feel like a nightmare. Families are..."
+        },
+        {
+          "type": "cta",
+          "text": "Read More",
+          "href": "https://tide.com/en-us/our-commitment/loads-of-hope"
+        },
+        {
+          "type": "img",
+          "src": "https://images.ctfassets.net/ajjw8wywicb3/2MxM3jrQjnd6UsCiU1UyGP/4987a7d546233eacbebb1df90de26af9/Tide_Safety_preview_570x310.jpg?fm=webp",
+          "alt": "The top part of a Tide PODS container, showing that it's child-proof",
+          "w": 555
+        },
+        {
+          "type": "p",
+          "text": "At Tide Safety Comes First, and It Never Stops",
+          "html": "At Tide Safety Comes First, and It Never Stops"
+        },
+        {
+          "type": "p",
+          "text": "Keeping loved ones safe is a joint effort. We’ve been working closely with Safe Kids...",
+          "html": "Keeping loved ones safe is a joint effort. We’ve been working closely with Safe Kids..."
+        },
+        {
+          "type": "cta",
+          "text": "Read More",
+          "href": "https://tide.com/en-us/our-commitment/ingredients-and-safety/home-safety-tips"
+        }
+      ]
+    }
+  ]
+}
