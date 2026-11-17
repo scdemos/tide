@@ -324,3 +324,16 @@ footer .footer.footer-layout-columns .section:nth-child(3) {
   border-top: 0;
   padding-top: var(--space-s);
 }
+
+footer .footer.footer-layout-columns .section:first-child ul a:any-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 32px;
+  min-height: 32px;
+}
+
+footer .footer.footer-layout-columns .section:nth-child(n + 3) a:any-link {
+  display: inline-block;
+  padding-block: var(--space-xs);
+}

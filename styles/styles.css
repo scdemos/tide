@@ -52,7 +52,7 @@
    */
 
   /* heritage palette */
-  --color-rust: #fb4c06;
+  --color-rust: #d23e00;
   --color-gold: #fee500;
   --color-parchment: #fff;
   --color-ink: #000;
@@ -60,7 +60,7 @@
   /* heritage dark palette */
   --color-obsidian: #0c1a52;
   --color-card-dark: #1b3392;
-  --color-rust-bright: #e04300;
+  --color-rust-bright: #b83500;
   --color-muted: #5b6475;
   --heading-font-weight: 800;
   --section-ink-bg: #1b3392;

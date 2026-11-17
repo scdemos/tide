@@ -37,4 +37,13 @@ export default async function decorate(block) {
       socialSection.remove();
     }
   }
+
+  // icon-only links (social) get an accessible name from the icon name
+  block.querySelectorAll('a').forEach((link) => {
+    const icon = link.querySelector('.icon');
+    if (icon && !link.textContent.trim() && !link.getAttribute('aria-label')) {
+      const name = [...icon.classList].find((c) => c.startsWith('icon-'))?.slice(5) || '';
+      link.setAttribute('aria-label', name.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()));
+    }
+  });
 }

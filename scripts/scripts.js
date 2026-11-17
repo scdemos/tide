@@ -338,7 +338,8 @@ async function loadEager(doc) {
     {
       datastreamId: 'd73be188-bc37-4ede-a5da-8aa7cd1e343b',
       orgId: '138A07885EE042D20A495CFA@AdobeOrg',
-      defaultConsent: 'in',
+      // pending until the visitor accepts (consent banner via `consent` metadata): no third-party cookies before consent
+      defaultConsent: 'pending',
       edgeConfigOverrides: {
         com_adobe_target: {
           propertyToken: '2375354b-3ff1-6d5d-1304-7c38fccd590b',
