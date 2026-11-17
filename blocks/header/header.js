@@ -561,6 +561,13 @@ export default async function decorate(block) {
   if (utility) {
     document.querySelector('main')?.setAttribute('id', 'site-content');
     nav.prepend(utility);
+    // a leading in-page link (`#site-content`) is the skip link: hidden until focused
+    const skip = utility.querySelector('a[href^="#"]');
+    if (skip) {
+      skip.classList.remove('button');
+      skip.closest('.button-container')?.classList.remove('button-container');
+      skip.classList.add('nav-skip');
+    }
     utility.querySelectorAll('ul').forEach((ul) => { if (ul.querySelector('img')) ul.classList.add('nav-utility-logos'); });
   }
   const extras = layout === 'stacked' ? 4 : 3;

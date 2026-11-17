@@ -1725,12 +1725,12 @@ header .nav-layout-stacked nav .nav-hamburger button {
   }
 }
 
-header .nav-layout-stacked nav .nav-utility .skip {
+header .nav-layout-stacked nav .nav-utility a.nav-skip:any-link {
   position: absolute;
   left: -10000px;
 }
 
-header .nav-layout-stacked nav .nav-utility .skip:focus {
+header .nav-layout-stacked nav .nav-utility a.nav-skip:any-link:focus {
   position: static;
 }
 
