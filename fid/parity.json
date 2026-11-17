@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 7,
-  "at": "2026-11-17T17:31:41.037Z",
+  "iteration": 8,
+  "at": "2026-11-17T17:38:26.885Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -121,7 +121,7 @@
         "look & feel": "fail",
         "functionality": "fail"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/shop",
@@ -211,7 +211,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     },
     {
       "original": "/shop/type/laundry-pods",
@@ -315,7 +315,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     },
     {
       "original": "/our-commitment",
@@ -370,7 +370,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     },
     {
       "original": "/our-commitment/tide-evo",
@@ -481,7 +481,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     },
     {
       "original": "/how-to-wash-clothes",
@@ -543,7 +543,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     },
     {
       "original": "/how-to-wash-clothes/how-to-remove-stains",
@@ -654,7 +654,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     },
     {
       "original": "/how-to-wash-clothes/how-to-do-laundry",
@@ -737,19 +737,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     },
     {
       "original": "/latest-news",
       "demo": "/latest-news",
       "fails": [
-        {
-          "width": 1440,
-          "check": "provenance",
-          "column": "content",
-          "detail": "3/35 text blocks not on the original: \"Learn More\" · \"Learn More\" · \"Learn More\"",
-          "evidence": "fid/fidelity-1440.html#latest-news"
-        },
         {
           "width": 1440,
           "check": "review",
@@ -780,13 +773,6 @@
         },
         {
           "width": 390,
-          "check": "provenance",
-          "column": "content",
-          "detail": "3/30 text blocks not on the original: \"Learn More\" · \"Learn More\" · \"Learn More\"",
-          "evidence": "fid/fidelity-390.html#latest-news"
-        },
-        {
-          "width": 390,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
@@ -799,7 +785,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/rewards",
@@ -868,7 +854,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/contact-us",
@@ -909,7 +895,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     },
     {
       "original": "/rewards/loyalty/terms-and-conditions",
@@ -971,7 +957,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 5
+      "rounds": 6
     }
   ]
 }

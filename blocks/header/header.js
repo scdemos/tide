@@ -506,7 +506,7 @@ function toggleMobile(nav, open, body) {
   const isOpen = open === undefined ? nav.getAttribute('aria-expanded') !== 'true' : open;
   body.style.overflowY = isOpen && !DESKTOP.matches ? 'hidden' : '';
   nav.setAttribute('aria-expanded', isOpen);
-  nav.querySelector('.nav-hamburger button')?.setAttribute('aria-label', isOpen ? 'Close navigation' : 'Open navigation');
+  nav.querySelector('.nav-hamburger button')?.setAttribute('aria-label', isOpen ? 'Close navigation menu' : 'Navigation menu');
   nav.querySelectorAll('.nav-drop').forEach((d) => d.setAttribute('tabindex', DESKTOP.matches ? '0' : '-1'));
 }
 
@@ -594,7 +594,7 @@ export default async function decorate(block) {
 
   const hamburger = document.createElement('div');
   hamburger.className = 'nav-hamburger';
-  hamburger.innerHTML = '<button type="button" aria-controls="nav" aria-label="Open navigation"><span class="nav-hamburger-icon"></span></button>';
+  hamburger.innerHTML = '<button type="button" aria-controls="nav" aria-label="Navigation menu"><span class="nav-hamburger-icon"></span></button>';
   let refreshAuthState = null;
   hamburger.onclick = async () => {
     toggleMobile(nav, undefined, body);

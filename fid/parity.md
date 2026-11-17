@@ -1,21 +1,21 @@
-# Parity: NOT COMPLETE ❌ (round 7, 2026-11-17T17:31:41.037Z)
+# Parity: NOT COMPLETE ❌ (round 8, 2026-11-17T17:38:26.885Z)
 
 Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 + 390 (+ dark OS at 1440) · interactions exercised
 
 | page | design | content | look & feel | functionality | rounds |
 |---|---|---|---|---|---|
-| / | ❌ | ❌ | ❌ | ❌ | 6 |
-| /shop | ❌ | ❌ | ❌ | ✅ | 5 |
-| /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 5 |
-| /our-commitment | ❌ | ❌ | ❌ | ✅ | 5 |
-| /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 5 |
-| /how-to-wash-clothes | ❌ | ❌ | ❌ | ✅ | 5 |
-| /how-to-wash-clothes/how-to-remove-stains | ❌ | ❌ | ❌ | ✅ | 5 |
-| /how-to-wash-clothes/how-to-do-laundry | ❌ | ❌ | ❌ | ✅ | 5 |
-| /latest-news | ❌ | ❌ | ❌ | ✅ | 6 |
-| /rewards | ❌ | ❌ | ❌ | ✅ | 6 |
-| /contact-us | ❌ | ✅ | ❌ | ✅ | 5 |
-| /rewards/loyalty/terms-and-conditions | ❌ | ❌ | ❌ | ✅ | 5 |
+| / | ❌ | ❌ | ❌ | ❌ | 7 |
+| /shop | ❌ | ❌ | ❌ | ✅ | 6 |
+| /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 6 |
+| /our-commitment | ❌ | ❌ | ❌ | ✅ | 6 |
+| /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 6 |
+| /how-to-wash-clothes | ❌ | ❌ | ❌ | ✅ | 6 |
+| /how-to-wash-clothes/how-to-remove-stains | ❌ | ❌ | ❌ | ✅ | 6 |
+| /how-to-wash-clothes/how-to-do-laundry | ❌ | ❌ | ❌ | ✅ | 6 |
+| /latest-news | ❌ | ❌ | ❌ | ✅ | 7 |
+| /rewards | ❌ | ❌ | ❌ | ✅ | 7 |
+| /contact-us | ❌ | ✅ | ❌ | ✅ | 6 |
+| /rewards/loyalty/terms-and-conditions | ❌ | ❌ | ❌ | ✅ | 6 |
 
 ## Fix list
 
@@ -126,12 +126,10 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry)
 
 ### /latest-news — 3 rounds: ask the SC
-- [ ] **content · provenance @1440px**: 3/35 text blocks not on the original: "Learn More" · "Learn More" · "Learn More" (fid/fidelity-1440.html#latest-news)
 - [ ] **look & feel · review @1440px**: no by-eye verdict in review.json (fid/fidelity-1440.html#latest-news)
 - [ ] **design · header items @390px**: missing: skip to content, navigation menu (fid/fidelity-390.html#latest-news)
 - [ ] **content · text @390px**: 1958 → 1473 chars (needs ≥ 80%) (fid/fidelity-390.html#latest-news)
 - [ ] **design · header layout @390px**: logo centered → left · sticky true → false (fid/fidelity-390.html#latest-news)
-- [ ] **content · provenance @390px**: 3/30 text blocks not on the original: "Learn More" · "Learn More" · "Learn More" (fid/fidelity-390.html#latest-news)
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#latest-news)
 
 ### /rewards — 3 rounds: ask the SC

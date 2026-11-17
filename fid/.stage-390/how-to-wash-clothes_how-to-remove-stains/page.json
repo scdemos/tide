@@ -1,0 +1,246 @@
+{
+  "url": "https://tide.com/en-us/how-to-wash-clothes/how-to-remove-stains",
+  "status": 200,
+  "errors": [
+    "Connecting to 'https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json' violates the following Content Security Policy directive: \"connect-src 'self' *.pg.com *.lightyearapi.com *.t",
+    "Fetch API cannot load https://privacytermsprod.pgmodernweb.com/privacy/privacy_and_terms_v2.json. Refused to connect because it violates the document's Content Security Policy.",
+    "Error: TypeError: Failed to fetch\n    at S (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2418)\n    at f (https://tide.com/_next/static/chunks/1imvuoxzq1ujf.js:7:2666)\n    at _ (https://tide",
+    "Loading the script 'https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=DAQO1G3C77UCICERMUPG&lib=ttq' violates the following Content Security Policy directive: \"script-src 'self' 'unsafe-inline' '",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://pandg.tapad.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com jeb",
+    "",
+    "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(18), measurements: Array(2), exceptions: Array(1)} TypeError: Failed to fetch\n    at h",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, traces: Object, events: Array(2)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafana/faro-web-tracing@%5E1",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: \"frame-src 'self' *.tide.com *.adsrvr.org *.doubleclick.net *.pghub.io consumersupport.pg.com giphy.com je",
+    "Access to fetch at 'https://grafana-alloy.rum.gcp.pgcloud.com/collect' from origin 'https://tide.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: ",
+    "Failed to load resource: net::ERR_FAILED",
+    "Faro\n @grafana/faro-web-sdk:transport-fetch\n Failed sending payload to the receiver\n {meta: Object, events: Array(1), measurements: Array(2)} TypeError: Failed to fetch\n    at https://unpkg.com/@grafa"
+  ],
+  "theme": null,
+  "declaredScheme": null,
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "lowContrast": [],
+  "title": "How to Remove Stains - Stain Removal Guide | Tide",
+  "height": 7262,
+  "header": {
+    "box": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 61
+    },
+    "bg": "rgb(27, 51, 146)",
+    "rows": 2,
+    "sticky": true,
+    "logo": {
+      "x": 172,
+      "w": 47,
+      "h": 47,
+      "centered": true
+    },
+    "hiddenLinks": 4,
+    "items": [
+      "Skip to Content",
+      "navigation menu",
+      "Submit Search"
+    ]
+  },
+  "footer": {
+    "box": {
+      "x": 0,
+      "y": 5666,
+      "w": 390,
+      "h": 1596
+    },
+    "bg": "rgb(255, 255, 255)",
+    "tone": "light",
+    "bleed": true,
+    "layout": {
+      "align": "start",
+      "left": 4,
+      "width": 92
+    },
+    "carousel": false,
+    "texts": [],
+    "labels": [
+      "By Type",
+      "By Need",
+      "Top Collection"
+    ],
+    "headings": [],
+    "textChars": 576,
+    "links": [
+      "How to Remove Stains",
+      "How to Do Laundry",
+      "Washing Different Fabrics and Colors",
+      "Washing Machine 101",
+      "Contact Us",
+      "P&G Brands",
+      "MrClean",
+      "Downy",
+      "Bounce",
+      "P&G Everyday",
+      "Accessibility Statement",
+      "Terms & Conditions",
+      "Tide Rewards Terms and Conditions",
+      "Careers",
+      "Privacy",
+      "Consumer Health Data Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "buttons": 3,
+    "images": 6,
+    "forms": 0,
+    "inputs": [],
+    "columns": 7
+  },
+  "sections": [
+    {
+      "box": {
+        "x": 0,
+        "y": 61,
+        "w": 390,
+        "h": 886
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 4,
+        "width": 92
+      },
+      "carousel": false,
+      "texts": [
+        "It’s a fact of life that not all stains are created equal.",
+        "It’s important to know what type of stains you’re facing before choosing the most appropriate pretreatment and washing methods to use. Dealing with oily stain removal? You can use a dish soap to pretreat these spots, but for enzymatic stains, like blood, you’ll want to pretreat with a liquid detergent and a clean toothbrush. Follow along to learn how to remove stains from clothes most effectively and more details about some of the most common types."
+      ],
+      "labels": [
+        "Browse by stain type",
+        "Stain Removal Guide"
+      ],
+      "headings": [
+        "H1: How to remove stains"
+      ],
+      "textChars": 618,
+      "links": 7,
+      "buttons": 2,
+      "images": 2,
+      "forms": 0,
+      "inputs": [],
+      "columns": 3
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 947,
+        "w": 390,
+        "h": 4569
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 4,
+        "width": 103
+      },
+      "carousel": true,
+      "texts": [
+        "Your Comprehensive Stain Removal Guide",
+        "What are the different types of stains?",
+        "Butter or other oily stains",
+        "Stains from coffee and tea",
+        "How do you get rid of stains?",
+        "Different stains can require different removal processes. Now that you have an idea of what type of stain you have, the good news is that most stain removal procedures are similar, except when it comes to pretreating. Whatever the cause of the stain, however, here are a few tips on how to get stains out of your favorites:",
+        "Step 1. Remove the excess stain",
+        "Use a paper towel, a fork, or a brush to get rid of as much of the stain as possible on the garment. This is particularly important for stains that have already dried.",
+        "Here it’s important to know the type of stain you are dealing with, because each requires a different pretreatment method:",
+        "Pour liquid detergent directly onto the stain. Gently rub the fabric together, or use a soft-bristled toothbrush to help work the detergent into the garment's fibers in a circular motion.",
+        "Tide Ultra Stain Release Liquid Laundry Detergent",
+        "Presoak in a soaking solution of detergent and warm water, or pretreat them with dish detergent.",
+        "Rinse garments affected by body-soil stains under cold water.",
+        "Presoak and wash with powder detergent.",
+        "Tide Plus Bleach Powder Laundry Detergent",
+        "Presoak in cold water with liquid detergent.",
+        "Measure the correct amount of detergent according to the product labels and your load size.",
+        "Step 4. Wash your garments",
+        "Choose the most appropriate wash temperature and cycle setting according to the instructions given by the garment's fabric-care label.",
+        "Step 5. Check garments before drying",
+        "Don't put the clothes into the drier until the stain is completely removed, as drying will set the stain.",
+        "To prevent stains from setting in, remember to soak the garment in cold water as soon as possible. When it comes to removing stains, it’s usually best to use cold water if you're not sure about the stain type. However, for greasy stains, you'll want to use warm water."
+      ],
+      "labels": [
+        "tough stains",
+        "baby food",
+        "chewing gum",
+        "cough syrup",
+        "dingy whites",
+        "dye transfer",
+        "fabric softener",
+        "facial mask",
+        "fruit juice",
+        "hair dye",
+        "hot chocolate",
+        "motor oil",
+        "nail polish",
+        "oily road",
+        "shoe polish",
+        "skunk odor",
+        "soft drink",
+        "sport drink",
+        "tree sap",
+        "Learn More",
+        "Beauty stains",
+        "Tough stains",
+        "Drink stains",
+        "Food stains",
+        "Outdoor stains",
+        "Baby stains"
+      ],
+      "headings": [
+        "H2: Stain removal guide",
+        "H2: Your Comprehensive Stain Removal Guide",
+        "H3: How do you get rid of stains?"
+      ],
+      "textChars": 4888,
+      "links": 81,
+      "buttons": 223,
+      "images": 14,
+      "forms": 0,
+      "inputs": [],
+      "columns": 3
+    }
+  ],
+  "dialogs": 0,
+  "interactions": {
+    "menus": {
+      "before": 1,
+      "revealed": 0
+    },
+    "carousel": null,
+    "tabs": null,
+    "accordion": {
+      "expands": false
+    },
+    "mobile": {
+      "hasButton": false,
+      "revealed": 0
+    }
+  }
+}
