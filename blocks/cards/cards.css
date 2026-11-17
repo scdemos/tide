@@ -783,3 +783,10 @@
 .cards.logos .cards-card-image {
   background: transparent;
 }
+
+/* touch target: text CTA links */
+.cards p > em > a:any-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+}

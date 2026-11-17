@@ -64,7 +64,7 @@ function buildCard(product, indexUrl) {
   // Image
   if (product.image) {
     const src = resolveImage(product.image, indexUrl);
-    const picture = createOptimizedPicture(src, product.title || '', false, [
+    const picture = createOptimizedPicture(src, '', false, [
       { width: '400' },
       { media: '(min-width: 900px)', width: '600' },
     ]);

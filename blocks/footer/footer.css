@@ -301,6 +301,9 @@ footer .footer.footer-layout-columns li {
 }
 
 footer .footer.footer-layout-columns a:any-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
   color: var(--color-card-dark);
 }
 

@@ -1644,7 +1644,7 @@ header .nav-layout-stacked nav .nav-hamburger button {
 }
 
 @media (width >= 900px) {
-  body:has(header .nav-layout-stacked) {
+  body.nav-layout-stacked {
     --nav-height: 150px;
   }
 

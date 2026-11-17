@@ -327,6 +327,9 @@ function watchForTargetInjectedBlocks(main) {
 
 async function loadEager(doc) {
   getLocale();
+  // reserve the header height before the header block decorates (no layout shift)
+  const navLayout = getMetadata('nav-layout').toLowerCase();
+  if (navLayout) document.body.classList.add(`nav-layout-${navLayout}`);
   decorateTemplateAndTheme();
   applyTheme();
 
