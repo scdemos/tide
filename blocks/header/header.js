@@ -12,6 +12,7 @@ import {
   getLogoutUrl,
   getDefaultAuthLabel,
   getSessionState,
+  setAuthHint,
 } from '../../scripts/shared/auth-api.js';
 
 const DESKTOP = window.matchMedia('(min-width: 900px)');
@@ -376,6 +377,10 @@ async function initAuth(nav, tools) {
       setAuthUserInfo(link, loggedIn ? authState.email : '');
     });
   };
+
+  [desktopLink, mobileLink].filter(Boolean).forEach((link) => {
+    link.addEventListener('click', () => setAuthHint(!link.getAttribute('href').includes(getLogoutUrl())));
+  });
 
   await applyAuthState();
   return applyAuthState;

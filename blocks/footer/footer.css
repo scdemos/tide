@@ -337,3 +337,9 @@ footer .footer.footer-layout-columns .section:nth-child(n + 3) a:any-link {
   display: inline-block;
   padding-block: var(--space-xs);
 }
+
+footer .footer.footer-layout-columns .section:nth-child(n + 3) li a:any-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+}

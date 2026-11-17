@@ -2,70 +2,29 @@
   "complete": false,
   "target": 100,
   "base": "https://main--tide--scdemos.aem.live",
-  "at": "2026-11-17T06:36:02.245Z",
+  "at": "2026-11-17T06:38:34.342Z",
   "results": [
     {
       "page": "/",
       "factor": "mobile",
       "scores": {
-        "performance": 94,
-        "accessibility": 89,
-        "best-practices": 79,
+        "performance": 100,
+        "accessibility": 96,
+        "best-practices": 96,
         "seo": 61
       },
       "ok": false,
       "runs": 1,
       "perfRuns": [
-        94
+        100
       ],
       "failing": [
         {
           "category": "performance",
           "id": "first-contentful-paint",
           "title": "First Contentful Paint",
-          "display": "1.5 s",
+          "display": "1.4 s",
           "where": []
-        },
-        {
-          "category": "performance",
-          "id": "largest-contentful-paint",
-          "title": "Largest Contentful Paint",
-          "display": "1.6 s",
-          "where": []
-        },
-        {
-          "category": "performance",
-          "id": "total-blocking-time",
-          "title": "Total Blocking Time",
-          "display": "240 ms",
-          "where": []
-        },
-        {
-          "category": "performance",
-          "id": "speed-index",
-          "title": "Speed Index",
-          "display": "3.0 s",
-          "where": []
-        },
-        {
-          "category": "accessibility",
-          "id": "color-contrast",
-          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
-          "display": "",
-          "where": [
-            "div.section > div.default-content-wrapper > p > strong"
-          ]
-        },
-        {
-          "category": "accessibility",
-          "id": "link-name",
-          "title": "Links do not have a discernible name",
-          "display": "",
-          "where": [
-            "div.default-content-wrapper > ul > li > a",
-            "div.default-content-wrapper > ul > li > a",
-            "div.default-content-wrapper > ul > li > a"
-          ]
         },
         {
           "category": "accessibility",
@@ -74,17 +33,7 @@
           "display": "",
           "where": [
             "div > ul > li > a",
-            "div > ul > li > a",
-            "div.default-content-wrapper > ul > li > a"
-          ]
-        },
-        {
-          "category": "best-practices",
-          "id": "third-party-cookies",
-          "title": "Uses third-party cookies",
-          "display": "1 cookie found",
-          "where": [
-            "https://adobedc.demdex.net/ee/v1/interact?configId=d73be188-bc37-4ede-a5da-8aa7cd1e343b&requestId=ae410163-952b-4506-b93e-a137ca193daf"
+            "div > ul > li > a"
           ]
         },
         {
@@ -101,8 +50,8 @@
       "factor": "desktop",
       "scores": {
         "performance": 99,
-        "accessibility": 93,
-        "best-practices": 78,
+        "accessibility": 100,
+        "best-practices": 96,
         "seo": 61
       },
       "ok": false,
@@ -117,35 +66,6 @@
           "title": "Cumulative Layout Shift",
           "display": "0.064",
           "where": []
-        },
-        {
-          "category": "accessibility",
-          "id": "color-contrast",
-          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
-          "display": "",
-          "where": [
-            "div.section > div.default-content-wrapper > p > strong"
-          ]
-        },
-        {
-          "category": "accessibility",
-          "id": "link-name",
-          "title": "Links do not have a discernible name",
-          "display": "",
-          "where": [
-            "div.default-content-wrapper > ul > li > a",
-            "div.default-content-wrapper > ul > li > a",
-            "div.default-content-wrapper > ul > li > a"
-          ]
-        },
-        {
-          "category": "best-practices",
-          "id": "third-party-cookies",
-          "title": "Uses third-party cookies",
-          "display": "1 cookie found",
-          "where": [
-            "https://adobedc.demdex.net/ee/v1/interact?configId=d73be188-bc37-4ede-a5da-8aa7cd1e343b&requestId=d356d5a3-36b2-4442-817f-667d5c729da7"
-          ]
         },
         {
           "category": "best-practices",

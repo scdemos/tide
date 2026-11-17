@@ -40,7 +40,26 @@ const ANONYMOUS_SESSION = {
  * Loads `/auth/session` JSON (anonymous on non-OK or failure).
  * `redirect: 'manual'` — Cloudflare Access replies with 302 to *.cloudflareaccess.com;
  */
+const HINT_KEY = 'demo-auth-hint';
+
+/** Remember that this browser started a login, so anonymous visits make no cross-site session call. */
+export function setAuthHint(on) {
+  try {
+    if (on) localStorage.setItem(HINT_KEY, '1');
+    else localStorage.removeItem(HINT_KEY);
+  } catch { /* storage unavailable */ }
+}
+
+function hasAuthHint() {
+  try {
+    return !!localStorage.getItem(HINT_KEY);
+  } catch {
+    return false;
+  }
+}
+
 export async function getSessionState() {
+  if (!hasAuthHint()) return { ...ANONYMOUS_SESSION, path: AUTH_PATHS.session };
   try {
     const response = await fetch(authUrl(AUTH_PATHS.session), {
       method: 'GET',
