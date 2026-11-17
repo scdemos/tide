@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 11,
-  "at": "2026-11-17T17:58:01.952Z",
+  "iteration": 12,
+  "at": "2026-11-17T17:59:51.060Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -50,13 +50,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#home"
-        },
-        {
-          "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#home"
         },
         {
           "width": 390,
@@ -114,7 +107,7 @@
         "look & feel": "fail",
         "functionality": "fail"
       },
-      "rounds": 10
+      "rounds": 11
     },
     {
       "original": "/shop",
@@ -147,13 +140,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-1440.html#shop"
-        },
-        {
-          "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#shop"
         },
         {
           "width": 390,
@@ -197,7 +183,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 9
+      "rounds": 10
     },
     {
       "original": "/shop/type/laundry-pods",
@@ -799,13 +785,6 @@
         },
         {
           "width": 390,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content",
-          "evidence": "fid/fidelity-390.html#contact-us"
-        },
-        {
-          "width": 390,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
@@ -813,12 +792,12 @@
         }
       ],
       "columns": {
-        "design": "fail",
+        "design": "pass",
         "content": "pass",
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 9
+      "rounds": 10
     },
     {
       "original": "/rewards/loyalty/terms-and-conditions",

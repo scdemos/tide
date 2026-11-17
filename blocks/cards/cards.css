@@ -836,11 +836,6 @@
   cursor: pointer;
 }
 
-.cards.carousel .cards-carousel-arrow:disabled {
-  opacity: 0.4;
-  cursor: default;
-}
-
 .cards.carousel .cards-carousel-prev {
   left: var(--space-xs);
 }

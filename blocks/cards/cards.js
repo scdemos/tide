@@ -208,8 +208,6 @@ function addCarousel(block) {
   const current = () => Math.round(list.scrollLeft / stepWidth());
   const sync = () => {
     const at = Math.min(current(), pages() - 1);
-    prev.disabled = at <= 0;
-    next.disabled = at >= pages() - 1;
     dots.querySelectorAll('button').forEach((d, i) => d.setAttribute('aria-current', String(i === at)));
   };
   const buildDots = () => {
@@ -221,8 +219,8 @@ function addCarousel(block) {
     }
     sync();
   };
-  prev.addEventListener('click', () => goTo(Math.max(0, current() - 1)));
-  next.addEventListener('click', () => goTo(Math.min(pages() - 1, current() + 1)));
+  prev.addEventListener('click', () => goTo((current() - 1 + pages()) % pages()));
+  next.addEventListener('click', () => goTo((current() + 1) % pages()));
   list.addEventListener('scroll', sync, { passive: true });
   window.addEventListener('resize', buildDots);
   viewport.append(prev, next);

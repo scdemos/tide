@@ -10,8 +10,8 @@
       },
       {
         "name": "header items",
-        "ok": false,
-        "detail": "missing: skip to content"
+        "ok": true,
+        "detail": "all present"
       },
       {
         "name": "footer links",
@@ -101,8 +101,8 @@
       },
       {
         "name": "header items",
-        "ok": false,
-        "detail": "missing: skip to content"
+        "ok": true,
+        "detail": "all present"
       },
       {
         "name": "footer links",
@@ -197,8 +197,8 @@
       },
       {
         "name": "header items",
-        "ok": false,
-        "detail": "missing: skip to content"
+        "ok": true,
+        "detail": "all present"
       },
       {
         "name": "footer links",

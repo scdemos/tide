@@ -1,11 +1,11 @@
-# Parity: NOT COMPLETE ❌ (round 11, 2026-11-17T17:58:01.952Z)
+# Parity: NOT COMPLETE ❌ (round 12, 2026-11-17T17:59:51.060Z)
 
 Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 + 390 (+ dark OS at 1440) · interactions exercised
 
 | page | design | content | look & feel | functionality | rounds |
 |---|---|---|---|---|---|
-| / | ❌ | ❌ | ❌ | ❌ | 10 |
-| /shop | ❌ | ❌ | ❌ | ✅ | 9 |
+| / | ❌ | ❌ | ❌ | ❌ | 11 |
+| /shop | ❌ | ❌ | ❌ | ✅ | 10 |
 | /shop/type/laundry-pods | ❌ | ❌ | ❌ | ✅ | 8 |
 | /our-commitment | ❌ | ❌ | ❌ | ✅ | 8 |
 | /our-commitment/tide-evo | ❌ | ❌ | ❌ | ✅ | 8 |
@@ -14,7 +14,7 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 | /how-to-wash-clothes/how-to-do-laundry | ❌ | ❌ | ❌ | ✅ | 8 |
 | /latest-news | ❌ | ❌ | ❌ | ✅ | 9 |
 | /rewards | ❌ | ❌ | ❌ | ✅ | 9 |
-| /contact-us | ❌ | ✅ | ❌ | ✅ | 9 |
+| /contact-us | ✅ | ✅ | ❌ | ✅ | 10 |
 | /rewards/loyalty/terms-and-conditions | ❌ | ❌ | ❌ | ✅ | 8 |
 
 ## Fix list
@@ -26,7 +26,6 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 - [ ] **design · layout @1440px**: #3 "see what we ve been working on" columns 1 → 4 · #3 "see what we ve been working on" text width 79% → 110% · #5 "find the right tide product fo" columns 3 → 7 · #8 "learn more" columns 1 → 3 (fid/fidelity-1440.html#home)
 - [ ] **content · provenance @1440px**: 5/51 text blocks not on the original: "Can’t find the right stain?" · "try it now!" · "Check it out!" · "Shop Collection" (fid/fidelity-1440.html#home)
 - [ ] **look & feel · review @1440px**: no by-eye verdict in review.json (fid/fidelity-1440.html#home)
-- [ ] **design · header items @390px**: missing: skip to content (fid/fidelity-390.html#home)
 - [ ] **content · buttons @390px**: 225 → 86 (visible CTAs, needs ≥ 80%) (fid/fidelity-390.html#home)
 - [ ] **content · text @390px**: 3009 → 1768 chars (needs ≥ 80%) (fid/fidelity-390.html#home)
 - [ ] **design · carousels @390px**: 3 → 2 (fid/fidelity-390.html#home)
@@ -40,7 +39,6 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 - [ ] **content · text @1440px**: 853 → 435 chars (needs ≥ 80%) (fid/fidelity-1440.html#shop)
 - [ ] **content · provenance @1440px**: 1/10 text blocks not on the original: "Shop Tide Products" (fid/fidelity-1440.html#shop)
 - [ ] **look & feel · review @1440px**: no by-eye verdict in review.json (fid/fidelity-1440.html#shop)
-- [ ] **design · header items @390px**: missing: skip to content (fid/fidelity-390.html#shop)
 - [ ] **content · forms & inputs @390px**: forms 0 → 0, inputs 1 → 0 (fid/fidelity-390.html#shop)
 - [ ] **content · buttons @390px**: 11 → 0 (visible CTAs, needs ≥ 80%) (fid/fidelity-390.html#shop)
 - [ ] **content · text @390px**: 963 → 435 chars (needs ≥ 80%) (fid/fidelity-390.html#shop)
@@ -134,7 +132,6 @@ Original: https://tide.com/en-us · Demo: http://localhost:3000 · widths 1440 +
 
 ### /contact-us — 3 rounds: ask the SC
 - [ ] **look & feel · review @1440px**: no by-eye verdict in review.json (fid/fidelity-1440.html#contact-us)
-- [ ] **design · header items @390px**: missing: skip to content (fid/fidelity-390.html#contact-us)
 - [ ] **look & feel · review @390px**: no by-eye verdict in review.json (fid/fidelity-390.html#contact-us)
 
 ### /rewards/loyalty/terms-and-conditions — 3 rounds: ask the SC
