@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Discover Tide's Latest News | Tide",
-  "height": 6118,
+  "height": 6069,
   "header": {
     "box": {
       "x": 0,
@@ -24,17 +24,17 @@
       "h": 40,
       "centered": false
     },
-    "hiddenLinks": 52,
+    "hiddenLinks": 53,
     "items": [
       "Open navigation",
       "Search",
-      "Search"
+      "Submit Search"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 5458,
+      "y": 5410,
       "w": 390,
       "h": 659
     },
@@ -91,7 +91,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 1220
+        "h": 1208
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -127,9 +127,9 @@
     {
       "box": {
         "x": 0,
-        "y": 1284,
+        "y": 1272,
         "w": 390,
-        "h": 2763
+        "h": 2751
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -175,9 +175,9 @@
     {
       "box": {
         "x": 0,
-        "y": 4048,
+        "y": 4023,
         "w": 390,
-        "h": 820
+        "h": 808
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -212,9 +212,9 @@
     {
       "box": {
         "x": 0,
-        "y": 4868,
+        "y": 4832,
         "w": 390,
-        "h": 526
+        "h": 514
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -246,7 +246,7 @@
     {
       "box": {
         "x": 0,
-        "y": 5394,
+        "y": 5346,
         "w": 390,
         "h": 64
       },

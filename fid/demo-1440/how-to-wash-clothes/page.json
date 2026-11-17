@@ -5,14 +5,9 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "How to Wash Clothes - Laundry Tips and Tricks | Tide",
-  "height": 2481,
+  "height": 2032,
   "header": {
     "box": {
       "x": 0,
@@ -37,11 +32,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]
@@ -51,15 +44,15 @@
       "x": 0,
       "y": 1644,
       "w": 1440,
-      "h": 837
+      "h": 388
     },
-    "bg": "rgb(251, 76, 6)",
+    "bg": "rgb(255, 255, 255)",
     "tone": "light",
     "bleed": true,
     "layout": {
-      "align": "center",
-      "left": 12,
-      "width": 76
+      "align": "start",
+      "left": 8,
+      "width": 83
     },
     "carousel": false,
     "texts": [
@@ -98,7 +91,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 2
+    "columns": 11
   },
   "sections": [
     {

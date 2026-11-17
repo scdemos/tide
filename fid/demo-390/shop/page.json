@@ -2,31 +2,31 @@
   "url": "http://localhost:3000/shop",
   "status": 200,
   "errors": [
-    "404 http://localhost:3000/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/f736c5e11c66.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/8c126de7871f.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/81027d6b0ffd.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/1103581e628f.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    "401 https://content.da.live/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/8c126de7871f.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/1103581e628f.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/f736c5e11c66.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/81027d6b0ffd.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()"
   ],
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 3404,
+  "height": 3442,
   "header": {
     "box": {
       "x": 0,
@@ -43,17 +43,17 @@
       "h": 40,
       "centered": false
     },
-    "hiddenLinks": 52,
+    "hiddenLinks": 53,
     "items": [
       "Open navigation",
       "Search",
-      "Search"
+      "Submit Search"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 2745,
+      "y": 2782,
       "w": 390,
       "h": 659
     },
@@ -110,7 +110,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 2617
+        "h": 2654
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -147,7 +147,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2681,
+        "y": 2718,
         "w": 390,
         "h": 64
       },

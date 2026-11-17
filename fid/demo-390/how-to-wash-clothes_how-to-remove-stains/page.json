@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 6471,
+  "height": 6447,
   "header": {
     "box": {
       "x": 0,
@@ -24,17 +24,17 @@
       "h": 40,
       "centered": false
     },
-    "hiddenLinks": 52,
+    "hiddenLinks": 53,
     "items": [
       "Open navigation",
       "Search",
-      "Search"
+      "Submit Search"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 5812,
+      "y": 5788,
       "w": 390,
       "h": 659
     },
@@ -150,7 +150,7 @@
         "x": 0,
         "y": 1309,
         "w": 390,
-        "h": 1976
+        "h": 1964
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -181,9 +181,9 @@
     {
       "box": {
         "x": 0,
-        "y": 3285,
+        "y": 3273,
         "w": 390,
-        "h": 2463
+        "h": 2451
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -234,7 +234,7 @@
     {
       "box": {
         "x": 0,
-        "y": 5748,
+        "y": 5724,
         "w": 390,
         "h": 64
       },

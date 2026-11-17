@@ -5,14 +5,9 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 4310,
+  "height": 3780,
   "header": {
     "box": {
       "x": 0,
@@ -37,11 +32,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]
@@ -49,17 +42,17 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 3472,
+      "y": 3392,
       "w": 1440,
-      "h": 837
+      "h": 388
     },
-    "bg": "rgb(251, 76, 6)",
+    "bg": "rgb(255, 255, 255)",
     "tone": "light",
     "bleed": true,
     "layout": {
-      "align": "center",
-      "left": 12,
-      "width": 76
+      "align": "start",
+      "left": 8,
+      "width": 83
     },
     "carousel": false,
     "texts": [
@@ -98,7 +91,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 2
+    "columns": 11
   },
   "sections": [
     {
@@ -106,7 +99,7 @@
         "x": 0,
         "y": 150,
         "w": 1440,
-        "h": 725
+        "h": 701
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -140,9 +133,9 @@
     {
       "box": {
         "x": 0,
-        "y": 875,
+        "y": 851,
         "w": 1440,
-        "h": 547
+        "h": 528
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -175,9 +168,9 @@
     {
       "box": {
         "x": 0,
-        "y": 1422,
+        "y": 1379,
         "w": 1440,
-        "h": 606
+        "h": 587
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -208,11 +201,11 @@
     {
       "box": {
         "x": 0,
-        "y": 2028,
+        "y": 1966,
         "w": 1440,
         "h": 315
       },
-      "bg": "rgb(0, 0, 0)",
+      "bg": "rgb(27, 51, 146)",
       "tone": "dark",
       "bleed": true,
       "layout": {
@@ -223,12 +216,12 @@
       "carousel": false,
       "texts": [],
       "labels": [
-        "SEE HOW TO REMOVE INK STAINS"
+        "LEARN MORE"
       ],
       "headings": [
         "H2: Stain removal guide"
       ],
-      "textChars": 125,
+      "textChars": 630,
       "links": 1,
       "buttons": 1,
       "images": 0,
@@ -241,7 +234,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2343,
+        "y": 2281,
         "w": 1440,
         "h": 431
       },
@@ -274,9 +267,9 @@
     {
       "box": {
         "x": 0,
-        "y": 2774,
+        "y": 2712,
         "w": 1440,
-        "h": 634
+        "h": 615
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -307,7 +300,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3408,
+        "y": 3328,
         "w": 1440,
         "h": 64
       },

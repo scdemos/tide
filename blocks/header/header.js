@@ -553,7 +553,10 @@ export default async function decorate(block) {
   const utility = layout === 'stacked' ? nav.children[3] : null;
   utility?.classList.add('nav-utility');
   // skip link target for the first utility link (`#site-content`)
-  if (utility) document.querySelector('main')?.setAttribute('id', 'site-content');
+  if (utility) {
+    document.querySelector('main')?.setAttribute('id', 'site-content');
+    nav.prepend(utility);
+  }
   const extras = layout === 'stacked' ? 4 : 3;
   if (tools && nav.children.length > extras) {
     [...nav.children].slice(extras).forEach((extra) => {

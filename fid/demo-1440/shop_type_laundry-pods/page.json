@@ -2,38 +2,33 @@
   "url": "http://localhost:3000/shop/type/laundry-pods",
   "status": 200,
   "errors": [
-    "404 http://localhost:3000/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/f736c5e11c66.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/37aa98812eb4.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/e5cd3edc9ac5.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/806d0a41bfa8.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/e90a5c584e60.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/f979e49baea7.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/cb9ec30b5fc6.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    "401 https://content.da.live/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/cb9ec30b5fc6.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/f736c5e11c66.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/37aa98812eb4.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/e90a5c584e60.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/e5cd3edc9ac5.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/f979e49baea7.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/806d0a41bfa8.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()"
   ],
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "Shop Pacs and Tide PODS® | Laundry Detergent - Tide",
-  "height": 2845,
+  "height": 7135,
   "header": {
     "box": {
       "x": 0,
@@ -58,11 +53,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]
@@ -70,17 +63,17 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 2007,
+      "y": 6746,
       "w": 1440,
-      "h": 837
+      "h": 388
     },
-    "bg": "rgb(251, 76, 6)",
+    "bg": "rgb(255, 255, 255)",
     "tone": "light",
     "bleed": true,
     "layout": {
-      "align": "center",
-      "left": 12,
-      "width": 76
+      "align": "start",
+      "left": 8,
+      "width": 83
     },
     "carousel": false,
     "texts": [
@@ -119,7 +112,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 2
+    "columns": 11
   },
   "sections": [
     {
@@ -163,6 +156,51 @@
       "box": {
         "x": 0,
         "y": 1943,
+        "w": 1440,
+        "h": 4739
+      },
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
+      "bleed": true,
+      "layout": {
+        "align": "start",
+        "left": 8,
+        "width": 83
+      },
+      "carousel": false,
+      "texts": [
+        "Unlock the Power of Tide PODS®: How They Work & Their Key Benefits",
+        "Tide PODS® Free and Gentle Laundry Detergent",
+        "Tide PODS® Ultra OXI Laundry Detergent",
+        "Why shop laundry detergent pacs",
+        "Tide PODS® and Tide POWER PODS® are super concentrated to deliver an effortless clean.",
+        "Tide is recommended by washing machine manufacturers. Our laundry detergent pacs dissolve completely in any water conditions and temperatures to clean even the dirtiest loads.",
+        "Extra cleaning power in the wash",
+        "Try our 4-in-1 variants that give you an extra boost of Febreze freshness, color protection, odor fighters, or stain removal power of OXI.",
+        "The Most Important Ingredient in Tide® is Safety",
+        "Ensuring the safety of Tide® products is a responsibility that P&G takes very seriously. Before any product can appear on store shelves, it must be demonstrated to be safe to use as intended. After each use, completely close the container, and immediately store the container out of reach of children in an appropriate location."
+      ],
+      "labels": [],
+      "headings": [
+        "H3: Why shop laundry detergent pacs",
+        "H4: A Foolproof Clean",
+        "H4: #1 Recommended",
+        "H4: Extra cleaning power in the wash",
+        "H3: Safety",
+        "H4: The Most Important Ingredient in Tide® is Safety"
+      ],
+      "textChars": 1080,
+      "links": 0,
+      "buttons": 0,
+      "images": 18,
+      "forms": 0,
+      "inputs": [],
+      "columns": 1
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 6682,
         "w": 1440,
         "h": 64
       },

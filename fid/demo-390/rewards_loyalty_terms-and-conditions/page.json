@@ -4,9 +4,9 @@
   "errors": [
     "404 http://localhost:3000/blocks/activities/activities.css",
     "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "failed to load block activities Event",
     "404 http://localhost:3000/blocks/activities/activities.js",
     "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "failed to load block activities Event",
     "failed to load module for activities TypeError: Failed to fetch dynamically imported module: http://localhost:3000/blocks/activities/activities.js"
   ],
   "theme": "light",
@@ -14,7 +14,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Loyalty Program Terms and Conditions | Tide",
-  "height": 27745,
+  "height": 27594,
   "header": {
     "box": {
       "x": 0,
@@ -31,17 +31,17 @@
       "h": 40,
       "centered": false
     },
-    "hiddenLinks": 52,
+    "hiddenLinks": 53,
     "items": [
       "Open navigation",
       "Search",
-      "Search"
+      "Submit Search"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 27085,
+      "y": 26935,
       "w": 390,
       "h": 659
     },
@@ -98,7 +98,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 146
+        "h": 183
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -127,7 +127,7 @@
     {
       "box": {
         "x": 0,
-        "y": 210,
+        "y": 247,
         "w": 390,
         "h": 3034
       },
@@ -166,9 +166,9 @@
     {
       "box": {
         "x": 0,
-        "y": 3244,
+        "y": 3281,
         "w": 390,
-        "h": 584
+        "h": 572
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -197,9 +197,9 @@
     {
       "box": {
         "x": 0,
-        "y": 3828,
+        "y": 3853,
         "w": 390,
-        "h": 853
+        "h": 841
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -229,9 +229,9 @@
     {
       "box": {
         "x": 0,
-        "y": 4681,
+        "y": 4694,
         "w": 390,
-        "h": 387
+        "h": 375
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -261,9 +261,9 @@
     {
       "box": {
         "x": 0,
-        "y": 5068,
+        "y": 5069,
         "w": 390,
-        "h": 2504
+        "h": 2492
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -298,9 +298,9 @@
     {
       "box": {
         "x": 0,
-        "y": 7571,
+        "y": 7560,
         "w": 390,
-        "h": 5268
+        "h": 5256
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -343,9 +343,9 @@
     {
       "box": {
         "x": 0,
-        "y": 12839,
+        "y": 12816,
         "w": 390,
-        "h": 1902
+        "h": 1890
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -379,9 +379,9 @@
     {
       "box": {
         "x": 0,
-        "y": 14741,
+        "y": 14706,
         "w": 390,
-        "h": 2468
+        "h": 2456
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -423,9 +423,9 @@
     {
       "box": {
         "x": 0,
-        "y": 17241,
+        "y": 17194,
         "w": 390,
-        "h": 1976
+        "h": 1964
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -457,9 +457,9 @@
     {
       "box": {
         "x": 0,
-        "y": 19217,
+        "y": 19158,
         "w": 390,
-        "h": 285
+        "h": 306
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -489,9 +489,9 @@
     {
       "box": {
         "x": 0,
-        "y": 19502,
+        "y": 19463,
         "w": 390,
-        "h": 1334
+        "h": 1322
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -521,9 +521,9 @@
     {
       "box": {
         "x": 0,
-        "y": 20836,
+        "y": 20785,
         "w": 390,
-        "h": 873
+        "h": 861
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -553,9 +553,9 @@
     {
       "box": {
         "x": 0,
-        "y": 21709,
+        "y": 21646,
         "w": 390,
-        "h": 702
+        "h": 690
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -585,9 +585,9 @@
     {
       "box": {
         "x": 0,
-        "y": 22411,
+        "y": 22336,
         "w": 390,
-        "h": 251
+        "h": 239
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -616,9 +616,9 @@
     {
       "box": {
         "x": 0,
-        "y": 22662,
+        "y": 22575,
         "w": 390,
-        "h": 515
+        "h": 503
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -648,9 +648,9 @@
     {
       "box": {
         "x": 0,
-        "y": 23177,
+        "y": 23078,
         "w": 390,
-        "h": 387
+        "h": 408
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -680,9 +680,9 @@
     {
       "box": {
         "x": 0,
-        "y": 23564,
+        "y": 23486,
         "w": 390,
-        "h": 471
+        "h": 459
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -712,9 +712,9 @@
     {
       "box": {
         "x": 0,
-        "y": 24035,
+        "y": 23946,
         "w": 390,
-        "h": 507
+        "h": 495
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -743,9 +743,9 @@
     {
       "box": {
         "x": 0,
-        "y": 24543,
+        "y": 24441,
         "w": 390,
-        "h": 251
+        "h": 239
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -774,9 +774,9 @@
     {
       "box": {
         "x": 0,
-        "y": 24794,
+        "y": 24680,
         "w": 390,
-        "h": 541
+        "h": 528
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -805,9 +805,9 @@
     {
       "box": {
         "x": 0,
-        "y": 25335,
+        "y": 25209,
         "w": 390,
-        "h": 507
+        "h": 495
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -836,9 +836,9 @@
     {
       "box": {
         "x": 0,
-        "y": 25842,
+        "y": 25704,
         "w": 390,
-        "h": 1211
+        "h": 1199
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -873,7 +873,7 @@
     {
       "box": {
         "x": 0,
-        "y": 27053,
+        "y": 26903,
         "w": 390,
         "h": 64
       },

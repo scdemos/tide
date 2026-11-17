@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 5720,
+  "height": 5657,
   "header": {
     "box": {
       "x": 0,
@@ -24,17 +24,17 @@
       "h": 40,
       "centered": false
     },
-    "hiddenLinks": 52,
+    "hiddenLinks": 53,
     "items": [
       "Open navigation",
       "Search",
-      "Search"
+      "Submit Search"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 5061,
+      "y": 4998,
       "w": 390,
       "h": 659
     },
@@ -91,7 +91,7 @@
         "x": 0,
         "y": 64,
         "w": 390,
-        "h": 667
+        "h": 652
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -125,9 +125,9 @@
     {
       "box": {
         "x": 0,
-        "y": 731,
+        "y": 716,
         "w": 390,
-        "h": 1522
+        "h": 1510
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -160,9 +160,9 @@
     {
       "box": {
         "x": 0,
-        "y": 2253,
+        "y": 2226,
         "w": 390,
-        "h": 856
+        "h": 844
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -193,11 +193,11 @@
     {
       "box": {
         "x": 0,
-        "y": 3109,
+        "y": 3070,
         "w": 390,
         "h": 395
       },
-      "bg": "rgb(0, 0, 0)",
+      "bg": "rgb(27, 51, 146)",
       "tone": "dark",
       "bleed": true,
       "layout": {
@@ -208,12 +208,12 @@
       "carousel": false,
       "texts": [],
       "labels": [
-        "SEE HOW TO REMOVE INK STAINS"
+        "LEARN MORE"
       ],
       "headings": [
         "H2: Stain removal guide"
       ],
-      "textChars": 131,
+      "textChars": 630,
       "links": 1,
       "buttons": 1,
       "images": 0,
@@ -226,9 +226,9 @@
     {
       "box": {
         "x": 0,
-        "y": 3504,
+        "y": 3465,
         "w": 390,
-        "h": 546
+        "h": 534
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -259,9 +259,9 @@
     {
       "box": {
         "x": 0,
-        "y": 4050,
+        "y": 3999,
         "w": 390,
-        "h": 947
+        "h": 935
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -292,7 +292,7 @@
     {
       "box": {
         "x": 0,
-        "y": 4997,
+        "y": 4934,
         "w": 390,
         "h": 64
       },

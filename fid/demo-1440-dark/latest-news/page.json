@@ -5,12 +5,7 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "Discover Tide's Latest News | Tide",
   "height": 3734,
   "header": {
@@ -37,11 +32,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]

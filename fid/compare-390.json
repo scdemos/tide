@@ -11,7 +11,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -107,7 +107,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -142,7 +142,7 @@
       {
         "name": "text",
         "ok": false,
-        "detail": "3009 → 1077 chars (needs ≥ 80%)"
+        "detail": "3009 → 1576 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -182,7 +182,7 @@
       {
         "name": "provenance",
         "ok": false,
-        "detail": "3/24 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\" · \"SEE HOW TO REMOVE INK STAINS\""
+        "detail": "2/24 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\""
       },
       {
         "name": "review",
@@ -203,7 +203,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -299,7 +299,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -395,7 +395,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -491,7 +491,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -587,7 +587,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -683,7 +683,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -779,7 +779,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -875,7 +875,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -925,7 +925,7 @@
       {
         "name": "health",
         "ok": false,
-        "detail": "404 http://localhost:3000/blocks/activities/activities.css | Failed to load resource: the server responded with a status of 404 (Not Found) | failed to load block activities Event"
+        "detail": "404 http://localhost:3000/blocks/activities/activities.css | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/blocks/activities/activities.js"
       },
       {
         "name": "header layout",
@@ -971,7 +971,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -1021,7 +1021,7 @@
       {
         "name": "health",
         "ok": false,
-        "detail": "404 http://localhost:3000/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium"
+        "detail": "401 https://content.da.live/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 401 () | 401 https://content.da.live/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium"
       },
       {
         "name": "header layout",
@@ -1067,7 +1067,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu, submit search"
+        "detail": "missing: skip to content, navigation menu"
       },
       {
         "name": "footer links",
@@ -1077,12 +1077,12 @@
       {
         "name": "section count",
         "ok": true,
-        "detail": "2 → 2 (needs ≥ 50%)"
+        "detail": "2 → 3 (needs ≥ 50%)"
       },
       {
         "name": "headings",
         "ok": false,
-        "detail": "missing: H3: Related articles · H3: Why shop laundry detergent pacs · H4: A Foolproof Clean · H4: #1 Recommended · H4: Extra cleaning power in the wash · H3: Safety · H4: The Most Important Ingredient in Tide® is Safety"
+        "detail": "missing: H3: Related articles"
       },
       {
         "name": "forms & inputs",
@@ -1096,13 +1096,13 @@
       },
       {
         "name": "media",
-        "ok": false,
-        "detail": "26 → 20 (needs ≥ 90%)"
+        "ok": true,
+        "detail": "26 → 38 (needs ≥ 90%)"
       },
       {
         "name": "text",
         "ok": false,
-        "detail": "2222 → 507 chars (needs ≥ 80%)"
+        "detail": "2222 → 1587 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -1117,7 +1117,7 @@
       {
         "name": "health",
         "ok": false,
-        "detail": "404 http://localhost:3000/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium"
+        "detail": "401 https://content.da.live/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 401 () | 401 https://content.da.live/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium"
       },
       {
         "name": "header layout",
@@ -1136,13 +1136,13 @@
       },
       {
         "name": "layout",
-        "ok": true,
-        "detail": "alignment, tone, bleed, columns and width match"
+        "ok": false,
+        "detail": "#1 \"why shop laundry detergent pac\" columns 3 → 1"
       },
       {
         "name": "provenance",
         "ok": true,
-        "detail": "8 text blocks, all from the original"
+        "detail": "22 text blocks, all from the original"
       },
       {
         "name": "review",

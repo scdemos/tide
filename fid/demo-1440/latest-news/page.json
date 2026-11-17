@@ -5,14 +5,9 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "Discover Tide's Latest News | Tide",
-  "height": 4258,
+  "height": 3734,
   "header": {
     "box": {
       "x": 0,
@@ -37,11 +32,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]
@@ -49,17 +42,17 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 3421,
+      "y": 3345,
       "w": 1440,
-      "h": 837
+      "h": 388
     },
-    "bg": "rgb(251, 76, 6)",
+    "bg": "rgb(255, 255, 255)",
     "tone": "light",
     "bleed": true,
     "layout": {
-      "align": "center",
-      "left": 12,
-      "width": 76
+      "align": "start",
+      "left": 8,
+      "width": 83
     },
     "carousel": false,
     "texts": [
@@ -98,7 +91,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 2
+    "columns": 11
   },
   "sections": [
     {
@@ -106,7 +99,7 @@
         "x": 0,
         "y": 150,
         "w": 1440,
-        "h": 691
+        "h": 672
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -142,9 +135,9 @@
     {
       "box": {
         "x": 0,
-        "y": 841,
+        "y": 822,
         "w": 1440,
-        "h": 1197
+        "h": 1178
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -190,9 +183,9 @@
     {
       "box": {
         "x": 0,
-        "y": 2038,
+        "y": 2000,
         "w": 1440,
-        "h": 888
+        "h": 870
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -227,9 +220,9 @@
     {
       "box": {
         "x": 0,
-        "y": 2926,
+        "y": 2870,
         "w": 1440,
-        "h": 430
+        "h": 412
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -261,7 +254,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3357,
+        "y": 3281,
         "w": 1440,
         "h": 64
       },

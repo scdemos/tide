@@ -56,7 +56,7 @@
   };
   // carousels/sliders by role, common library classes, or prev/next + dot controls
   const carousel = (e) => !!e.querySelector('[aria-roledescription=carousel], [class*=carousel], [class*=slider], [class*=swiper], [class*=slick], [class*=splide], [class*=glide], [class*=owl-]')
-    || [...e.querySelectorAll('button, [role=button], a')].filter((b) => /prev|next|previous|slide/i.test(`${b.getAttribute('aria-label') || ''} ${b.className}`)).length >= 2;
+    || [...e.querySelectorAll('button, [role=button], a')].filter((b) => /\b(prev|previous|next)\b|slide/i.test(`${b.getAttribute('aria-label') || ''} ${b.className}`)).length >= 2;
   const inventory = (e) => ({
     box: box(e),
     bg: bg(e),

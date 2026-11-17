@@ -5,14 +5,9 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 5207,
+  "height": 5170,
   "header": {
     "box": {
       "x": 0,
@@ -37,11 +32,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]
@@ -49,7 +42,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 4819,
+      "y": 4781,
       "w": 1440,
       "h": 388
     },
@@ -165,7 +158,7 @@
         "x": 0,
         "y": 1727,
         "w": 1440,
-        "h": 1234
+        "h": 1215
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -196,9 +189,9 @@
     {
       "box": {
         "x": 0,
-        "y": 2962,
+        "y": 2943,
         "w": 1440,
-        "h": 1793
+        "h": 1775
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -249,7 +242,7 @@
     {
       "box": {
         "x": 0,
-        "y": 4755,
+        "y": 4717,
         "w": 1440,
         "h": 64
       },

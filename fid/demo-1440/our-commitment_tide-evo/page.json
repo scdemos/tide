@@ -5,14 +5,9 @@
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "Tide evo - Detergent Entirely Made of Clean | Tide",
-  "height": 3180,
+  "height": 2693,
   "header": {
     "box": {
       "x": 0,
@@ -37,11 +32,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]
@@ -49,17 +42,17 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 2343,
+      "y": 2305,
       "w": 1440,
-      "h": 837
+      "h": 388
     },
-    "bg": "rgb(251, 76, 6)",
+    "bg": "rgb(255, 255, 255)",
     "tone": "light",
     "bleed": true,
     "layout": {
-      "align": "center",
-      "left": 12,
-      "width": 76
+      "align": "start",
+      "left": 8,
+      "width": 83
     },
     "carousel": false,
     "texts": [
@@ -98,7 +91,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 2
+    "columns": 11
   },
   "sections": [
     {
@@ -106,7 +99,7 @@
         "x": 0,
         "y": 150,
         "w": 1440,
-        "h": 2129
+        "h": 2091
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -137,7 +130,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2279,
+        "y": 2241,
         "w": 1440,
         "h": 64
       },

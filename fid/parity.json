@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 1,
-  "at": "2026-11-17T04:42:03.380Z",
+  "iteration": 2,
+  "at": "2026-11-17T04:53:55.778Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -9,13 +9,6 @@
       "original": "/",
       "demo": "/",
       "fails": [
-        {
-          "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#home"
-        },
         {
           "width": 1440,
           "check": "headings",
@@ -34,14 +27,7 @@
           "width": 1440,
           "check": "text",
           "column": "content",
-          "detail": "3009 → 1107 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#home"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
+          "detail": "3009 → 1612 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-1440.html#home"
         },
         {
@@ -69,7 +55,7 @@
           "width": 1440,
           "check": "provenance",
           "column": "content",
-          "detail": "3/24 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\" · \"SEE HOW TO REMOVE INK STAINS\"",
+          "detail": "2/24 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\"",
           "evidence": "fid/fidelity-1440.html#home"
         },
         {
@@ -83,7 +69,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#home"
         },
         {
@@ -104,7 +90,7 @@
           "width": 390,
           "check": "text",
           "column": "content",
-          "detail": "3009 → 1077 chars (needs ≥ 80%)",
+          "detail": "3009 → 1576 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-390.html#home"
         },
         {
@@ -132,7 +118,7 @@
           "width": 390,
           "check": "provenance",
           "column": "content",
-          "detail": "3/24 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\" · \"SEE HOW TO REMOVE INK STAINS\"",
+          "detail": "2/24 text blocks not on the original: \"TRY IT NOW!\" · \"CHECK IT OUT!\"",
           "evidence": "fid/fidelity-390.html#home"
         },
         {
@@ -141,13 +127,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#home"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#home"
         }
       ],
       "columns": {
@@ -156,19 +135,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/shop",
       "demo": "/shop",
       "fails": [
-        {
-          "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#shop"
-        },
         {
           "width": 1440,
           "check": "buttons",
@@ -185,16 +157,9 @@
         },
         {
           "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-1440.html#shop"
-        },
-        {
-          "width": 1440,
           "check": "health",
           "column": "functionality",
-          "detail": "404 http://localhost:3000/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
+          "detail": "401 https://content.da.live/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 401 () | 401 https://content.da.live/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
           "evidence": "fid/fidelity-1440.html#shop"
         },
         {
@@ -229,7 +194,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#shop"
         },
         {
@@ -257,7 +222,7 @@
           "width": 390,
           "check": "health",
           "column": "functionality",
-          "detail": "404 http://localhost:3000/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
+          "detail": "401 https://content.da.live/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 401 () | 401 https://content.da.live/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
           "evidence": "fid/fidelity-390.html#shop"
         },
         {
@@ -287,13 +252,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#shop"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#shop"
         }
       ],
       "columns": {
@@ -302,26 +260,12 @@
         "look & feel": "fail",
         "functionality": "fail"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/shop/type/laundry-pods",
       "demo": "/shop/type/laundry-pods",
       "fails": [
-        {
-          "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 1440,
-          "check": "headings",
-          "column": "content",
-          "detail": "missing: H3: Why shop laundry detergent pacs · H4: A Foolproof Clean · H4: #1 Recommended · H4: Extra cleaning power in the wash · H3: Safety · H4: The Most Important Ingredient in Tide® is Safety",
-          "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
-        },
         {
           "width": 1440,
           "check": "forms & inputs",
@@ -338,30 +282,16 @@
         },
         {
           "width": 1440,
-          "check": "media",
-          "column": "content",
-          "detail": "28 → 20 (needs ≥ 90%)",
-          "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 1440,
           "check": "text",
           "column": "content",
-          "detail": "2028 → 507 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
+          "detail": "2028 → 1587 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
         },
         {
           "width": 1440,
           "check": "health",
           "column": "functionality",
-          "detail": "404 http://localhost:3000/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
+          "detail": "401 https://content.da.live/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 401 () | 401 https://content.da.live/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
           "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
         },
         {
@@ -382,7 +312,7 @@
           "width": 1440,
           "check": "layout",
           "column": "design",
-          "detail": "#0 \"shop tide laundry pacs\" full-bleed false → true · #0 \"shop tide laundry pacs\" columns 7 → 4",
+          "detail": "#0 \"shop tide laundry pacs\" full-bleed false → true · #0 \"shop tide laundry pacs\" columns 7 → 4 · #1 \"why shop laundry detergent pac\" columns 3 → 1",
           "evidence": "fid/fidelity-1440.html#shop_type_laundry-pods"
         },
         {
@@ -396,14 +326,14 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
         },
         {
           "width": 390,
           "check": "headings",
           "column": "content",
-          "detail": "missing: H3: Related articles · H3: Why shop laundry detergent pacs · H4: A Foolproof Clean · H4: #1 Recommended · H4: Extra cleaning power in the wash · H3: Safety · H4: The Most Important Ingredient in Tide® is Safety",
+          "detail": "missing: H3: Related articles",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
         },
         {
@@ -422,23 +352,16 @@
         },
         {
           "width": 390,
-          "check": "media",
-          "column": "content",
-          "detail": "26 → 20 (needs ≥ 90%)",
-          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 390,
           "check": "text",
           "column": "content",
-          "detail": "2222 → 507 chars (needs ≥ 80%)",
+          "detail": "2222 → 1587 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
         },
         {
           "width": 390,
           "check": "health",
           "column": "functionality",
-          "detail": "404 http://localhost:3000/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
+          "detail": "401 https://content.da.live/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium | Failed to load resource: the server responded with a status of 401 () | 401 https://content.da.live/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
         },
         {
@@ -457,17 +380,17 @@
         },
         {
           "width": 390,
+          "check": "layout",
+          "column": "design",
+          "detail": "#1 \"why shop laundry detergent pac\" columns 3 → 1",
+          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
+        },
+        {
+          "width": 390,
           "check": "review",
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#shop_type_laundry-pods"
         }
       ],
       "columns": {
@@ -476,7 +399,7 @@
         "look & feel": "fail",
         "functionality": "fail"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/our-commitment",
@@ -484,23 +407,9 @@
       "fails": [
         {
           "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#our-commitment"
-        },
-        {
-          "width": 1440,
           "check": "buttons",
           "column": "content",
           "detail": "1 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#our-commitment"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
           "evidence": "fid/fidelity-1440.html#our-commitment"
         },
         {
@@ -535,7 +444,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#our-commitment"
         },
         {
@@ -565,13 +474,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#our-commitment"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#our-commitment"
         }
       ],
       "columns": {
@@ -580,19 +482,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/our-commitment/tide-evo",
       "demo": "/our-commitment/tide-evo",
       "fails": [
-        {
-          "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#our-commitment_tide-evo"
-        },
         {
           "width": 1440,
           "check": "buttons",
@@ -605,13 +500,6 @@
           "check": "media",
           "column": "content",
           "detail": "9 → 6 (needs ≥ 90%)",
-          "evidence": "fid/fidelity-1440.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
           "evidence": "fid/fidelity-1440.html#our-commitment_tide-evo"
         },
         {
@@ -653,7 +541,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
         },
         {
@@ -704,13 +592,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#our-commitment_tide-evo"
         }
       ],
       "columns": {
@@ -719,26 +600,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/how-to-wash-clothes",
       "demo": "/how-to-wash-clothes",
       "fails": [
-        {
-          "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes"
-        },
         {
           "width": 1440,
           "check": "header layout",
@@ -778,7 +645,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes"
         },
         {
@@ -801,13 +668,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#how-to-wash-clothes"
         }
       ],
       "columns": {
@@ -816,19 +676,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/how-to-wash-clothes/how-to-remove-stains",
       "demo": "/how-to-wash-clothes/how-to-remove-stains",
       "fails": [
-        {
-          "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
-        },
         {
           "width": 1440,
           "check": "buttons",
@@ -848,13 +701,6 @@
           "check": "text",
           "column": "content",
           "detail": "5506 → 2976 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
@@ -896,7 +742,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
@@ -947,13 +793,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#how-to-wash-clothes_how-to-remove-stains"
         }
       ],
       "columns": {
@@ -962,7 +801,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/how-to-wash-clothes/how-to-do-laundry",
@@ -970,23 +809,9 @@
       "fails": [
         {
           "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-do-laundry"
-        },
-        {
-          "width": 1440,
           "check": "buttons",
           "column": "content",
           "detail": "3 → 1 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-do-laundry"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-do-laundry"
         },
         {
@@ -1021,7 +846,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry"
         },
         {
@@ -1058,13 +883,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#how-to-wash-clothes_how-to-do-laundry"
         }
       ],
       "columns": {
@@ -1073,19 +891,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/latest-news",
       "demo": "/latest-news",
       "fails": [
-        {
-          "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#latest-news"
-        },
         {
           "width": 1440,
           "check": "headings",
@@ -1102,13 +913,6 @@
         },
         {
           "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-1440.html#latest-news"
-        },
-        {
-          "width": 1440,
           "check": "header layout",
           "column": "design",
           "detail": "logo height 16 → 45px",
@@ -1132,7 +936,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#latest-news"
         },
         {
@@ -1162,13 +966,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#latest-news"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#latest-news"
         }
       ],
       "columns": {
@@ -1177,7 +974,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/rewards",
@@ -1185,23 +982,9 @@
       "fails": [
         {
           "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#rewards"
-        },
-        {
-          "width": 1440,
           "check": "media",
           "column": "content",
           "detail": "16 → 14 (needs ≥ 90%)",
-          "evidence": "fid/fidelity-1440.html#rewards"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
           "evidence": "fid/fidelity-1440.html#rewards"
         },
         {
@@ -1243,7 +1026,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#rewards"
         },
         {
@@ -1287,13 +1070,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#rewards"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#rewards"
         }
       ],
       "columns": {
@@ -1302,26 +1078,12 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/contact-us",
       "demo": "/contact-us",
       "fails": [
-        {
-          "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#contact-us"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-1440.html#contact-us"
-        },
         {
           "width": 1440,
           "check": "header layout",
@@ -1347,7 +1109,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#contact-us"
         },
         {
@@ -1370,13 +1132,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#contact-us"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#contact-us"
         }
       ],
       "columns": {
@@ -1385,7 +1140,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 1
+      "rounds": 2
     },
     {
       "original": "/rewards/loyalty/terms-and-conditions",
@@ -1393,23 +1148,9 @@
       "fails": [
         {
           "width": 1440,
-          "check": "header items",
-          "column": "design",
-          "detail": "missing: skip to content, submit search",
-          "evidence": "fid/fidelity-1440.html#rewards_loyalty_terms-and-conditions"
-        },
-        {
-          "width": 1440,
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-1440.html#rewards_loyalty_terms-and-conditions"
-        },
-        {
-          "width": 1440,
           "check": "health",
           "column": "functionality",
-          "detail": "404 http://localhost:3000/blocks/activities/activities.js | Failed to load resource: the server responded with a status of 404 (Not Found) | failed to load module for activities TypeError: Failed to fetch dynamically imported module: http://localhost:3000/blocks/activities/activities.js",
+          "detail": "404 http://localhost:3000/blocks/activities/activities.css | Failed to load resource: the server responded with a status of 404 (Not Found) | failed to load block activities Event",
           "evidence": "fid/fidelity-1440.html#rewards_loyalty_terms-and-conditions"
         },
         {
@@ -1444,14 +1185,14 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu, submit search",
+          "detail": "missing: skip to content, navigation menu",
           "evidence": "fid/fidelity-390.html#rewards_loyalty_terms-and-conditions"
         },
         {
           "width": 390,
           "check": "health",
           "column": "functionality",
-          "detail": "404 http://localhost:3000/blocks/activities/activities.css | Failed to load resource: the server responded with a status of 404 (Not Found) | failed to load block activities Event",
+          "detail": "404 http://localhost:3000/blocks/activities/activities.css | Failed to load resource: the server responded with a status of 404 (Not Found) | 404 http://localhost:3000/blocks/activities/activities.js",
           "evidence": "fid/fidelity-390.html#rewards_loyalty_terms-and-conditions"
         },
         {
@@ -1474,13 +1215,6 @@
           "column": "look & feel",
           "detail": "no by-eye verdict in review.json",
           "evidence": "fid/fidelity-390.html#rewards_loyalty_terms-and-conditions"
-        },
-        {
-          "width": "1440 dark",
-          "check": "readability",
-          "column": "look & feel",
-          "detail": "\"SIGN IN\" 1:1",
-          "evidence": "fid/fidelity-dark.html#rewards_loyalty_terms-and-conditions"
         }
       ],
       "columns": {
@@ -1489,7 +1223,7 @@
         "look & feel": "fail",
         "functionality": "fail"
       },
-      "rounds": 1
+      "rounds": 2
     }
   ]
 }

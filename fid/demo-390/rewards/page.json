@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent Pods Coupons and Rewards | Tide",
-  "height": 3622,
+  "height": 3597,
   "header": {
     "box": {
       "x": 0,
@@ -24,17 +24,17 @@
       "h": 40,
       "centered": false
     },
-    "hiddenLinks": 52,
+    "hiddenLinks": 53,
     "items": [
       "Open navigation",
       "Search",
-      "Search"
+      "Submit Search"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 2962,
+      "y": 2938,
       "w": 390,
       "h": 659
     },
@@ -120,7 +120,7 @@
         "x": 0,
         "y": 516,
         "w": 390,
-        "h": 2238
+        "h": 2226
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -156,9 +156,9 @@
     {
       "box": {
         "x": 0,
-        "y": 2754,
+        "y": 2742,
         "w": 390,
-        "h": 144
+        "h": 132
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -188,7 +188,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2898,
+        "y": 2874,
         "w": 390,
         "h": 64
       },

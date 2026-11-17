@@ -2,36 +2,31 @@
   "url": "http://localhost:3000/shop",
   "status": 200,
   "errors": [
-    "404 http://localhost:3000/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/f736c5e11c66.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/81027d6b0ffd.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/8c126de7871f.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "404 http://localhost:3000/scdemos/tide/media/1103581e628f.webp?width=400&format=webply&optimize=medium",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    "401 https://content.da.live/scdemos/tide/media/09e321f03590.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/ae8aba54bc5d.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/905acb2444f1.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/81027d6b0ffd.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/1103581e628f.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/f736c5e11c66.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/8c126de7871f.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/54dac5b12334.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "401 https://content.da.live/scdemos/tide/media/b7642b081649.webp?width=400&format=webply&optimize=medium",
+    "Failed to load resource: the server responded with a status of 401 ()"
   ],
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 2217,
+  "height": 1767,
   "header": {
     "box": {
       "x": 0,
@@ -56,11 +51,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]
@@ -70,15 +63,15 @@
       "x": 0,
       "y": 1379,
       "w": 1440,
-      "h": 837
+      "h": 388
     },
-    "bg": "rgb(251, 76, 6)",
+    "bg": "rgb(255, 255, 255)",
     "tone": "light",
     "bleed": true,
     "layout": {
-      "align": "center",
-      "left": 12,
-      "width": 76
+      "align": "start",
+      "left": 8,
+      "width": 83
     },
     "carousel": false,
     "texts": [
@@ -117,7 +110,7 @@
     "images": 0,
     "forms": 0,
     "inputs": [],
-    "columns": 2
+    "columns": 11
   },
   "sections": [
     {

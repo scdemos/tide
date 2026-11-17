@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Do Laundry: Your Comprehensive Guide | Tide",
-  "height": 30743,
+  "height": 30781,
   "header": {
     "box": {
       "x": 0,
@@ -24,17 +24,17 @@
       "h": 40,
       "centered": false
     },
-    "hiddenLinks": 52,
+    "hiddenLinks": 53,
     "items": [
       "Open navigation",
       "Search",
-      "Search"
+      "Submit Search"
     ]
   },
   "footer": {
     "box": {
       "x": 0,
-      "y": 30083,
+      "y": 30122,
       "w": 390,
       "h": 659
     },
@@ -120,7 +120,7 @@
         "x": 0,
         "y": 503,
         "w": 390,
-        "h": 29581
+        "h": 29619
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",

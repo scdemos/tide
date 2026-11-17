@@ -2,22 +2,17 @@
   "url": "http://localhost:3000/rewards/loyalty/terms-and-conditions",
   "status": 200,
   "errors": [
-    "404 http://localhost:3000/blocks/activities/activities.js",
-    "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "failed to load module for activities TypeError: Failed to fetch dynamically imported module: http://localhost:3000/blocks/activities/activities.js",
     "404 http://localhost:3000/blocks/activities/activities.css",
     "Failed to load resource: the server responded with a status of 404 (Not Found)",
-    "failed to load block activities Event"
+    "failed to load block activities Event",
+    "404 http://localhost:3000/blocks/activities/activities.js",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "failed to load module for activities TypeError: Failed to fetch dynamically imported module: http://localhost:3000/blocks/activities/activities.js"
   ],
   "theme": "light",
   "declaredScheme": "light",
   "bodyBg": "rgb(255, 255, 255)",
-  "lowContrast": [
-    {
-      "t": "SIGN IN",
-      "ratio": 1
-    }
-  ],
+  "lowContrast": [],
   "title": "Loyalty Program Terms and Conditions | Tide",
   "height": 14494,
   "header": {
@@ -44,11 +39,9 @@
       "WHAT’S NEW",
       "COUPONS AND DEALS",
       "Search",
-      "Search",
+      "Submit Search",
       "SIGN IN",
-      "P&G",
-      "Downy",
-      "Bounce",
+      "SKIP TO CONTENT",
       "Contact Us",
       "US - English"
     ]
@@ -695,7 +688,7 @@
     {
       "box": {
         "x": 0,
-        "y": 11615,
+        "y": 11647,
         "w": 1440,
         "h": 268
       },
