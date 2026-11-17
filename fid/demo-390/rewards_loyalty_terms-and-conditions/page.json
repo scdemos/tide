@@ -17,16 +17,16 @@
     },
     "bg": "rgb(255, 255, 255)",
     "rows": 0,
-    "sticky": false,
+    "sticky": true,
     "logo": {
-      "x": 106,
+      "x": 145,
       "w": 100,
       "h": 40,
-      "centered": false
+      "centered": true
     },
     "hiddenLinks": 53,
     "items": [
-      "Open navigation",
+      "Navigation menu",
       "Search",
       "Submit Search"
     ]

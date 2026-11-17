@@ -203,7 +203,8 @@ function addCarousel(block) {
   const prev = createTag('button', { type: 'button', class: 'cards-carousel-arrow cards-carousel-prev', 'aria-label': 'Previous slide' });
   const next = createTag('button', { type: 'button', class: 'cards-carousel-arrow cards-carousel-next', 'aria-label': 'Next slide' });
   const dots = createTag('div', { class: 'cards-carousel-dots' });
-  const goTo = (i) => list.scrollTo({ left: i * stepWidth(), behavior: 'smooth' });
+  // touch devices jump to the next card (swiping is the main gesture there); pointer devices animate
+  const goTo = (i) => list.scrollTo({ left: i * stepWidth(), behavior: window.matchMedia('(hover: none)').matches ? 'auto' : 'smooth' });
   const current = () => Math.round(list.scrollLeft / stepWidth());
   const sync = () => {
     const at = Math.min(current(), pages() - 1);

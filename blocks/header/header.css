@@ -1757,9 +1757,7 @@ header .nav-layout-stacked nav .nav-tools a.button.nav-auth-link:any-link {
   /* only the skip link stays reachable on small screens */
   header .nav-layout-stacked nav .nav-utility {
     position: absolute;
-    width: 0;
-    height: 0;
-    overflow: hidden;
+    left: -10000px;
   }
 
   header .nav-layout-stacked nav .nav-utility > div:last-child,

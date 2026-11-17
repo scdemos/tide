@@ -11,7 +11,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -65,8 +65,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -102,7 +102,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -156,8 +156,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -198,7 +198,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -252,8 +252,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -294,7 +294,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -324,7 +324,7 @@
       {
         "name": "media",
         "ok": true,
-        "detail": "32 → 30 (needs ≥ 90%)"
+        "detail": "32 → 32 (needs ≥ 90%)"
       },
       {
         "name": "text",
@@ -348,8 +348,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -390,7 +390,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -400,7 +400,7 @@
       {
         "name": "section count",
         "ok": true,
-        "detail": "2 → 5 (needs ≥ 50%)"
+        "detail": "2 → 4 (needs ≥ 50%)"
       },
       {
         "name": "headings",
@@ -425,7 +425,7 @@
       {
         "name": "text",
         "ok": false,
-        "detail": "5506 → 3472 chars (needs ≥ 80%)"
+        "detail": "5506 → 3453 chars (needs ≥ 80%)"
       },
       {
         "name": "color scheme",
@@ -444,8 +444,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -460,12 +460,12 @@
       {
         "name": "layout",
         "ok": false,
-        "detail": "#0 \"how to remove stains\" columns 3 → 1 · #1 \"stain removal guide\" light → dark background · #1 \"stain removal guide\" columns 3 → 1"
+        "detail": "#0 \"how to remove stains\" columns 3 → 1"
       },
       {
         "name": "provenance",
         "ok": false,
-        "detail": "4/54 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\""
+        "detail": "4/53 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\""
       },
       {
         "name": "review",
@@ -486,7 +486,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -540,8 +540,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -582,7 +582,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -636,8 +636,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -678,7 +678,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -732,8 +732,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -774,7 +774,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -828,8 +828,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -870,7 +870,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -924,8 +924,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -966,7 +966,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -1020,8 +1020,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",
@@ -1062,7 +1062,7 @@
       {
         "name": "header items",
         "ok": false,
-        "detail": "missing: skip to content, navigation menu"
+        "detail": "missing: skip to content"
       },
       {
         "name": "footer links",
@@ -1116,8 +1116,8 @@
       },
       {
         "name": "header layout",
-        "ok": false,
-        "detail": "logo centered → left · sticky true → false"
+        "ok": true,
+        "detail": "height 61px, 2 rows, logo centered"
       },
       {
         "name": "carousels",

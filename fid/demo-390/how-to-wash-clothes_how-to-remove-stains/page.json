@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 7971,
+  "height": 7775,
   "header": {
     "box": {
       "x": 0,
@@ -17,16 +17,16 @@
     },
     "bg": "rgb(255, 255, 255)",
     "rows": 0,
-    "sticky": false,
+    "sticky": true,
     "logo": {
-      "x": 106,
+      "x": 145,
       "w": 100,
       "h": 40,
-      "centered": false
+      "centered": true
     },
     "hiddenLinks": 53,
     "items": [
-      "Open navigation",
+      "Navigation menu",
       "Search",
       "Submit Search"
     ]
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 7186,
+      "y": 6990,
       "w": 390,
       "h": 785
     },
@@ -123,10 +123,10 @@
         "x": 0,
         "y": 989,
         "w": 390,
-        "h": 674
+        "h": 3454
       },
-      "bg": "rgb(27, 51, 146)",
-      "tone": "dark",
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
@@ -166,44 +166,15 @@
       "textChars": 658,
       "links": 2,
       "buttons": 76,
-      "images": 0,
-      "forms": 0,
-      "inputs": [],
-      "columns": 1
-    },
-    {
-      "box": {
-        "x": 0,
-        "y": 1663,
-        "w": 390,
-        "h": 2976
-      },
-      "bg": "rgb(255, 255, 255)",
-      "tone": "light",
-      "bleed": true,
-      "layout": {
-        "align": "start",
-        "left": 8,
-        "width": 83
-      },
-      "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [
-        "H2: Stain removal guide"
-      ],
-      "textChars": 19,
-      "links": 0,
-      "buttons": 0,
       "images": 12,
       "forms": 0,
       "inputs": [],
-      "columns": 1
+      "columns": 2
     },
     {
       "box": {
         "x": 0,
-        "y": 4639,
+        "y": 4444,
         "w": 390,
         "h": 2482
       },
@@ -260,7 +231,7 @@
     {
       "box": {
         "x": 0,
-        "y": 7122,
+        "y": 6926,
         "w": 390,
         "h": 64
       },

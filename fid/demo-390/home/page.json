@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "Laundry Detergent and Fabric Care Products - Tide",
-  "height": 6127,
+  "height": 6152,
   "header": {
     "box": {
       "x": 0,
@@ -17,16 +17,16 @@
     },
     "bg": "rgb(255, 255, 255)",
     "rows": 0,
-    "sticky": false,
+    "sticky": true,
     "logo": {
-      "x": 106,
+      "x": 145,
       "w": 100,
       "h": 40,
-      "centered": false
+      "centered": true
     },
     "hiddenLinks": 53,
     "items": [
-      "Open navigation",
+      "Navigation menu",
       "Search",
       "Submit Search"
     ]
@@ -34,7 +34,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 5342,
+      "y": 5366,
       "w": 390,
       "h": 785
     },
@@ -189,7 +189,7 @@
         "x": 0,
         "y": 1806,
         "w": 390,
-        "h": 517
+        "h": 541
       },
       "bg": "rgb(255, 255, 255)",
       "tone": "light",
@@ -222,7 +222,7 @@
     {
       "box": {
         "x": 0,
-        "y": 2323,
+        "y": 2347,
         "w": 390,
         "h": 822
       },
@@ -257,7 +257,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3145,
+        "y": 3169,
         "w": 390,
         "h": 674
       },
@@ -310,7 +310,7 @@
     {
       "box": {
         "x": 0,
-        "y": 3819,
+        "y": 3843,
         "w": 390,
         "h": 520
       },
@@ -343,7 +343,7 @@
     {
       "box": {
         "x": 0,
-        "y": 4338,
+        "y": 4363,
         "w": 390,
         "h": 939
       },
@@ -376,7 +376,7 @@
     {
       "box": {
         "x": 0,
-        "y": 5310,
+        "y": 5302,
         "w": 390,
         "h": 64
       },

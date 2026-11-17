@@ -7,7 +7,7 @@
   "bodyBg": "rgb(255, 255, 255)",
   "lowContrast": [],
   "title": "How to Remove Stains - Stain Removal Guide | Tide",
-  "height": 7337,
+  "height": 7097,
   "header": {
     "box": {
       "x": 0,
@@ -42,7 +42,7 @@
   "footer": {
     "box": {
       "x": 0,
-      "y": 6903,
+      "y": 6662,
       "w": 1440,
       "h": 434
     },
@@ -131,10 +131,10 @@
         "x": 0,
         "y": 1443,
         "w": 1440,
-        "h": 619
+        "h": 3329
       },
-      "bg": "rgb(27, 51, 146)",
-      "tone": "dark",
+      "bg": "rgb(255, 255, 255)",
+      "tone": "light",
       "bleed": true,
       "layout": {
         "align": "start",
@@ -174,44 +174,15 @@
       "textChars": 658,
       "links": 2,
       "buttons": 76,
-      "images": 0,
-      "forms": 0,
-      "inputs": [],
-      "columns": 1
-    },
-    {
-      "box": {
-        "x": 0,
-        "y": 2062,
-        "w": 1440,
-        "h": 2951
-      },
-      "bg": "rgb(255, 255, 255)",
-      "tone": "light",
-      "bleed": true,
-      "layout": {
-        "align": "start",
-        "left": 8,
-        "width": 83
-      },
-      "carousel": false,
-      "texts": [],
-      "labels": [],
-      "headings": [
-        "H2: Stain removal guide"
-      ],
-      "textChars": 19,
-      "links": 0,
-      "buttons": 0,
       "images": 12,
       "forms": 0,
       "inputs": [],
-      "columns": 2
+      "columns": 3
     },
     {
       "box": {
         "x": 0,
-        "y": 5013,
+        "y": 4772,
         "w": 1440,
         "h": 1826
       },
@@ -268,7 +239,7 @@
     {
       "box": {
         "x": 0,
-        "y": 6839,
+        "y": 6598,
         "w": 1440,
         "h": 64
       },

@@ -1,7 +1,7 @@
 {
   "complete": false,
-  "iteration": 8,
-  "at": "2026-11-17T17:38:26.885Z",
+  "iteration": 9,
+  "at": "2026-11-17T17:47:58.648Z",
   "original": "https://tide.com/en-us",
   "demo": "http://localhost:3000",
   "pages": [
@@ -34,7 +34,7 @@
           "width": 1440,
           "check": "layout",
           "column": "design",
-          "detail": "#3 \"see what we ve been working on\" columns 1 → 6 · #3 \"see what we ve been working on\" text width 79% → 110% · #5 \"find the right tide product fo\" columns 3 → 7 · #8 \"learn more\" columns 1 → 3",
+          "detail": "#3 \"see what we ve been working on\" columns 1 → 4 · #3 \"see what we ve been working on\" text width 79% → 110% · #5 \"find the right tide product fo\" columns 3 → 7 · #8 \"learn more\" columns 1 → 3",
           "evidence": "fid/fidelity-1440.html#home"
         },
         {
@@ -55,7 +55,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#home"
         },
         {
@@ -70,13 +70,6 @@
           "check": "text",
           "column": "content",
           "detail": "3009 → 1768 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#home"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
           "evidence": "fid/fidelity-390.html#home"
         },
         {
@@ -121,7 +114,7 @@
         "look & feel": "fail",
         "functionality": "fail"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/shop",
@@ -159,7 +152,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#shop"
         },
         {
@@ -185,13 +178,6 @@
         },
         {
           "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
-          "evidence": "fid/fidelity-390.html#shop"
-        },
-        {
-          "width": 390,
           "check": "layout",
           "column": "design",
           "detail": "#0 \"shop tide products\" text width 45% → 83%",
@@ -211,7 +197,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/shop/type/laundry-pods",
@@ -256,7 +242,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
         },
         {
@@ -289,13 +275,6 @@
         },
         {
           "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
-          "evidence": "fid/fidelity-390.html#shop_type_laundry-pods"
-        },
-        {
-          "width": 390,
           "check": "layout",
           "column": "design",
           "detail": "#1 \"why shop laundry detergent pac\" columns 3 → 1",
@@ -315,7 +294,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/our-commitment",
@@ -339,7 +318,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#our-commitment"
         },
         {
@@ -347,13 +326,6 @@
           "check": "buttons",
           "column": "content",
           "detail": "1 → 0 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#our-commitment"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
           "evidence": "fid/fidelity-390.html#our-commitment"
         },
         {
@@ -370,7 +342,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/our-commitment/tide-evo",
@@ -422,7 +394,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
         },
         {
@@ -437,13 +409,6 @@
           "check": "media",
           "column": "content",
           "detail": "9 → 6 (needs ≥ 90%)",
-          "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
           "evidence": "fid/fidelity-390.html#our-commitment_tide-evo"
         },
         {
@@ -481,7 +446,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/how-to-wash-clothes",
@@ -512,7 +477,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes"
         },
         {
@@ -520,13 +485,6 @@
           "check": "media",
           "column": "content",
           "detail": "10 → 8 (needs ≥ 90%)",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes"
         },
         {
@@ -543,7 +501,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/how-to-wash-clothes/how-to-remove-stains",
@@ -567,21 +525,21 @@
           "width": 1440,
           "check": "text",
           "column": "content",
-          "detail": "5506 → 3472 chars (needs ≥ 80%)",
+          "detail": "5506 → 3453 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
           "width": 1440,
           "check": "layout",
           "column": "design",
-          "detail": "#0 \"how to remove stains\" columns 5 → 1 · #0 \"how to remove stains\" text width 45% → 83% · #1 \"stain removal guide\" light → dark background · #1 \"stain removal guide\" columns 11 → 1",
+          "detail": "#0 \"how to remove stains\" columns 5 → 1 · #0 \"how to remove stains\" text width 45% → 83% · #1 \"stain removal guide\" columns 11 → 3",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
           "width": 1440,
           "check": "provenance",
           "column": "content",
-          "detail": "4/54 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\"",
+          "detail": "4/53 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\"",
           "evidence": "fid/fidelity-1440.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
@@ -595,7 +553,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
@@ -616,28 +574,21 @@
           "width": 390,
           "check": "text",
           "column": "content",
-          "detail": "5506 → 3472 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
+          "detail": "5506 → 3453 chars (needs ≥ 80%)",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
           "width": 390,
           "check": "layout",
           "column": "design",
-          "detail": "#0 \"how to remove stains\" columns 3 → 1 · #1 \"stain removal guide\" light → dark background · #1 \"stain removal guide\" columns 3 → 1",
+          "detail": "#0 \"how to remove stains\" columns 3 → 1",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
           "width": 390,
           "check": "provenance",
           "column": "content",
-          "detail": "4/54 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\"",
+          "detail": "4/53 text blocks not on the original: \"Can’t find the right stain?\" · \"Clay, soil or dirt stains\" · \"Can’t find the right stain?\" · \"Blood or Grass stains\"",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-remove-stains"
         },
         {
@@ -654,7 +605,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/how-to-wash-clothes/how-to-do-laundry",
@@ -692,7 +643,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry"
         },
         {
@@ -700,13 +651,6 @@
           "check": "buttons",
           "column": "content",
           "detail": "3 → 1 (visible CTAs, needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
           "evidence": "fid/fidelity-390.html#how-to-wash-clothes_how-to-do-laundry"
         },
         {
@@ -737,7 +681,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/latest-news",
@@ -754,7 +698,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#latest-news"
         },
         {
@@ -762,13 +706,6 @@
           "check": "text",
           "column": "content",
           "detail": "1958 → 1473 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#latest-news"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
           "evidence": "fid/fidelity-390.html#latest-news"
         },
         {
@@ -785,7 +722,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/rewards",
@@ -816,7 +753,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#rewards"
         },
         {
@@ -824,13 +761,6 @@
           "check": "text",
           "column": "content",
           "detail": "866 → 671 chars (needs ≥ 80%)",
-          "evidence": "fid/fidelity-390.html#rewards"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
           "evidence": "fid/fidelity-390.html#rewards"
         },
         {
@@ -854,7 +784,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 7
+      "rounds": 8
     },
     {
       "original": "/contact-us",
@@ -871,14 +801,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
-          "evidence": "fid/fidelity-390.html#contact-us"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#contact-us"
         },
         {
@@ -895,7 +818,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     },
     {
       "original": "/rewards/loyalty/terms-and-conditions",
@@ -926,14 +849,7 @@
           "width": 390,
           "check": "header items",
           "column": "design",
-          "detail": "missing: skip to content, navigation menu",
-          "evidence": "fid/fidelity-390.html#rewards_loyalty_terms-and-conditions"
-        },
-        {
-          "width": 390,
-          "check": "header layout",
-          "column": "design",
-          "detail": "logo centered → left · sticky true → false",
+          "detail": "missing: skip to content",
           "evidence": "fid/fidelity-390.html#rewards_loyalty_terms-and-conditions"
         },
         {
@@ -957,7 +873,7 @@
         "look & feel": "fail",
         "functionality": "pass"
       },
-      "rounds": 6
+      "rounds": 7
     }
   ]
 }
